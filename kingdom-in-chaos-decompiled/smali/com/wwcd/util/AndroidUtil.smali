@@ -609,76 +609,13 @@
 .end method
 
 .method public static getSignatureMd5(Landroid/content/Context;)Ljava/lang/String;
-    .locals 6
+    .locals 1
     .param p0, "context"    # Landroid/content/Context;
 
     .prologue
-    .line 92
-    :try_start_0
-    invoke-virtual {p0}, Landroid/content/Context;->getPackageManager()Landroid/content/pm/PackageManager;
+    const-string v0, "e3642530816912682978ad8c491ccbe7"
 
-    move-result-object v3
-
-    invoke-virtual {p0}, Landroid/content/Context;->getPackageName()Ljava/lang/String;
-
-    move-result-object v4
-
-    const/16 v5, 0x40
-
-    invoke-virtual {v3, v4, v5}, Landroid/content/pm/PackageManager;->getPackageInfo(Ljava/lang/String;I)Landroid/content/pm/PackageInfo;
-
-    move-result-object v1
-
-    .line 94
-    .local v1, "pinfo":Landroid/content/pm/PackageInfo;
-    iget-object v3, v1, Landroid/content/pm/PackageInfo;->signatures:[Landroid/content/pm/Signature;
-
-    array-length v3, v3
-
-    if-nez v3, :cond_0
-
-    .line 95
-    const-string v2, ""
-
-    .line 101
-    .end local v1    # "pinfo":Landroid/content/pm/PackageInfo;
-    :goto_0
-    return-object v2
-
-    .line 97
-    .restart local v1    # "pinfo":Landroid/content/pm/PackageInfo;
-    :cond_0
-    iget-object v3, v1, Landroid/content/pm/PackageInfo;->signatures:[Landroid/content/pm/Signature;
-
-    const/4 v4, 0x0
-
-    aget-object v3, v3, v4
-
-    invoke-virtual {v3}, Landroid/content/pm/Signature;->toByteArray()[B
-
-    move-result-object v3
-
-    invoke-static {v3}, Lcom/wwcd/util/MD5;->getMD5([B)Ljava/lang/String;
-    :try_end_0
-    .catch Landroid/content/pm/PackageManager$NameNotFoundException; {:try_start_0 .. :try_end_0} :catch_0
-
-    move-result-object v2
-
-    .local v2, "signature":Ljava/lang/String;
-    goto :goto_0
-
-    .line 98
-    .end local v1    # "pinfo":Landroid/content/pm/PackageInfo;
-    .end local v2    # "signature":Ljava/lang/String;
-    :catch_0
-    move-exception v0
-
-    .line 99
-    .local v0, "e1":Landroid/content/pm/PackageManager$NameNotFoundException;
-    const-string v2, ""
-
-    .restart local v2    # "signature":Ljava/lang/String;
-    goto :goto_0
+    return-object v0
 .end method
 
 .method public static getVersionCode(Landroid/app/Activity;I)I

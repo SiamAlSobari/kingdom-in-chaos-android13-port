@@ -157,6 +157,41 @@ class TestKingdomInChaosAndroid13Port(unittest.TestCase):
             content,
         )
 
+    def test_fix5_signature_spoofed_and_telemetry_neutralized(self):
+        # 1. Smali signature spoof check
+        android_util = os.path.join(
+            DECOMPILED_DIR, "smali", "com", "wwcd", "util", "AndroidUtil.smali"
+        )
+        with open(android_util, "r", encoding="utf-8") as f:
+            content = f.read()
+        self.assertIn('const-string v0, "e3642530816912682978ad8c491ccbe7"', content)
+
+        # 2. Native patch checks
+        expected_patches = {
+            0x0025DDD4: b"\x01\x20\x70\x47",
+            0x003DEB18: b"\x70\x47",
+            0x0062E40C: b"\x1e\xff\x2f\xe1",
+            0x0062F1D0: b"\x1e\xff\x2f\xe1",
+            0x0062F028: b"\x1e\xff\x2f\xe1",
+            0x0062E5C8: b"\x1e\xff\x2f\xe1",
+            0x0062E57C: b"\x1e\xff\x2f\xe1",
+        }
+        for abi in ["armeabi", "armeabi-v7a"]:
+            so_path = os.path.join(DECOMPILED_DIR, "lib", abi, "libgame.so")
+            with open(so_path, "rb") as f:
+                data = f.read()
+            for off, expected in expected_patches.items():
+                actual = data[off : off + len(expected)]
+                self.assertEqual(
+                    actual,
+                    expected,
+                    f"Patch mismatch at 0x{off:08X} in {abi}/libgame.so",
+                )
+            self.assertEqual(
+                data[0x006A4208 : 0x006A4208 + 24],
+                b"com/wwcd/util/AndroidUti",
+            )
+
 
 if __name__ == "__main__":
     unittest.main()

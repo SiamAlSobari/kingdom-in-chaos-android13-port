@@ -302,6 +302,57 @@ def patch_renderer_lifecycle():
     print("Patched Cocos2dxRenderer lifecycle guards")
 
 
+def patch_signature_and_telemetry():
+    """Spoofs signature check in AndroidUtil.smali and neutralizes signature/telemetry checks in libgame.so."""
+    # 1. Smali patch: AndroidUtil.getSignatureMd5 returns the original hardcoded MD5
+    android_util_smali = os.path.join(
+        DECOMPILED_DIR, "smali", "com", "wwcd", "util", "AndroidUtil.smali"
+    )
+    with open(android_util_smali, "r", encoding="utf-8") as f:
+        text = f.read()
+
+    sig_method_pattern = re.compile(
+        r"\.method public static getSignatureMd5\(Landroid/content/Context;\)Ljava/lang/String;.*?"
+        r"\.end method",
+        re.DOTALL,
+    )
+    spoofed_sig = """.method public static getSignatureMd5(Landroid/content/Context;)Ljava/lang/String;
+    .locals 1
+    .param p0, "context"    # Landroid/content/Context;
+
+    .prologue
+    const-string v0, "e3642530816912682978ad8c491ccbe7"
+
+    return-object v0
+.end method"""
+    text = sig_method_pattern.sub(spoofed_sig, text)
+    with open(android_util_smali, "w", encoding="utf-8", newline="\n") as f:
+        f.write(text)
+    print("Patched AndroidUtil.getSignatureMd5 with original APK MD5")
+
+    # 2. Native patch: libgame.so (both armeabi and armeabi-v7a)
+    patch_map = {
+        0x0025DDD4: b"\x01\x20\x70\x47",  # verify (Thumb): movs r0, #1; bx lr
+        0x003DEB18: b"\x70\x47",  # DHHttpHelper::login (Thumb): bx lr
+        0x0062E40C: b"\x1e\xff\x2f\xe1",  # MobClickCpp::startWithAppkey (ARM): bx lr
+        0x0062F1D0: b"\x1e\xff\x2f\xe1",  # MobClickCpp::updateOnlineConfig (ARM): bx lr
+        0x0062F028: b"\x1e\xff\x2f\xe1",  # MobClickCpp::checkUpdate (ARM): bx lr
+        0x0062E5C8: b"\x1e\xff\x2f\xe1",  # MobClickCpp::applicationDidEnterBackground (ARM): bx lr
+        0x0062E57C: b"\x1e\xff\x2f\xe1",  # MobClickCpp::applicationWillEnterForeground (ARM): bx lr
+    }
+    lib_dir = os.path.join(DECOMPILED_DIR, "lib")
+    for abi in ["armeabi", "armeabi-v7a"]:
+        so_path = os.path.join(lib_dir, abi, "libgame.so")
+        if os.path.exists(so_path):
+            with open(so_path, "rb") as f:
+                data = bytearray(f.read())
+            for off, patch in patch_map.items():
+                data[off : off + len(patch)] = patch
+            with open(so_path, "wb") as f:
+                f.write(data)
+            print(f"Patched native signature and telemetry in {abi}/libgame.so")
+
+
 def build_and_sign():
     ensure_keystore()
     for tmp in (UNSIGNED_APK, ALIGNED_APK, OUTPUT_APK):
@@ -362,6 +413,8 @@ def main():
     patch_floatmath()
     print("Applying Fix 4: Guard Cocos2dxRenderer GL lifecycle...")
     patch_renderer_lifecycle()
+    print("Applying Fix 5: Patch signature verification and telemetry bypass...")
+    patch_signature_and_telemetry()
     print("Building and signing compatible APK...")
     build_and_sign()
 
