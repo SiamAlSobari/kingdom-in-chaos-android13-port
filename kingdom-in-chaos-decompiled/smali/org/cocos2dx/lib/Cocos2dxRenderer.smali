@@ -7,6 +7,7 @@
 
 
 # static fields
+.field public static sNativeInitDone:Z
 .field private static final NANOSECONDSPERMICROSECOND:J = 0xf4240L
 
 .field private static final NANOSECONDSPERSECOND:J = 0x3b9aca00L
@@ -149,6 +150,10 @@
     iget-object v3, p0, Lorg/cocos2dx/lib/Cocos2dxRenderer;->_glSurfaceView:Landroid/opengl/GLSurfaceView;
 
     invoke-static {p1, p2, v2, v3}, Lorg/cocos2dx/lib/Cocos2dxRenderer;->nativeInit(IILandroid/content/Context;Landroid/opengl/GLSurfaceView;)V
+
+    const/4 v2, 0x1
+
+    sput-boolean v2, Lorg/cocos2dx/lib/Cocos2dxRenderer;->sNativeInitDone:Z
 
     .line 97
     return-void
@@ -296,9 +301,16 @@
 .end method
 
 .method public handleOnPause()V
-    .locals 0
+    .locals 1
 
     .prologue
+    sget-boolean v0, Lorg/cocos2dx/lib/Cocos2dxRenderer;->sNativeInitDone:Z
+
+    if-nez v0, :cond_native_pause_ok
+
+    return-void
+
+    :cond_native_pause_ok
     .line 181
     invoke-static {}, Lorg/cocos2dx/lib/Cocos2dxRenderer;->nativeOnPause()V
 
@@ -307,9 +319,16 @@
 .end method
 
 .method public handleOnResume()V
-    .locals 0
+    .locals 1
 
     .prologue
+    sget-boolean v0, Lorg/cocos2dx/lib/Cocos2dxRenderer;->sNativeInitDone:Z
+
+    if-nez v0, :cond_native_resume_ok
+
+    return-void
+
+    :cond_native_resume_ok
     .line 185
     invoke-static {}, Lorg/cocos2dx/lib/Cocos2dxRenderer;->nativeOnResume()V
 
@@ -322,6 +341,13 @@
     .param p1, "gl"    # Ljavax/microedition/khronos/opengles/GL10;
 
     .prologue
+    sget-boolean v4, Lorg/cocos2dx/lib/Cocos2dxRenderer;->sNativeInitDone:Z
+
+    if-nez v4, :cond_native_draw_ok
+
+    return-void
+
+    :cond_native_draw_ok
     .line 127
     sget-wide v4, Lorg/cocos2dx/lib/Cocos2dxRenderer;->sAnimationInterval:J
 

@@ -137,6 +137,26 @@ class TestKingdomInChaosAndroid13Port(unittest.TestCase):
         )
         self.assertIn(".method private static ceilFloat(F)F", content)
 
+    def test_fix4_cocos2dx_renderer_lifecycle_guards(self):
+        renderer_smali = os.path.join(
+            DECOMPILED_DIR, "smali", "org", "cocos2dx", "lib", "Cocos2dxRenderer.smali"
+        )
+        with open(renderer_smali, "r", encoding="utf-8") as f:
+            content = f.read()
+        self.assertIn(".field public static sNativeInitDone:Z", content)
+        self.assertIn(
+            "sput-boolean v2, Lorg/cocos2dx/lib/Cocos2dxRenderer;->sNativeInitDone:Z",
+            content,
+        )
+        self.assertIn(
+            "sget-boolean v0, Lorg/cocos2dx/lib/Cocos2dxRenderer;->sNativeInitDone:Z",
+            content,
+        )
+        self.assertIn(
+            "sget-boolean v4, Lorg/cocos2dx/lib/Cocos2dxRenderer;->sNativeInitDone:Z",
+            content,
+        )
+
 
 if __name__ == "__main__":
     unittest.main()

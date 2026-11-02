@@ -186,6 +186,122 @@ def patch_floatmath():
     print("Patched FloatMath in Cocos2dxBitmap.smali")
 
 
+def patch_renderer_lifecycle():
+    """Guards Cocos2dxRenderer against premature pause/draw calls on modern Android before nativeInit completes."""
+    renderer_smali = os.path.join(
+        DECOMPILED_DIR, "smali", "org", "cocos2dx", "lib", "Cocos2dxRenderer.smali"
+    )
+    with open(renderer_smali, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    # Add sNativeInitDone field
+    if ".field public static sNativeInitDone:Z" not in content:
+        content = content.replace(
+            "# static fields",
+            "# static fields\n.field public static sNativeInitDone:Z",
+        )
+
+    # Set sNativeInitDone = true in nativeStart
+    if "sput-boolean v2, Lorg/cocos2dx/lib/Cocos2dxRenderer;->sNativeInitDone:Z" not in content:
+        target = "invoke-static {p1, p2, v2, v3}, Lorg/cocos2dx/lib/Cocos2dxRenderer;->nativeInit(IILandroid/content/Context;Landroid/opengl/GLSurfaceView;)V\n\n    .line 97\n    return-void"
+        replacement = (
+            "invoke-static {p1, p2, v2, v3}, Lorg/cocos2dx/lib/Cocos2dxRenderer;->nativeInit(IILandroid/content/Context;Landroid/opengl/GLSurfaceView;)V\n\n"
+            "    const/4 v2, 0x1\n\n"
+            "    sput-boolean v2, Lorg/cocos2dx/lib/Cocos2dxRenderer;->sNativeInitDone:Z\n\n"
+            "    .line 97\n    return-void"
+        )
+        content = content.replace(target, replacement)
+
+    # Guard handleOnPause
+    pause_orig = """.method public handleOnPause()V
+    .locals 0
+
+    .prologue
+    .line 181
+    invoke-static {}, Lorg/cocos2dx/lib/Cocos2dxRenderer;->nativeOnPause()V
+
+    .line 182
+    return-void
+.end method"""
+    pause_patched = """.method public handleOnPause()V
+    .locals 1
+
+    .prologue
+    sget-boolean v0, Lorg/cocos2dx/lib/Cocos2dxRenderer;->sNativeInitDone:Z
+
+    if-nez v0, :cond_native_pause_ok
+
+    return-void
+
+    :cond_native_pause_ok
+    .line 181
+    invoke-static {}, Lorg/cocos2dx/lib/Cocos2dxRenderer;->nativeOnPause()V
+
+    .line 182
+    return-void
+.end method"""
+    if pause_orig in content:
+        content = content.replace(pause_orig, pause_patched)
+
+    # Guard handleOnResume
+    resume_orig = """.method public handleOnResume()V
+    .locals 0
+
+    .prologue
+    .line 185
+    invoke-static {}, Lorg/cocos2dx/lib/Cocos2dxRenderer;->nativeOnResume()V
+
+    .line 186
+    return-void
+.end method"""
+    resume_patched = """.method public handleOnResume()V
+    .locals 1
+
+    .prologue
+    sget-boolean v0, Lorg/cocos2dx/lib/Cocos2dxRenderer;->sNativeInitDone:Z
+
+    if-nez v0, :cond_native_resume_ok
+
+    return-void
+
+    :cond_native_resume_ok
+    .line 185
+    invoke-static {}, Lorg/cocos2dx/lib/Cocos2dxRenderer;->nativeOnResume()V
+
+    .line 186
+    return-void
+.end method"""
+    if resume_orig in content:
+        content = content.replace(resume_orig, resume_patched)
+
+    # Guard onDrawFrame
+    draw_orig = """.method public onDrawFrame(Ljavax/microedition/khronos/opengles/GL10;)V
+    .locals 8
+    .param p1, "gl"    # Ljavax/microedition/khronos/opengles/GL10;
+
+    .prologue
+    .line 127"""
+    draw_patched = """.method public onDrawFrame(Ljavax/microedition/khronos/opengles/GL10;)V
+    .locals 8
+    .param p1, "gl"    # Ljavax/microedition/khronos/opengles/GL10;
+
+    .prologue
+    sget-boolean v4, Lorg/cocos2dx/lib/Cocos2dxRenderer;->sNativeInitDone:Z
+
+    if-nez v4, :cond_native_draw_ok
+
+    return-void
+
+    :cond_native_draw_ok
+    .line 127"""
+    if draw_orig in content:
+        content = content.replace(draw_orig, draw_patched)
+
+    with open(renderer_smali, "w", encoding="utf-8", newline="\n") as f:
+        f.write(content)
+    print("Patched Cocos2dxRenderer lifecycle guards")
+
+
 def build_and_sign():
     ensure_keystore()
     for tmp in (UNSIGNED_APK, ALIGNED_APK, OUTPUT_APK):
@@ -244,6 +360,8 @@ def main():
     patch_native_libraries()
     print("Applying Fix 3: Patch FloatMath.ceil in Cocos2dxBitmap...")
     patch_floatmath()
+    print("Applying Fix 4: Guard Cocos2dxRenderer GL lifecycle...")
+    patch_renderer_lifecycle()
     print("Building and signing compatible APK...")
     build_and_sign()
 
