@@ -168,7 +168,7 @@ class TestKingdomInChaosAndroid13Port(unittest.TestCase):
 
         # 2. Native patch checks
         expected_patches = {
-            0x0025DF2A: b"\xc0\x46",
+            0x0025DDD4: bytes.fromhex("10b5024c7c4424680123236010bdc04630585100"),
             0x003DEB18: b"\x70\x47",
             0x0062E40C: b"\x1e\xff\x2f\xe1",
             0x0062F1D0: b"\x1e\xff\x2f\xe1",
