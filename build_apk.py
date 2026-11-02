@@ -118,6 +118,30 @@ def patch_manifest():
         f.write(xml)
 
 
+def patch_native_libraries():
+    """Removes libraries with DT_TEXTREL (which crash on Android 6.0+) and adds armeabi-v7a."""
+    lib_dir = os.path.join(DECOMPILED_DIR, "lib")
+    armeabi_dir = os.path.join(lib_dir, "armeabi")
+    v7a_dir = os.path.join(lib_dir, "armeabi-v7a")
+
+    # Remove obsolete libraries with DT_TEXTREL
+    for bad_lib in ["libbspatch.so", "libgetuiext.so"]:
+        for arch_dir in [armeabi_dir, v7a_dir]:
+            target = os.path.join(arch_dir, bad_lib)
+            if os.path.exists(target):
+                os.remove(target)
+                print(f"Removed TEXTREL library: {target}")
+
+    # Mirror armeabi to armeabi-v7a for modern ARM architectures
+    os.makedirs(v7a_dir, exist_ok=True)
+    for lib_name in ["libgame.so", "libNativeCrash.so"]:
+        src = os.path.join(armeabi_dir, lib_name)
+        dst = os.path.join(v7a_dir, lib_name)
+        if os.path.exists(src) and (not os.path.exists(dst) or os.path.getsize(src) != os.path.getsize(dst)):
+            shutil.copy2(src, dst)
+            print(f"Mirrored {lib_name} to armeabi-v7a")
+
+
 def build_and_sign():
     ensure_keystore()
     for tmp in (UNSIGNED_APK, ALIGNED_APK, OUTPUT_APK):
@@ -172,7 +196,9 @@ def main():
     print("Applying Fix 1: TargetSDK 28 and AndroidManifest modernize...")
     patch_apktool_yml()
     patch_manifest()
-    print("Building and signing initial compatible APK...")
+    print("Applying Fix 2: Remove TEXTREL libraries and mirror armeabi-v7a...")
+    patch_native_libraries()
+    print("Building and signing compatible APK...")
     build_and_sign()
 
 

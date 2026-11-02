@@ -89,6 +89,41 @@ class TestKingdomInChaosAndroid13Port(unittest.TestCase):
         self.assertIn("Verified using v1 scheme (JAR signing): true", sig)
         self.assertIn("Verified using v2 scheme (APK Signature Scheme v2): true", sig)
 
+    def test_fix2_no_textrel_libraries_in_source(self):
+        lib_dir = os.path.join(DECOMPILED_DIR, "lib")
+        for bad_lib in ["libbspatch.so", "libgetuiext.so"]:
+            for root, _, files in os.walk(lib_dir):
+                self.assertNotIn(
+                    bad_lib,
+                    files,
+                    f"Library with TEXTREL {bad_lib} still exists in {root}",
+                )
+
+    def test_fix2_armeabi_and_v7a_exist_and_clean_of_textrel(self):
+        lib_dir = os.path.join(DECOMPILED_DIR, "lib")
+        for abi in ["armeabi", "armeabi-v7a"]:
+            abi_dir = os.path.join(lib_dir, abi)
+            self.assertTrue(os.path.isdir(abi_dir), f"{abi} directory missing")
+            for lib_name in ["libgame.so", "libNativeCrash.so"]:
+                so_path = os.path.join(abi_dir, lib_name)
+                self.assertTrue(os.path.isfile(so_path), f"{lib_name} missing in {abi}")
+                with open(so_path, "rb") as f:
+                    elf = f.read()
+                self.assertFalse(
+                    has_textrel(elf),
+                    f"{lib_name} in {abi} contains DT_TEXTREL, which crashes Android 6.0+",
+                )
+
+    def test_fix2_packaged_apk_native_structure(self):
+        with zipfile.ZipFile(OUTPUT_APK, "r") as zf:
+            namelist = zf.namelist()
+            self.assertIn("lib/armeabi/libgame.so", namelist)
+            self.assertIn("lib/armeabi-v7a/libgame.so", namelist)
+            self.assertIn("lib/armeabi-v7a/libNativeCrash.so", namelist)
+            for name in namelist:
+                self.assertNotIn("libbspatch.so", name)
+                self.assertNotIn("libgetuiext.so", name)
+
 
 if __name__ == "__main__":
     unittest.main()
