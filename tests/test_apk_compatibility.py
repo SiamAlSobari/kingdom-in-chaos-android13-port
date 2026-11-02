@@ -310,6 +310,59 @@ class TestKingdomInChaosAndroid13Port(unittest.TestCase):
         self.assertIn('const-string v0, "02:00:00:00:00:00"', content)
         self.assertNotIn("invoke-virtual {v1}, Landroid/net/wifi/WifiManager;->getConnectionInfo()Landroid/net/wifi/WifiInfo;", content)
 
+    def test_fix14_preload_layer_and_helper_init_safe(self):
+        # 1. Native patches for PreloadLayer
+        expected_preload = {
+            0x00271546: b"\xc7\xe0",
+            0x0027173E: bytes.fromhex("0028cad0"),
+        }
+        for abi in ["armeabi", "armeabi-v7a"]:
+            so_path = os.path.join(DECOMPILED_DIR, "lib", abi, "libgame.so")
+            with open(so_path, "rb") as f:
+                data = f.read()
+            for off, expected in expected_preload.items():
+                actual = data[off : off + len(expected)]
+                self.assertEqual(
+                    actual,
+                    expected,
+                    f"PreloadLayer patch mismatch at 0x{off:08X} in {abi}/libgame.so",
+                )
+
+        # 2. Smali ordering: Cocos2dxHelper.init before Cocos2dxActivity.init
+        activity_path = os.path.join(
+            DECOMPILED_DIR, "smali", "org", "cocos2dx", "lib", "Cocos2dxActivity.smali"
+        )
+        with open(activity_path, "r", encoding="utf-8") as f:
+            act = f.read()
+        helper_idx = act.find("Lorg/cocos2dx/lib/Cocos2dxHelper;->init(")
+        init_idx = act.find("invoke-virtual {p0}, Lorg/cocos2dx/lib/Cocos2dxActivity;->init()V")
+        self.assertNotEqual(helper_idx, -1)
+        self.assertNotEqual(init_idx, -1)
+        self.assertLess(
+            helper_idx,
+            init_idx,
+            "Cocos2dxHelper.init must be called before Cocos2dxActivity.init() to prevent race conditions",
+        )
+
+    def test_fix15_texture_null_guard_and_dhencrypt_key(self):
+        expected_patches = {
+            0x0047B4FC: bytes.fromhex("048d2200"),
+            0x003D8F66: bytes.fromhex("0ce0"),
+            0x00484472: bytes.fromhex("5df6b5b900bf"),
+            0x002E17E0: bytes.fromhex("002801d0383000787047"),
+        }
+        for abi in ["armeabi", "armeabi-v7a"]:
+            so_path = os.path.join(DECOMPILED_DIR, "lib", abi, "libgame.so")
+            with open(so_path, "rb") as f:
+                data = f.read()
+            for off, expected in expected_patches.items():
+                actual = data[off : off + len(expected)]
+                self.assertEqual(
+                    actual,
+                    expected,
+                    f"Texture/DHEncrypt patch mismatch at 0x{off:08X} in {abi}/libgame.so",
+                )
+
 
 if __name__ == "__main__":
     unittest.main()

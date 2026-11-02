@@ -25,6 +25,8 @@ Every fix is fully automated, tested, and tracked in git:
 | **Fix 11** | Defunct Billing Bypass | Neutralized Google In-App Billing v3 service initialization in `DHGooglePaymentManager.smali` and added null-checks to `handleActivityResult` to prevent startup crashes. |
 | **Fix 12** | Scoped Storage Null Guard | Guarded `IOUtil.delete(File)` against unhandled `NullPointerException` when `File.listFiles()` returns `null` on restricted/missing storage paths. |
 | **Fix 13** | Device Identifier Stubs | Stubbed `AndroidUtil.getWIFI`, `getIMEI`, and `getIMSI` to prevent `NullPointerException` (unhandled null `getConnectionInfo()`) and `SecurityException` on Android 10+. |
+| **Fix 14** | Preload & Helper Init Ordering | Reordered `Cocos2dxHelper.init` before GLSurfaceView init in `Cocos2dxActivity.smali` to ensure APK paths are configured before rendering starts. Guarded `PreloadLayer::init` (`0x00271546` & `0x0027173E`) against null sprite dereferences. |
+| **Fix 15** | Asset Decryption & Texture Guard | Initialized `DHEncrypt::_key` with the exact 32-character key (`e3642530816912682978ad8c491ccbe7`) at binary startup (`0x0047B4FC`), bypassed broken dynamic key generation in `AndroidUtil::init` (`0x003D8F66`), and installed a null-guard trampoline in `CCTexture2D::hasPremultipliedAlpha` (`0x00484472` -> `0x002E17E0`) to completely eliminate null texture crashes across all layers. |
 
 ---
 
@@ -40,7 +42,7 @@ Every fix is fully automated, tested, and tracked in git:
 │   │   └── armeabi-v7a/             # Mirrored ARMv7a native libraries
 │   └── smali/                       # Patched Smali bytecode
 ├── tests/
-│   └── test_apk_compatibility.py    # Automated test suite (17 test cases)
+│   └── test_apk_compatibility.py    # Automated test suite (19 test cases)
 └── tools/                           # Apktool, keystore, and build artifacts
 ```
 
@@ -48,7 +50,7 @@ Every fix is fully automated, tested, and tracked in git:
 
 ## 🧪 Verification & Automated Testing
 
-The port includes an automated test suite verifying all 13 compatibility and gameplay fixes:
+The port includes an automated test suite verifying all 15 compatibility and gameplay fixes:
 
 ```powershell
 pytest tests/test_apk_compatibility.py

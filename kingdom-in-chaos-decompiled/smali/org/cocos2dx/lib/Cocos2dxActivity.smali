@@ -415,10 +415,10 @@
     invoke-virtual {p0, v0}, Lorg/cocos2dx/lib/Cocos2dxActivity;->setVolumeControlStream(I)V
 
     .line 82
-    invoke-virtual {p0}, Lorg/cocos2dx/lib/Cocos2dxActivity;->init()V
-
-    .line 84
     invoke-static {p0, p0}, Lorg/cocos2dx/lib/Cocos2dxHelper;->init(Landroid/content/Context;Lorg/cocos2dx/lib/Cocos2dxHelper$Cocos2dxHelperListener;)V
+
+    .line 82
+    invoke-virtual {p0}, Lorg/cocos2dx/lib/Cocos2dxActivity;->init()V
 
     .line 85
     return-void

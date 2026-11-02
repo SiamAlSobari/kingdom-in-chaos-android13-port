@@ -182,6 +182,15 @@ def patch_native_libraries():
         0x002E17DC: b"\x01\x20\x70\x47",  # UserDataManager::isHeroUnlock -> true (1)
         0x0038C03C: b"\x70\x47",  # UITeamLayer::showLocks -> bx lr
         0x002B9AD4: b"\x01\x20\x70\x47",  # PriceManager::payUnlockHero -> true (1)
+        # 6. PreloadLayer::init dhlogo null pointer crash prevention (Thumb)
+        0x00271546: b"\xc7\xe0",  # b #0x2716d8: branch directly to scheduleUpdate/sound preload
+        0x0027173E: bytes.fromhex("0028cad0"),  # cmp r0, #0; beq #0x2716d8: safeguard against null sprite
+        # 7. DHEncrypt key initialization & AndroidUtil bypass
+        0x0047B4FC: bytes.fromhex("048d2200"),  # _GLOBAL__sub_I_DHEncrypt: point key string to "e3642530816912682978ad8c491ccbe7"
+        0x003D8F66: bytes.fromhex("0ce0"),  # AndroidUtil::init: b #0x3d8f82 to skip broken key generation and keep valid key
+        # 8. CCTexture2D::hasPremultipliedAlpha null guard trampoline (Thumb)
+        0x00484472: bytes.fromhex("5df6b5b900bf"),  # b.w #0x2e17e0; nop (trampoline branch)
+        0x002E17E0: bytes.fromhex("002801d0383000787047"),  # cmp r0, #0; beq 0x2e17e8; adds r0, #0x38; ldrb r0, [r0]; bx lr
     }
 
     for off, patch in patch_map.items():
@@ -902,6 +911,31 @@ def patch_android_util():
     print("Patched AndroidUtil getIMEI, getIMSI, and getWIFI stubs")
 
 
+def patch_cocos2dx_activity():
+    """Ensures Cocos2dxHelper.init is called before GLSurfaceView init to prevent race condition during early frame render."""
+    activity_smali = os.path.join(
+        DECOMPILED_DIR, "smali", "org", "cocos2dx", "lib", "Cocos2dxActivity.smali"
+    )
+    with open(activity_smali, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    orig = """    invoke-virtual {p0}, Lorg/cocos2dx/lib/Cocos2dxActivity;->init()V
+
+    .line 84
+    invoke-static {p0, p0}, Lorg/cocos2dx/lib/Cocos2dxHelper;->init(Landroid/content/Context;Lorg/cocos2dx/lib/Cocos2dxHelper$Cocos2dxHelperListener;)V"""
+
+    reordered = """    invoke-static {p0, p0}, Lorg/cocos2dx/lib/Cocos2dxHelper;->init(Landroid/content/Context;Lorg/cocos2dx/lib/Cocos2dxHelper$Cocos2dxHelperListener;)V
+
+    .line 82
+    invoke-virtual {p0}, Lorg/cocos2dx/lib/Cocos2dxActivity;->init()V"""
+
+    if orig in content:
+        content = content.replace(orig, reordered)
+        with open(activity_smali, "w", encoding="utf-8", newline="\n") as f:
+            f.write(content)
+        print("Patched Cocos2dxActivity.smali: Cocos2dxHelper.init called before GLSurfaceView init")
+
+
 def build_and_sign():
     ensure_keystore()
     for tmp in (UNSIGNED_APK, ALIGNED_APK, OUTPUT_APK):
@@ -989,6 +1023,9 @@ def main():
 
     print("Applying Fix 12: Patch AndroidUtil IMEI, IMSI, and WIFI stubs...")
     patch_android_util()
+
+    print("Applying Fix 13: Reorder Cocos2dxHelper.init before GLSurfaceView init...")
+    patch_cocos2dx_activity()
 
     print("Building and signing compatible APK...")
     build_and_sign()
