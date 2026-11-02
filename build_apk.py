@@ -19,7 +19,7 @@ APKSIGNER_BAT = os.path.join(SDK_BUILD_TOOLS, "apksigner.bat")
 UNSIGNED_APK = os.path.join(TOOLS_DIR, "unsigned.apk")
 ALIGNED_APK = os.path.join(TOOLS_DIR, "aligned.apk")
 KEYSTORE_PATH = os.path.join(TOOLS_DIR, "release.keystore")
-OUTPUT_APK = os.path.join(REPO_ROOT, "kingdom-in-chaos-1-0-5-r1.apk")
+OUTPUT_APK = os.path.join(REPO_ROOT, "kingdom-in-chaos-1-0-5-r2.apk")
 
 
 def ensure_keystore():

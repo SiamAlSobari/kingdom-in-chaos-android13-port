@@ -7,7 +7,7 @@ import zipfile
 REPO_ROOT = r"C:\Koding\rea\kingdom"
 DECOMPILED_DIR = os.path.join(REPO_ROOT, "kingdom-in-chaos-decompiled")
 TOOLS_DIR = os.path.join(REPO_ROOT, "tools")
-OUTPUT_APK = os.path.join(REPO_ROOT, "kingdom-in-chaos-1-0-5-r1.apk")
+OUTPUT_APK = os.path.join(REPO_ROOT, "kingdom-in-chaos-1-0-5-r2.apk")
 SDK_BUILD_TOOLS = r"C:\Users\Colorful\AppData\Local\Android\Sdk\build-tools\36.1.0"
 AAPT2_EXE = os.path.join(SDK_BUILD_TOOLS, "aapt2.exe")
 APKSIGNER_BAT = os.path.join(SDK_BUILD_TOOLS, "apksigner.bat")

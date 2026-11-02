@@ -27,7 +27,7 @@ Every fix is fully automated, tested, and tracked in git:
 ```
 ├── build_apk.py                     # Automated build, patch, align, and signing pipeline
 ├── kingdom-in-chaos-1-0-5.apk       # Original APK baseline
-├── kingdom-in-chaos-1-0-5-r1.apk    # Built and signed modern compatible APK
+├── kingdom-in-chaos-1-0-5-r2.apk    # Built and signed modern compatible APK (r2 release)
 ├── kingdom-in-chaos-decompiled/     # Decompiled source (Smali, assets, native libs, AndroidManifest.xml)
 │   ├── lib/
 │   │   ├── armeabi/                 # Cleaned native libraries (libgame.so, libNativeCrash.so)
@@ -71,4 +71,4 @@ To rebuild and sign the APK from source:
 python build_apk.py
 ```
 
-Output: `kingdom-in-chaos-1-0-5-r1.apk` (aligned and signed with v1, v2, and v3 schemes).
+Output: `kingdom-in-chaos-1-0-5-r2.apk` (aligned and signed with v1, v2, and v3 schemes).
