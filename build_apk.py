@@ -332,7 +332,7 @@ def patch_signature_and_telemetry():
 
     # 2. Native patch: libgame.so (both armeabi and armeabi-v7a)
     patch_map = {
-        0x0025DDD4: bytes.fromhex("10b5024c7c4424680123236010bdc04630585100"),  # verify: set flag=1 and return
+        0x0025DDD4: bytes.fromhex("7047" + "c046" * 9),  # verify: bx lr (clean immediate return, zero memory deref)
         0x003DEB18: b"\x70\x47",  # DHHttpHelper::login (Thumb): bx lr
         0x0062E40C: b"\x1e\xff\x2f\xe1",  # MobClickCpp::startWithAppkey (ARM): bx lr
         0x0062F1D0: b"\x1e\xff\x2f\xe1",  # MobClickCpp::updateOnlineConfig (ARM): bx lr
