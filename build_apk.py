@@ -142,6 +142,50 @@ def patch_native_libraries():
             print(f"Mirrored {lib_name} to armeabi-v7a")
 
 
+def patch_floatmath():
+    """Replaces obsolete Android FloatMath.ceil calls with Math.ceil to prevent NoSuchMethodError on Android 6.0+."""
+    bitmap_smali = os.path.join(
+        DECOMPILED_DIR, "smali", "org", "cocos2dx", "lib", "Cocos2dxBitmap.smali"
+    )
+    with open(bitmap_smali, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    helper_method = """
+.method private static ceilFloat(F)F
+    .locals 2
+
+    float-to-double v0, p0
+
+    invoke-static {v0, v1}, Ljava/lang/Math;->ceil(D)D
+
+    move-result-wide v0
+
+    double-to-float v0, v0
+
+    return v0
+.end method
+"""
+    if "ceilFloat(F)F" not in content:
+        content += helper_method
+
+    content = content.replace(
+        "invoke-static {v9}, Landroid/util/FloatMath;->ceil(F)F",
+        "invoke-static {v9}, Lorg/cocos2dx/lib/Cocos2dxBitmap;->ceilFloat(F)F",
+    )
+    content = content.replace(
+        "invoke-static {v6}, Landroid/util/FloatMath;->ceil(F)F",
+        "invoke-static {v6}, Lorg/cocos2dx/lib/Cocos2dxBitmap;->ceilFloat(F)F",
+    )
+    content = content.replace(
+        "invoke-static {v14}, Landroid/util/FloatMath;->ceil(F)F",
+        "invoke-static {v14}, Lorg/cocos2dx/lib/Cocos2dxBitmap;->ceilFloat(F)F",
+    )
+
+    with open(bitmap_smali, "w", encoding="utf-8", newline="\n") as f:
+        f.write(content)
+    print("Patched FloatMath in Cocos2dxBitmap.smali")
+
+
 def build_and_sign():
     ensure_keystore()
     for tmp in (UNSIGNED_APK, ALIGNED_APK, OUTPUT_APK):
@@ -198,6 +242,8 @@ def main():
     patch_manifest()
     print("Applying Fix 2: Remove TEXTREL libraries and mirror armeabi-v7a...")
     patch_native_libraries()
+    print("Applying Fix 3: Patch FloatMath.ceil in Cocos2dxBitmap...")
+    patch_floatmath()
     print("Building and signing compatible APK...")
     build_and_sign()
 

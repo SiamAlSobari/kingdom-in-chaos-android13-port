@@ -124,6 +124,19 @@ class TestKingdomInChaosAndroid13Port(unittest.TestCase):
                 self.assertNotIn("libbspatch.so", name)
                 self.assertNotIn("libgetuiext.so", name)
 
+    def test_fix3_no_floatmath_references(self):
+        bitmap_smali = os.path.join(
+            DECOMPILED_DIR, "smali", "org", "cocos2dx", "lib", "Cocos2dxBitmap.smali"
+        )
+        with open(bitmap_smali, "r", encoding="utf-8") as f:
+            content = f.read()
+        self.assertNotIn(
+            "Landroid/util/FloatMath;",
+            content,
+            "Cocos2dxBitmap still references removed Android FloatMath",
+        )
+        self.assertIn(".method private static ceilFloat(F)F", content)
+
 
 if __name__ == "__main__":
     unittest.main()

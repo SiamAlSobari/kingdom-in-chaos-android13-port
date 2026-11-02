@@ -125,7 +125,7 @@
 
     move-result v9
 
-    invoke-static {v9}, Landroid/util/FloatMath;->ceil(F)F
+    invoke-static {v9}, Lorg/cocos2dx/lib/Cocos2dxBitmap;->ceilFloat(F)F
 
     move-result v9
 
@@ -918,7 +918,7 @@
 
     move-result v6
 
-    invoke-static {v6}, Landroid/util/FloatMath;->ceil(F)F
+    invoke-static {v6}, Lorg/cocos2dx/lib/Cocos2dxBitmap;->ceilFloat(F)F
 
     move-result v6
 
@@ -1609,7 +1609,7 @@
 
     move-result v14
 
-    invoke-static {v14}, Landroid/util/FloatMath;->ceil(F)F
+    invoke-static {v14}, Lorg/cocos2dx/lib/Cocos2dxBitmap;->ceilFloat(F)F
 
     move-result v14
 
@@ -1753,4 +1753,18 @@
     move-object v12, v10
 
     goto :goto_3
+.end method
+
+.method private static ceilFloat(F)F
+    .locals 2
+
+    float-to-double v0, p0
+
+    invoke-static {v0, v1}, Ljava/lang/Math;->ceil(D)D
+
+    move-result-wide v0
+
+    double-to-float v0, v0
+
+    return v0
 .end method
