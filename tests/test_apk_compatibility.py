@@ -212,6 +212,27 @@ class TestKingdomInChaosAndroid13Port(unittest.TestCase):
                 f"DecreaseLife patch mismatch in {abi}/libgame.so",
             )
 
+    def test_fix7_hero_roster_unlocked_and_clean_progression(self):
+        hero_expected = {
+            0x002E17DC: b"\x01\x20\x70\x47",  # isHeroUnlock -> true
+            0x0038C03C: b"\x70\x47",          # showLocks -> nop/return
+            0x002B9AD4: b"\x01\x20\x70\x47",  # payUnlockHero -> free/true
+            0x002E3766: b"\xc0\x46",          # getUnLockHeros -> include all
+        }
+
+        for abi in ["armeabi", "armeabi-v7a"]:
+            so_path = os.path.join(DECOMPILED_DIR, "lib", abi, "libgame.so")
+            with open(so_path, "rb") as f:
+                data = f.read()
+
+            for off, expected in hero_expected.items():
+                actual = data[off : off + len(expected)]
+                self.assertEqual(
+                    actual,
+                    expected,
+                    f"Hero unlock patch mismatch at 0x{off:08X} in {abi}/libgame.so",
+                )
+
 
 if __name__ == "__main__":
     unittest.main()

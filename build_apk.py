@@ -376,6 +376,28 @@ def patch_unlimited_stamina_clean_ui():
             print(f"Patched stamina & energy system in {abi}/libgame.so")
 
 
+def patch_unlock_all_heroes():
+    """Unlocks full hero roster instantly (characters only, preserving natural level/item progression)."""
+    hero_patches = {
+        0x002E17DC: b"\x01\x20\x70\x47",  # UserDataManager::isHeroUnlock -> returns true (1)
+        0x0038C03C: b"\x70\x47",  # UITeamLayer::showLocks -> bx lr (no locks displayed)
+        0x002B9AD4: b"\x01\x20\x70\x47",  # PriceManager::payUnlockHero -> returns true (1)
+        0x002E3766: b"\xc0\x46",  # UserDataManager::getUnLockHeros -> nop branch (include all heroes)
+    }
+
+    lib_dir = os.path.join(DECOMPILED_DIR, "lib")
+    for abi in ["armeabi", "armeabi-v7a"]:
+        so_path = os.path.join(lib_dir, abi, "libgame.so")
+        if os.path.exists(so_path):
+            with open(so_path, "rb") as f:
+                data = bytearray(f.read())
+            for off, patch in hero_patches.items():
+                data[off : off + len(patch)] = patch
+            with open(so_path, "wb") as f:
+                f.write(data)
+            print(f"Patched instant hero roster unlock in {abi}/libgame.so")
+
+
 def build_and_sign():
     ensure_keystore()
     for tmp in (UNSIGNED_APK, ALIGNED_APK, OUTPUT_APK):
@@ -440,6 +462,8 @@ def main():
     patch_signature_and_telemetry()
     print("Applying Fix 6: Unlimited stamina / 0 food cost with clean UI...")
     patch_unlimited_stamina_clean_ui()
+    print("Applying Fix 7: Full hero roster unlocked (characters only)...")
+    patch_unlock_all_heroes()
     print("Building and signing compatible APK...")
     build_and_sign()
 
