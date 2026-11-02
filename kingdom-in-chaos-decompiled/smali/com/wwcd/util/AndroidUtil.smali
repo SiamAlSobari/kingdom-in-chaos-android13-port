@@ -383,124 +383,17 @@
 .end method
 
 .method public static getIMEI(Landroid/content/Context;)Ljava/lang/String;
-    .locals 8
+    .locals 1
     .param p0, "ctx"    # Landroid/content/Context;
-
-    .prologue
-    .line 75
-    const-string v1, ""
-
-    .line 77
-    .local v1, "retVal":Ljava/lang/String;
-    :try_start_0
-    const-string v3, "phone"
-
-    invoke-virtual {p0, v3}, Landroid/content/Context;->getSystemService(Ljava/lang/String;)Ljava/lang/Object;
-
-    move-result-object v2
-
-    check-cast v2, Landroid/telephony/TelephonyManager;
-
-    .line 79
-    .local v2, "telephonyManager":Landroid/telephony/TelephonyManager;
-    invoke-virtual {v2}, Landroid/telephony/TelephonyManager;->getDeviceId()Ljava/lang/String;
-
-    move-result-object v1
-
-    .line 80
-    if-nez v1, :cond_0
-
-    .line 81
-    const-string v1, ""
-    :try_end_0
-    .catch Ljava/lang/Exception; {:try_start_0 .. :try_end_0} :catch_0
-
-    .line 85
-    .end local v2    # "telephonyManager":Landroid/telephony/TelephonyManager;
-    :cond_0
-    :goto_0
-    return-object v1
-
-    .line 82
-    :catch_0
-    move-exception v0
-
-    .line 83
-    .local v0, "ex":Ljava/lang/Exception;
-    sget-object v3, Lcom/wwcd/logger/LoggerFactory;->logger:Lcom/wwcd/logger/Logger;
-
-    const-class v4, Lcom/wwcd/util/AndroidUtil;
-
-    const/4 v5, 0x2
-
-    new-array v5, v5, [Ljava/lang/Object;
-
-    const/4 v6, 0x0
-
-    const-string v7, "getIMEI error"
-
-    aput-object v7, v5, v6
-
-    const/4 v6, 0x1
-
-    invoke-virtual {v0}, Ljava/lang/Exception;->getMessage()Ljava/lang/String;
-
-    move-result-object v7
-
-    aput-object v7, v5, v6
-
-    invoke-interface {v3, v4, v5}, Lcom/wwcd/logger/Logger;->error(Ljava/lang/Class;[Ljava/lang/Object;)V
-
-    goto :goto_0
+    const-string v0, ""
+    return-object v0
 .end method
 
 .method public static final getIMSI(Landroid/content/Context;)Ljava/lang/String;
-    .locals 4
+    .locals 1
     .param p0, "ctx"    # Landroid/content/Context;
-
-    .prologue
-    .line 43
-    :try_start_0
-    const-string v3, "phone"
-
-    invoke-virtual {p0, v3}, Landroid/content/Context;->getSystemService(Ljava/lang/String;)Ljava/lang/Object;
-
-    move-result-object v2
-
-    check-cast v2, Landroid/telephony/TelephonyManager;
-
-    .line 45
-    .local v2, "telephonyManager":Landroid/telephony/TelephonyManager;
-    invoke-virtual {v2}, Landroid/telephony/TelephonyManager;->getSubscriberId()Ljava/lang/String;
-
-    move-result-object v1
-
-    .line 46
-    .local v1, "retVal":Ljava/lang/String;
-    if-nez v1, :cond_0
-
-    .line 47
-    const-string v1, ""
-    :try_end_0
-    .catch Ljava/lang/Exception; {:try_start_0 .. :try_end_0} :catch_0
-
-    .line 52
-    .end local v2    # "telephonyManager":Landroid/telephony/TelephonyManager;
-    :cond_0
-    :goto_0
-    return-object v1
-
-    .line 49
-    .end local v1    # "retVal":Ljava/lang/String;
-    :catch_0
-    move-exception v0
-
-    .line 50
-    .local v0, "ex":Ljava/lang/Exception;
-    const-string v1, ""
-
-    .restart local v1    # "retVal":Ljava/lang/String;
-    goto :goto_0
+    const-string v0, ""
+    return-object v0
 .end method
 
 .method public static getLocale(Landroid/app/Activity;)Ljava/lang/String;
@@ -700,39 +593,9 @@
 .end method
 
 .method public static getWIFI(Landroid/content/Context;)Ljava/lang/String;
-    .locals 3
+    .locals 1
     .param p0, "ctx"    # Landroid/content/Context;
-
-    .prologue
-    .line 66
-    const-string v2, "wifi"
-
-    invoke-virtual {p0, v2}, Landroid/content/Context;->getSystemService(Ljava/lang/String;)Ljava/lang/Object;
-
-    move-result-object v1
-
-    check-cast v1, Landroid/net/wifi/WifiManager;
-
-    .line 67
-    .local v1, "wifi":Landroid/net/wifi/WifiManager;
-    invoke-virtual {v1}, Landroid/net/wifi/WifiManager;->getConnectionInfo()Landroid/net/wifi/WifiInfo;
-
-    move-result-object v2
-
-    invoke-virtual {v2}, Landroid/net/wifi/WifiInfo;->getMacAddress()Ljava/lang/String;
-
-    move-result-object v0
-
-    .line 68
-    .local v0, "macAddr":Ljava/lang/String;
-    if-nez v0, :cond_0
-
-    .line 69
-    const-string v0, ""
-
-    .line 71
-    .end local v0    # "macAddr":Ljava/lang/String;
-    :cond_0
+    const-string v0, "02:00:00:00:00:00"
     return-object v0
 .end method
 

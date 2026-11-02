@@ -538,6 +538,13 @@
 
     move-result-object v2
 
+    if-nez v2, :cond_io_not_null
+
+    invoke-virtual {p0}, Ljava/io/File;->delete()Z
+
+    return-void
+
+    :cond_io_not_null
     .line 167
     .local v2, "files":[Ljava/io/File;
     move-object v0, v2

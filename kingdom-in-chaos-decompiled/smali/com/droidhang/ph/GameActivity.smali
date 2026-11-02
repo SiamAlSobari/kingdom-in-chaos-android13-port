@@ -263,7 +263,7 @@
 
     move-result-object v0
 
-    invoke-virtual {v0, p2, p0}, Lcom/tapjoy/TapjoyConnect;->spendTapPoints(ILcom/tapjoy/TapjoySpendPointsNotifier;)V
+    # invoke-virtual {v0, p2, p0}, Lcom/tapjoy/TapjoyConnect;->noop_spendTapPoints(ILcom/tapjoy/TapjoySpendPointsNotifier;)V
 
     .line 182
     :cond_0
@@ -362,14 +362,14 @@
     invoke-static {p0, v0}, Lcom/hz/game/be/util/BEUtil;->init(Lcom/droidhang/ph/GameActivity;Landroid/opengl/GLSurfaceView;)V
 
     .line 63
-    invoke-static {p0}, Lcom/umeng/analytics/MobclickAgent;->updateOnlineConfig(Landroid/content/Context;)V
+    # invoke-static {p0}, Lcom/umeng/analytics/MobclickAgent;->noop_updateOnlineConfig(Landroid/content/Context;)V
 
     .line 66
     const-string v0, "0e825862-b374-4419-afb8-a1fb2805b02b"
 
     const-string v1, "iUsG5kb3zmOvly6P4fQw"
 
-    invoke-static {p0, v0, v1}, Lcom/tapjoy/TapjoyConnect;->requestTapjoyConnect(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)Z
+    # invoke-static {p0, v0, v1}, Lcom/tapjoy/TapjoyConnect;->noop_requestTapjoyConnect(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)Z
 
     .line 68
     const-string v0, "be"
@@ -399,12 +399,12 @@
     invoke-static {v0, v1}, Landroid/util/Log;->e(Ljava/lang/String;Ljava/lang/String;)I
 
     .line 70
-    invoke-static {p0, p0, p0}, Lcom/droidhang/game/DHGames;->init(Landroid/app/Activity;Lcom/droidhang/game/ad/IAdId;Lcom/droidhang/game/ad/video/VideoAdCallback;)V
+    # invoke-static {p0, p0, p0}, Lcom/droidhang/game/DHGames;->noop_init(Landroid/app/Activity;Lcom/droidhang/game/ad/IAdId;Lcom/droidhang/game/ad/video/VideoAdCallback;)V
 
     .line 71
     iget-object v0, p0, Lcom/droidhang/ph/GameActivity;->_featureLayout:Landroid/widget/FrameLayout;
 
-    invoke-static {p0, v0}, Lcom/droidhang/crosspromotion/CrossPromotionUtil;->init(Landroid/app/Activity;Landroid/widget/FrameLayout;)V
+    # invoke-static {p0, v0}, Lcom/droidhang/crosspromotion/CrossPromotionUtil;->noop_init(Landroid/app/Activity;Landroid/widget/FrameLayout;)V
 
     .line 72
     invoke-static {}, Lcom/droidhang/pay/DHGooglePaymentManager;->getInstance()Lcom/droidhang/pay/DHGooglePaymentManager;
@@ -417,15 +417,15 @@
 
     iget-object v3, p0, Lcom/droidhang/ph/GameActivity;->mGLSurfaceView:Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
 
-    invoke-virtual {v0, v1, v2, p0, v3}, Lcom/droidhang/pay/DHGooglePaymentManager;->init(Ljava/lang/String;ILandroid/app/Activity;Landroid/opengl/GLSurfaceView;)V
+    # invoke-virtual {v0, v1, v2, p0, v3}, Lcom/droidhang/pay/DHGooglePaymentManager;->noop_init(Ljava/lang/String;ILandroid/app/Activity;Landroid/opengl/GLSurfaceView;)V
 
     .line 74
     iget-object v0, p0, Lcom/droidhang/ph/GameActivity;->_admobLayout:Landroid/widget/RelativeLayout;
 
-    invoke-static {p0, v0}, Lcom/hz/game/be/util/AdMgr;->init(Landroid/app/Activity;Landroid/widget/RelativeLayout;)V
+    # invoke-static {p0, v0}, Lcom/hz/game/be/util/AdMgr;->noop_init(Landroid/app/Activity;Landroid/widget/RelativeLayout;)V
 
     .line 75
-    invoke-static {p0, v4, v4}, Lcom/hz/game/be/util/AdMgr;->enable(Landroid/app/Activity;II)V
+    # invoke-static {p0, v4, v4}, Lcom/hz/game/be/util/AdMgr;->noop_enable(Landroid/app/Activity;II)V
 
     .line 76
     return-void
@@ -504,7 +504,7 @@
 
     move-result-object v0
 
-    invoke-virtual {v0}, Lcom/tapjoy/TapjoyConnect;->appPause()V
+    # invoke-virtual {v0}, Lcom/tapjoy/TapjoyConnect;->noop_appPause()V
 
     .line 143
     :cond_0
@@ -530,14 +530,14 @@
 
     move-result-object v1
 
-    invoke-virtual {v1, p0}, Lcom/tapjoy/TapjoyConnect;->getTapPoints(Lcom/tapjoy/TapjoyNotifier;)V
+    # invoke-virtual {v1, p0}, Lcom/tapjoy/TapjoyConnect;->noop_getTapPoints(Lcom/tapjoy/TapjoyNotifier;)V
 
     .line 120
     invoke-static {}, Lcom/tapjoy/TapjoyConnect;->getTapjoyConnectInstance()Lcom/tapjoy/TapjoyConnect;
 
     move-result-object v1
 
-    invoke-virtual {v1}, Lcom/tapjoy/TapjoyConnect;->appResume()V
+    # invoke-virtual {v1}, Lcom/tapjoy/TapjoyConnect;->noop_appResume()V
 
     .line 123
     :cond_0
@@ -555,13 +555,13 @@
 
     const-string v3, ""
 
-    invoke-static {v1, v2, v3, p0}, Lcom/sponsorpay/SponsorPay;->start(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Landroid/app/Activity;)Ljava/lang/String;
+    # invoke-static {v1, v2, v3, p0}, Lcom/sponsorpay/SponsorPay;->noop_start(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Landroid/app/Activity;)Ljava/lang/String;
     :try_end_0
     .catch Ljava/lang/Throwable; {:try_start_0 .. :try_end_0} :catch_0
 
     .line 132
     :goto_0
-    invoke-static {}, Lcom/hz/game/be/util/BEUtil;->onRated()V
+    # invoke-static {}, Lcom/hz/game/be/util/BEUtil;->noop_onRated()V
 
     .line 133
     return-void

@@ -210,58 +210,78 @@
 .end method
 
 .method public handleActionCancel([I[F[F)V
-    .locals 0
+    .locals 1
     .param p1, "pIDs"    # [I
     .param p2, "pXs"    # [F
     .param p3, "pYs"    # [F
 
     .prologue
-    .line 169
+    sget-boolean v0, Lorg/cocos2dx/lib/Cocos2dxRenderer;->sNativeInitDone:Z
+
+    if-nez v0, :cond_0
+
+    return-void
+
+    :cond_0
     invoke-static {p1, p2, p3}, Lorg/cocos2dx/lib/Cocos2dxRenderer;->nativeTouchesCancel([I[F[F)V
 
-    .line 170
     return-void
 .end method
 
 .method public handleActionDown(IFF)V
-    .locals 0
+    .locals 1
     .param p1, "pID"    # I
     .param p2, "pX"    # F
     .param p3, "pY"    # F
 
     .prologue
-    .line 161
+    sget-boolean v0, Lorg/cocos2dx/lib/Cocos2dxRenderer;->sNativeInitDone:Z
+
+    if-nez v0, :cond_0
+
+    return-void
+
+    :cond_0
     invoke-static {p1, p2, p3}, Lorg/cocos2dx/lib/Cocos2dxRenderer;->nativeTouchesBegin(IFF)V
 
-    .line 162
     return-void
 .end method
 
 .method public handleActionMove([I[F[F)V
-    .locals 0
+    .locals 1
     .param p1, "pIDs"    # [I
     .param p2, "pXs"    # [F
     .param p3, "pYs"    # [F
 
     .prologue
-    .line 173
+    sget-boolean v0, Lorg/cocos2dx/lib/Cocos2dxRenderer;->sNativeInitDone:Z
+
+    if-nez v0, :cond_0
+
+    return-void
+
+    :cond_0
     invoke-static {p1, p2, p3}, Lorg/cocos2dx/lib/Cocos2dxRenderer;->nativeTouchesMove([I[F[F)V
 
-    .line 174
     return-void
 .end method
 
 .method public handleActionUp(IFF)V
-    .locals 0
+    .locals 1
     .param p1, "pID"    # I
     .param p2, "pX"    # F
     .param p3, "pY"    # F
 
     .prologue
-    .line 165
+    sget-boolean v0, Lorg/cocos2dx/lib/Cocos2dxRenderer;->sNativeInitDone:Z
+
+    if-nez v0, :cond_0
+
+    return-void
+
+    :cond_0
     invoke-static {p1, p2, p3}, Lorg/cocos2dx/lib/Cocos2dxRenderer;->nativeTouchesEnd(IFF)V
 
-    .line 166
     return-void
 .end method
 
@@ -289,14 +309,19 @@
 .end method
 
 .method public handleKeyDown(I)V
-    .locals 0
+    .locals 1
     .param p1, "pKeyCode"    # I
 
     .prologue
-    .line 177
+    sget-boolean v0, Lorg/cocos2dx/lib/Cocos2dxRenderer;->sNativeInitDone:Z
+
+    if-nez v0, :cond_0
+
+    return-void
+
+    :cond_0
     invoke-static {p1}, Lorg/cocos2dx/lib/Cocos2dxRenderer;->nativeKeyDown(I)Z
 
-    .line 178
     return-void
 .end method
 

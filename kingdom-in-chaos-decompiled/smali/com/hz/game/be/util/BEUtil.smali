@@ -4,7 +4,7 @@
 
 
 # static fields
-.field private static final APP_DIR:Ljava/lang/String; = "com.hz.game.be"
+.field private static final APP_DIR:Ljava/lang/String; = "com.droidhang.zhanshen"
 
 .field private static _gameActivity:Lcom/droidhang/ph/GameActivity;
 
@@ -135,7 +135,7 @@
 
     move-result-object v5
 
-    const-string v6, "com.hz.game.be"
+    const-string v6, "com.droidhang.zhanshen"
 
     invoke-virtual {v5, v6}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 
@@ -162,7 +162,7 @@
     .line 210
     new-instance v4, Ljava/io/File;
 
-    const-string v5, "/data/data/com.hz.game.be/shared_prefs/Cocos2dxPrefsFile.xml"
+    const-string v5, "/data/data/com.droidhang.zhanshen/shared_prefs/Cocos2dxPrefsFile.xml"
 
     invoke-direct {v4, v5}, Ljava/io/File;-><init>(Ljava/lang/String;)V
 
@@ -481,24 +481,8 @@
 
 .method public static isVideoAdAvailable()I
     .locals 1
-
-    .prologue
-    .line 244
-    invoke-static {}, Lcom/droidhang/game/ad/VideoAdManager;->isAdReady()Z
-
-    move-result v0
-
-    if-eqz v0, :cond_0
-
-    const/4 v0, 0x1
-
-    :goto_0
-    return v0
-
-    :cond_0
     const/4 v0, 0x0
-
-    goto :goto_0
+    return v0
 .end method
 
 .method private static native nAddCoins(I)V
@@ -542,19 +526,7 @@
 .end method
 
 .method public static onRated()V
-    .locals 2
-
-    .prologue
-    .line 75
-    sget-object v0, Lcom/hz/game/be/util/BEUtil;->_glSurfaceView:Landroid/opengl/GLSurfaceView;
-
-    new-instance v1, Lcom/hz/game/be/util/BEUtil$4;
-
-    invoke-direct {v1}, Lcom/hz/game/be/util/BEUtil$4;-><init>()V
-
-    invoke-virtual {v0, v1}, Landroid/opengl/GLSurfaceView;->queueEvent(Ljava/lang/Runnable;)V
-
-    .line 81
+    .locals 0
     return-void
 .end method
 
@@ -564,17 +536,23 @@
     .param p1, "glSurfaceView"    # Landroid/opengl/GLSurfaceView;
 
     .prologue
-    .line 155
-    sget-object v0, Lcom/hz/game/be/util/BEUtil;->_glSurfaceView:Landroid/opengl/GLSurfaceView;
+    sget-boolean v0, Lorg/cocos2dx/lib/Cocos2dxRenderer;->sNativeInitDone:Z
 
     if-nez v0, :cond_0
 
-    .line 156
-    sput-object p1, Lcom/hz/game/be/util/BEUtil;->_glSurfaceView:Landroid/opengl/GLSurfaceView;
+    return-void
 
-    .line 158
     :cond_0
     sget-object v0, Lcom/hz/game/be/util/BEUtil;->_glSurfaceView:Landroid/opengl/GLSurfaceView;
+
+    if-nez v0, :cond_1
+
+    sput-object p1, Lcom/hz/game/be/util/BEUtil;->_glSurfaceView:Landroid/opengl/GLSurfaceView;
+
+    :cond_1
+    sget-object v0, Lcom/hz/game/be/util/BEUtil;->_glSurfaceView:Landroid/opengl/GLSurfaceView;
+
+    if-eqz v0, :cond_2
 
     new-instance v1, Lcom/hz/game/be/util/BEUtil$8;
 
@@ -582,7 +560,7 @@
 
     invoke-virtual {v0, v1}, Landroid/opengl/GLSurfaceView;->queueEvent(Ljava/lang/Runnable;)V
 
-    .line 164
+    :cond_2
     return-void
 .end method
 
@@ -606,53 +584,12 @@
 .end method
 
 .method public static openOfferWall()V
-    .locals 2
-
-    .prologue
-    .line 146
-    const-string v0, "be"
-
-    const-string v1, "openOfferWall"
-
-    invoke-static {v0, v1}, Landroid/util/Log;->e(Ljava/lang/String;Ljava/lang/String;)I
-
-    .line 147
-    invoke-static {}, Lcom/tapjoy/TapjoyConnect;->getTapjoyConnectInstance()Lcom/tapjoy/TapjoyConnect;
-
-    move-result-object v0
-
-    if-eqz v0, :cond_0
-
-    .line 148
-    invoke-static {}, Lcom/tapjoy/TapjoyConnect;->getTapjoyConnectInstance()Lcom/tapjoy/TapjoyConnect;
-
-    move-result-object v0
-
-    invoke-virtual {v0}, Lcom/tapjoy/TapjoyConnect;->showOffers()V
-
-    .line 152
-    :goto_0
+    .locals 0
     return-void
-
-    .line 150
-    :cond_0
-    sget-object v0, Lcom/hz/game/be/util/BEUtil;->_gameActivity:Lcom/droidhang/ph/GameActivity;
-
-    const-string v1, "Tapjoy init error"
-
-    invoke-static {v0, v1}, Lcom/wwcd/util/ToastUtil;->alertShort(Landroid/app/Activity;Ljava/lang/String;)V
-
-    goto :goto_0
 .end method
 
 .method public static playVideoAd()V
     .locals 0
-
-    .prologue
-    .line 248
-    invoke-static {}, Lcom/droidhang/game/ad/VideoAdManager;->playAd()V
-
-    .line 249
     return-void
 .end method
 

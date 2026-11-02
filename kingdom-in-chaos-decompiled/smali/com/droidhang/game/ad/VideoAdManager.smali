@@ -266,189 +266,34 @@
 
 .method public static isAdReady()Z
     .locals 1
-
-    .prologue
-    .line 76
-    const-string v0, ""
-
-    invoke-static {v0}, Lcom/droidhang/game/ad/VideoAdManager;->isAdReady(Ljava/lang/String;)Z
-
-    move-result v0
-
+    const/4 v0, 0x0
     return v0
 .end method
 
 .method public static isAdReady(Ljava/lang/String;)Z
-    .locals 3
+    .locals 1
     .param p0, "key"    # Ljava/lang/String;
-
-    .prologue
-    const/4 v1, 0x0
-
-    .line 69
-    invoke-static {p0}, Lcom/droidhang/game/ad/VideoLimitManager;->shouldDisplay(Ljava/lang/String;)Z
-
-    move-result v0
-
-    if-nez v0, :cond_0
-
-    .line 72
-    :goto_0
-    return v1
-
-    :cond_0
-    sget-object v0, Lcom/droidhang/game/ad/VideoAdManager;->ADS:Ljava/util/HashMap;
-
-    const-string v2, "vungle"
-
-    invoke-virtual {v0, v2}, Ljava/util/HashMap;->get(Ljava/lang/Object;)Ljava/lang/Object;
-
-    move-result-object v0
-
-    check-cast v0, Lcom/droidhang/game/ad/video/AbstractVideoAd;
-
-    invoke-virtual {v0}, Lcom/droidhang/game/ad/video/AbstractVideoAd;->isAdReady()Z
-
-    move-result v0
-
-    if-nez v0, :cond_1
-
-    sget-object v0, Lcom/droidhang/game/ad/VideoAdManager;->ADS:Ljava/util/HashMap;
-
-    const-string v2, "applovin"
-
-    invoke-virtual {v0, v2}, Ljava/util/HashMap;->get(Ljava/lang/Object;)Ljava/lang/Object;
-
-    move-result-object v0
-
-    check-cast v0, Lcom/droidhang/game/ad/video/AbstractVideoAd;
-
-    invoke-virtual {v0}, Lcom/droidhang/game/ad/video/AbstractVideoAd;->isAdReady()Z
-
-    move-result v0
-
-    if-eqz v0, :cond_2
-
-    :cond_1
-    const/4 v0, 0x1
-
-    :goto_1
-    move v1, v0
-
-    goto :goto_0
-
-    :cond_2
-    move v0, v1
-
-    goto :goto_1
+    const/4 v0, 0x0
+    return v0
 .end method
 
 .method public static onPause()V
-    .locals 2
-
-    .prologue
-    .line 84
-    sget-object v0, Lcom/droidhang/game/ad/VideoAdManager;->ADS:Ljava/util/HashMap;
-
-    const-string v1, "vungle"
-
-    invoke-virtual {v0, v1}, Ljava/util/HashMap;->get(Ljava/lang/Object;)Ljava/lang/Object;
-
-    move-result-object v0
-
-    check-cast v0, Lcom/droidhang/game/ad/video/AbstractVideoAd;
-
-    invoke-virtual {v0}, Lcom/droidhang/game/ad/video/AbstractVideoAd;->onPause()V
-
-    .line 85
+    .locals 0
     return-void
 .end method
 
 .method public static onResume()V
-    .locals 2
-
-    .prologue
-    .line 80
-    sget-object v0, Lcom/droidhang/game/ad/VideoAdManager;->ADS:Ljava/util/HashMap;
-
-    const-string v1, "vungle"
-
-    invoke-virtual {v0, v1}, Ljava/util/HashMap;->get(Ljava/lang/Object;)Ljava/lang/Object;
-
-    move-result-object v0
-
-    check-cast v0, Lcom/droidhang/game/ad/video/AbstractVideoAd;
-
-    invoke-virtual {v0}, Lcom/droidhang/game/ad/video/AbstractVideoAd;->onResume()V
-
-    .line 81
+    .locals 0
     return-void
 .end method
 
 .method public static playAd()V
-    .locals 1
-
-    .prologue
-    .line 54
-    const-string v0, ""
-
-    invoke-static {v0}, Lcom/droidhang/game/ad/VideoAdManager;->playAd(Ljava/lang/String;)V
-
-    .line 55
+    .locals 0
     return-void
 .end method
 
 .method public static playAd(Ljava/lang/String;)V
-    .locals 4
+    .locals 0
     .param p0, "key"    # Ljava/lang/String;
-
-    .prologue
-    const/4 v3, 0x1
-
-    const/4 v2, 0x0
-
-    .line 58
-    invoke-static {}, Lcom/droidhang/game/ad/VideoAdManager;->getShowOrder()[Lcom/droidhang/game/ad/video/AbstractVideoAd;
-
-    move-result-object v0
-
-    .line 59
-    .local v0, "videoManagers":[Lcom/droidhang/game/ad/video/AbstractVideoAd;
-    invoke-static {p0}, Lcom/droidhang/game/ad/VideoLimitManager;->setCurrentPlayKey(Ljava/lang/String;)V
-
-    .line 61
-    aget-object v1, v0, v2
-
-    invoke-virtual {v1}, Lcom/droidhang/game/ad/video/AbstractVideoAd;->isAdReady()Z
-
-    move-result v1
-
-    if-eqz v1, :cond_1
-
-    .line 62
-    aget-object v1, v0, v2
-
-    invoke-virtual {v1}, Lcom/droidhang/game/ad/video/AbstractVideoAd;->showVideoAd()V
-
-    .line 66
-    :cond_0
-    :goto_0
     return-void
-
-    .line 63
-    :cond_1
-    aget-object v1, v0, v3
-
-    invoke-virtual {v1}, Lcom/droidhang/game/ad/video/AbstractVideoAd;->isAdReady()Z
-
-    move-result v1
-
-    if-eqz v1, :cond_0
-
-    .line 64
-    aget-object v1, v0, v3
-
-    invoke-virtual {v1}, Lcom/droidhang/game/ad/video/AbstractVideoAd;->showVideoAd()V
-
-    goto :goto_0
 .end method

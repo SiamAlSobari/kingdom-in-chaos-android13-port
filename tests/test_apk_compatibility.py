@@ -7,7 +7,7 @@ import zipfile
 REPO_ROOT = r"C:\Koding\rea\kingdom"
 DECOMPILED_DIR = os.path.join(REPO_ROOT, "kingdom-in-chaos-decompiled")
 TOOLS_DIR = os.path.join(REPO_ROOT, "tools")
-OUTPUT_APK = os.path.join(REPO_ROOT, "kingdom-in-chaos-1-0-5-r2.apk")
+OUTPUT_APK = os.path.join(REPO_ROOT, "kingdom-in-chaos-1-0-5-r3.apk")
 SDK_BUILD_TOOLS = r"C:\Users\Colorful\AppData\Local\Android\Sdk\build-tools\36.1.0"
 AAPT2_EXE = os.path.join(SDK_BUILD_TOOLS, "aapt2.exe")
 APKSIGNER_BAT = os.path.join(SDK_BUILD_TOOLS, "apksigner.bat")
@@ -89,14 +89,14 @@ class TestKingdomInChaosAndroid13Port(unittest.TestCase):
         self.assertIn("Verified using v1 scheme (JAR signing): true", sig)
         self.assertIn("Verified using v2 scheme (APK Signature Scheme v2): true", sig)
 
-    def test_fix2_no_textrel_libraries_in_source(self):
+    def test_fix2_no_obsolete_libraries_in_source(self):
         lib_dir = os.path.join(DECOMPILED_DIR, "lib")
-        for bad_lib in ["libbspatch.so", "libgetuiext.so"]:
+        for bad_lib in ["libbspatch.so", "libgetuiext.so", "libNativeCrash.so"]:
             for root, _, files in os.walk(lib_dir):
                 self.assertNotIn(
                     bad_lib,
                     files,
-                    f"Library with TEXTREL {bad_lib} still exists in {root}",
+                    f"Obsolete library {bad_lib} still exists in {root}",
                 )
 
     def test_fix2_armeabi_and_v7a_exist_and_clean_of_textrel(self):
@@ -104,25 +104,24 @@ class TestKingdomInChaosAndroid13Port(unittest.TestCase):
         for abi in ["armeabi", "armeabi-v7a"]:
             abi_dir = os.path.join(lib_dir, abi)
             self.assertTrue(os.path.isdir(abi_dir), f"{abi} directory missing")
-            for lib_name in ["libgame.so", "libNativeCrash.so"]:
-                so_path = os.path.join(abi_dir, lib_name)
-                self.assertTrue(os.path.isfile(so_path), f"{lib_name} missing in {abi}")
-                with open(so_path, "rb") as f:
-                    elf = f.read()
-                self.assertFalse(
-                    has_textrel(elf),
-                    f"{lib_name} in {abi} contains DT_TEXTREL, which crashes Android 6.0+",
-                )
+            so_path = os.path.join(abi_dir, "libgame.so")
+            self.assertTrue(os.path.isfile(so_path), f"libgame.so missing in {abi}")
+            with open(so_path, "rb") as f:
+                elf = f.read()
+            self.assertFalse(
+                has_textrel(elf),
+                f"libgame.so in {abi} contains DT_TEXTREL, which crashes Android 6.0+",
+            )
 
     def test_fix2_packaged_apk_native_structure(self):
         with zipfile.ZipFile(OUTPUT_APK, "r") as zf:
             namelist = zf.namelist()
             self.assertIn("lib/armeabi/libgame.so", namelist)
             self.assertIn("lib/armeabi-v7a/libgame.so", namelist)
-            self.assertIn("lib/armeabi-v7a/libNativeCrash.so", namelist)
             for name in namelist:
                 self.assertNotIn("libbspatch.so", name)
                 self.assertNotIn("libgetuiext.so", name)
+                self.assertNotIn("libNativeCrash.so", name)
 
     def test_fix3_no_floatmath_references(self):
         bitmap_smali = os.path.join(
@@ -175,6 +174,15 @@ class TestKingdomInChaosAndroid13Port(unittest.TestCase):
             0x0062F028: b"\x1e\xff\x2f\xe1",
             0x0062E5C8: b"\x1e\xff\x2f\xe1",
             0x0062E57C: b"\x1e\xff\x2f\xe1",
+            0x00441CC0: b"\x70\x47",
+            0x00441824: b"\x70\x47",
+            0x00441F04: b"\x70\x47",
+            0x00441CE0: b"\x70\x47",
+            0x00441DB0: b"\x70\x47",
+            0x00441E34: b"\x70\x47",
+            0x00441EE8: b"\x70\x47",
+            0x00441F20: b"\x70\x47",
+            0x003DA62C: b"\x70\x47",
         }
         for abi in ["armeabi", "armeabi-v7a"]:
             so_path = os.path.join(DECOMPILED_DIR, "lib", abi, "libgame.so")
@@ -187,10 +195,6 @@ class TestKingdomInChaosAndroid13Port(unittest.TestCase):
                     expected,
                     f"Patch mismatch at 0x{off:08X} in {abi}/libgame.so",
                 )
-            self.assertEqual(
-                data[0x006A4208 : 0x006A4208 + 24],
-                b"com/wwcd/util/AndroidUti",
-            )
 
     def test_fix6_stamina_system_unlimited_and_clean_ui(self):
         balance_patch = bytes.fromhex("002802d005220260002902d000220a607047")
@@ -231,6 +235,80 @@ class TestKingdomInChaosAndroid13Port(unittest.TestCase):
                     expected,
                     f"Hero unlock patch mismatch at 0x{off:08X} in {abi}/libgame.so",
                 )
+
+    def test_fix8_be_util_focus_guarded_and_ads_stubbed(self):
+        be_util_path = os.path.join(
+            DECOMPILED_DIR, "smali", "com", "hz", "game", "be", "util", "BEUtil.smali"
+        )
+        with open(be_util_path, "r", encoding="utf-8") as f:
+            content = f.read()
+        self.assertIn("sget-boolean v0, Lorg/cocos2dx/lib/Cocos2dxRenderer;->sNativeInitDone:Z", content)
+        self.assertIn("com.droidhang.zhanshen", content)
+        self.assertNotIn("com.hz.game.be/shared_prefs", content)
+
+        be8_path = os.path.join(
+            DECOMPILED_DIR, "smali", "com", "hz", "game", "be", "util", "BEUtil$8.smali"
+        )
+        with open(be8_path, "r", encoding="utf-8") as f:
+            content8 = f.read()
+        self.assertIn("sget-boolean v0, Lorg/cocos2dx/lib/Cocos2dxRenderer;->sNativeInitDone:Z", content8)
+
+    def test_fix9_game_activity_dead_sdks_neutralized(self):
+        ga_path = os.path.join(
+            DECOMPILED_DIR, "smali", "com", "droidhang", "ph", "GameActivity.smali"
+        )
+        with open(ga_path, "r", encoding="utf-8") as f:
+            content = f.read()
+        self.assertIn("# invoke-static {p0}, Lcom/umeng/analytics/MobclickAgent;->noop_updateOnlineConfig(Landroid/content/Context;)V", content)
+        self.assertIn("# invoke-static {p0, v0, v1}, Lcom/tapjoy/TapjoyConnect;->noop_requestTapjoyConnect(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)Z", content)
+        self.assertIn("# invoke-static {p0, p0, p0}, Lcom/droidhang/game/DHGames;->noop_init(Landroid/app/Activity;Lcom/droidhang/game/ad/IAdId;Lcom/droidhang/game/ad/video/VideoAdCallback;)V", content)
+        self.assertIn("# invoke-static {p0, v0}, Lcom/droidhang/crosspromotion/CrossPromotionUtil;->noop_init(Landroid/app/Activity;Landroid/widget/FrameLayout;)V", content)
+        self.assertIn("# invoke-virtual {v0, v1, v2, p0, v3}, Lcom/droidhang/pay/DHGooglePaymentManager;->noop_init(Ljava/lang/String;ILandroid/app/Activity;Landroid/opengl/GLSurfaceView;)V", content)
+        self.assertIn("# invoke-static {p0, v0}, Lcom/hz/game/be/util/AdMgr;->noop_init(Landroid/app/Activity;Landroid/widget/RelativeLayout;)V", content)
+        self.assertIn("# invoke-static {p0, v4, v4}, Lcom/hz/game/be/util/AdMgr;->noop_enable(Landroid/app/Activity;II)V", content)
+
+    def test_fix10_testin_agent_neutralized(self):
+        testin_path = os.path.join(
+            DECOMPILED_DIR, "smali", "com", "testin", "agent", "TestinAgent.smali"
+        )
+        with open(testin_path, "r", encoding="utf-8") as f:
+            content = f.read()
+        self.assertIn(".method public static init(Landroid/content/Context;)V\n    .locals 0\n    return-void\n.end method", content)
+        self.assertIn(".method private static isOK()Z\n    .locals 1\n    const/4 v0, 0x0\n    return v0\n.end method", content)
+
+        b_path = os.path.join(
+            DECOMPILED_DIR, "smali", "com", "testin", "agent", "e", "b.smali"
+        )
+        with open(b_path, "r", encoding="utf-8") as f:
+            b_content = f.read()
+        self.assertIn(".method public static a(Landroid/content/Context;)Z\n    .locals 1\n    const/4 v0, 0x0\n    return v0\n.end method", b_content)
+
+    def test_fix11_dh_google_payment_safe(self):
+        pay_path = os.path.join(
+            DECOMPILED_DIR, "smali", "com", "droidhang", "pay", "DHGooglePaymentManager.smali"
+        )
+        with open(pay_path, "r", encoding="utf-8") as f:
+            content = f.read()
+        self.assertIn("iput-boolean v0, p0, Lcom/droidhang/pay/DHGooglePaymentManager;->supportPurchase:Z", content)
+        self.assertNotIn("invoke-direct {p0}, Lcom/droidhang/pay/DHGooglePaymentManager;->initPurchase()V", content)
+        self.assertIn("if-nez v0, :cond_0", content)
+
+    def test_fix12_io_util_delete_null_safe(self):
+        io_path = os.path.join(
+            DECOMPILED_DIR, "smali", "com", "wwcd", "util", "IOUtil.smali"
+        )
+        with open(io_path, "r", encoding="utf-8") as f:
+            content = f.read()
+        self.assertIn("if-nez v2, :cond_io_not_null", content)
+
+    def test_fix13_android_util_stubs_safe(self):
+        au_path = os.path.join(
+            DECOMPILED_DIR, "smali", "com", "wwcd", "util", "AndroidUtil.smali"
+        )
+        with open(au_path, "r", encoding="utf-8") as f:
+            content = f.read()
+        self.assertIn('const-string v0, "02:00:00:00:00:00"', content)
+        self.assertNotIn("invoke-virtual {v1}, Landroid/net/wifi/WifiManager;->getConnectionInfo()Landroid/net/wifi/WifiInfo;", content)
 
 
 if __name__ == "__main__":
