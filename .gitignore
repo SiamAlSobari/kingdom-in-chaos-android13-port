@@ -4,6 +4,7 @@ kingdom-in-chaos-decompiled/build/
 kingdom-in-chaos-decompiled/dist/
 *.idsig
 *.keystore
+*.png
 kingdom-in-chaos-*-fixed.apk
 kingdom-in-chaos-*-r*.apk
 __pycache__/
