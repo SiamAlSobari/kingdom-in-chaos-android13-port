@@ -353,6 +353,29 @@ def patch_signature_and_telemetry():
             print(f"Patched native signature and telemetry in {abi}/libgame.so")
 
 
+def patch_unlimited_stamina_clean_ui():
+    """Patches stamina to always be full (5/5) with 0 energy consumed, preventing icon overflow on screen."""
+    # BalanceLifeStatus at 0x003053A0:
+    # cmp r0, #0; beq +4; movs r2, #5; str r2, [r0]; cmp r1, #0; beq +4; movs r2, #0; str r2, [r1]; bx lr
+    balance_life_patch = bytes.fromhex("002802d005220260002902d000220a607047")
+
+    # DecreaseLife at 0x003055FC:
+    # movs r0, #1; bx lr
+    decrease_life_patch = b"\x01\x20\x70\x47"
+
+    lib_dir = os.path.join(DECOMPILED_DIR, "lib")
+    for abi in ["armeabi", "armeabi-v7a"]:
+        so_path = os.path.join(lib_dir, abi, "libgame.so")
+        if os.path.exists(so_path):
+            with open(so_path, "rb") as f:
+                data = bytearray(f.read())
+            data[0x003053A0 : 0x003053A0 + len(balance_life_patch)] = balance_life_patch
+            data[0x003055FC : 0x003055FC + len(decrease_life_patch)] = decrease_life_patch
+            with open(so_path, "wb") as f:
+                f.write(data)
+            print(f"Patched stamina & energy system in {abi}/libgame.so")
+
+
 def build_and_sign():
     ensure_keystore()
     for tmp in (UNSIGNED_APK, ALIGNED_APK, OUTPUT_APK):
@@ -415,6 +438,8 @@ def main():
     patch_renderer_lifecycle()
     print("Applying Fix 5: Patch signature verification and telemetry bypass...")
     patch_signature_and_telemetry()
+    print("Applying Fix 6: Unlimited stamina / 0 food cost with clean UI...")
+    patch_unlimited_stamina_clean_ui()
     print("Building and signing compatible APK...")
     build_and_sign()
 

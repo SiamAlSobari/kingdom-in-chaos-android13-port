@@ -192,6 +192,26 @@ class TestKingdomInChaosAndroid13Port(unittest.TestCase):
                 b"com/wwcd/util/AndroidUti",
             )
 
+    def test_fix6_stamina_system_unlimited_and_clean_ui(self):
+        balance_patch = bytes.fromhex("002802d005220260002902d000220a607047")
+        decrease_patch = b"\x01\x20\x70\x47"
+
+        for abi in ["armeabi", "armeabi-v7a"]:
+            so_path = os.path.join(DECOMPILED_DIR, "lib", abi, "libgame.so")
+            with open(so_path, "rb") as f:
+                data = f.read()
+
+            self.assertEqual(
+                data[0x003053A0 : 0x003053A0 + len(balance_patch)],
+                balance_patch,
+                f"BalanceLifeStatus patch mismatch in {abi}/libgame.so",
+            )
+            self.assertEqual(
+                data[0x003055FC : 0x003055FC + len(decrease_patch)],
+                decrease_patch,
+                f"DecreaseLife patch mismatch in {abi}/libgame.so",
+            )
+
 
 if __name__ == "__main__":
     unittest.main()
