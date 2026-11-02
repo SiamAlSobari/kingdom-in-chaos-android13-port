@@ -332,7 +332,7 @@ def patch_signature_and_telemetry():
 
     # 2. Native patch: libgame.so (both armeabi and armeabi-v7a)
     patch_map = {
-        0x0025DDD4: b"\x01\x20\x70\x47",  # verify (Thumb): movs r0, #1; bx lr
+        0x0025DF2A: b"\xc0\x46",  # nativeInit abort check: nop branch so it never aborts
         0x003DEB18: b"\x70\x47",  # DHHttpHelper::login (Thumb): bx lr
         0x0062E40C: b"\x1e\xff\x2f\xe1",  # MobClickCpp::startWithAppkey (ARM): bx lr
         0x0062F1D0: b"\x1e\xff\x2f\xe1",  # MobClickCpp::updateOnlineConfig (ARM): bx lr
@@ -382,7 +382,6 @@ def patch_unlock_all_heroes():
         0x002E17DC: b"\x01\x20\x70\x47",  # UserDataManager::isHeroUnlock -> returns true (1)
         0x0038C03C: b"\x70\x47",  # UITeamLayer::showLocks -> bx lr (no locks displayed)
         0x002B9AD4: b"\x01\x20\x70\x47",  # PriceManager::payUnlockHero -> returns true (1)
-        0x002E3766: b"\xc0\x46",  # UserDataManager::getUnLockHeros -> nop branch (include all heroes)
     }
 
     lib_dir = os.path.join(DECOMPILED_DIR, "lib")

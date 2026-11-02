@@ -168,7 +168,7 @@ class TestKingdomInChaosAndroid13Port(unittest.TestCase):
 
         # 2. Native patch checks
         expected_patches = {
-            0x0025DDD4: b"\x01\x20\x70\x47",
+            0x0025DF2A: b"\xc0\x46",
             0x003DEB18: b"\x70\x47",
             0x0062E40C: b"\x1e\xff\x2f\xe1",
             0x0062F1D0: b"\x1e\xff\x2f\xe1",
@@ -215,9 +215,8 @@ class TestKingdomInChaosAndroid13Port(unittest.TestCase):
     def test_fix7_hero_roster_unlocked_and_clean_progression(self):
         hero_expected = {
             0x002E17DC: b"\x01\x20\x70\x47",  # isHeroUnlock -> true
-            0x0038C03C: b"\x70\x47",          # showLocks -> nop/return
+            0x0038C03C: b"\x70\x47",  # showLocks -> nop/return
             0x002B9AD4: b"\x01\x20\x70\x47",  # payUnlockHero -> free/true
-            0x002E3766: b"\xc0\x46",          # getUnLockHeros -> include all
         }
 
         for abi in ["armeabi", "armeabi-v7a"]:
