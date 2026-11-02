@@ -1,0 +1,19 @@
+.class public interface abstract Lcom/applovin/sdk/AppLovinAd;
+.super Ljava/lang/Object;
+
+# interfaces
+.implements Lcom/applovin/impl/sdk/ax;
+
+
+# virtual methods
+.method public abstract getAdIdNumber()J
+.end method
+
+.method public abstract getSize()Lcom/applovin/sdk/AppLovinAdSize;
+.end method
+
+.method public abstract getType()Lcom/applovin/sdk/AppLovinAdType;
+.end method
+
+.method public abstract isVideoAd()Z
+.end method

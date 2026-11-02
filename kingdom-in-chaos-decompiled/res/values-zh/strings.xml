@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">戰神傳說</string>
+    <string name="billing_not_supported_title">無法支付</string>
+    <string name="billing_not_supported_message">"The Market billing service is not available at this time. You can continue to use this app but you won't be able to make purchases."</string>
+    <string name="learn_more">更多</string>
+    <string name="help_url" formatted="false">http://market.android.com/support/bin/answer.py?answer=1050566&amp;hl=%lang%&amp;dl=%region%</string>
+    <string name="share">分享</string>
+    <string name="cancel">取消</string>
+    <string name="nomarket">在您的機器上沒有找到Google Play</string>
+    <string name="change_language">語言</string>
+</resources>

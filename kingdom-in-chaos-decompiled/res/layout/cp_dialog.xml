@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/translucent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/content_panel" android:layout_width="365.0dip" android:layout_height="288.0dip" android:layout_centerInParent="true">
+        <RelativeLayout android:id="@id/top" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@id/imgv_title" android:layout_width="238.0dip" android:layout_height="31.0dip" android:src="@drawable/featured_frame_game" android:scaleType="fitXY" android:layout_alignParentLeft="true" />
+            <ImageView android:id="@id/btn_close" android:layout_width="26.0dip" android:layout_height="24.0dip" android:layout_marginTop="7.0dip" android:src="@drawable/featured_frame_close_a" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+        <FrameLayout android:background="@drawable/featured_frame_bg" android:layout_width="fill_parent" android:layout_height="257.0dip" android:layout_below="@id/top">
+            <ImageView android:id="@id/img_content" android:layout_width="358.0dip" android:layout_height="214.0dip" android:layout_margin="4.0dip" android:src="@drawable/self" />
+        </FrameLayout>
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginRight="4.0dip" android:layout_marginBottom="4.0dip" android:layout_alignParentBottom="true">
+            <Button android:id="@id/btn_url" android:background="@drawable/button_download" android:layout_width="157.0dip" android:layout_height="31.0dip" android:scaleType="fitXY" android:layout_alignParentRight="true" />
+            <Button android:id="@id/btn_exit" android:background="@drawable/button_exit" android:layout_width="73.0dip" android:layout_height="31.0dip" android:layout_marginRight="4.0dip" android:scaleType="fitXY" android:layout_toLeftOf="@id/btn_url" />
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

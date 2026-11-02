@@ -1,0 +1,6489 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: gdwtRsdtegHIb6C+gAj6iPgCwNs=
+Created-By: 1.6.0_65 (Apple Inc.)
+SHA1-Digest-Manifest: vDH25apnAu4CrogTrXjsZihbFp8=
+
+Name: assets/release/gear/beltcloth_106.png
+SHA1-Digest: uFy03PKfEkaePQykus9oki3cJuA=
+
+Name: assets/sound_android/attackByBear.ogg
+SHA1-Digest: ASpE4kFuplCnrXxUIrPsDbH2Okk=
+
+Name: assets/release/spine_json/beholder_small.json
+SHA1-Digest: E3yaVr54VET32zkRitDvLfOFNHE=
+
+Name: assets/release/plist/cardchoose.png
+SHA1-Digest: KfwOBmDwKRvIzmHkRYxw/qSbnUw=
+
+Name: assets/release/plist/tornado.plist
+SHA1-Digest: VMtzTc31XZAWJIIDmnjstE+aI9g=
+
+Name: assets/sound_android/attackByHammer1.ogg
+SHA1-Digest: IdMLXVpJYAh87bfdTESf0BSjkPc=
+
+Name: assets/release/spine_json/alchemistTransfer_back.json
+SHA1-Digest: /tC6nwZnOep6TAiHbad0iEDSOZA=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: J/DJOfHFASqV9kgoKslnCSIuf/E=
+
+Name: assets/release/spine_json/portal.json
+SHA1-Digest: 8RQ9lfztWtGnqeT9zpwIBI7Ohr8=
+
+Name: assets/sound_android/demonRevive.ogg
+SHA1-Digest: OMDH42BGeCoke9AZoDxPyvNcUFk=
+
+Name: assets/release/gear/armorplate_122.png
+SHA1-Digest: UlAZA2fR+cLIuchsF4RCwVkglAY=
+
+Name: assets/release/spine_json/ladderBattle.json
+SHA1-Digest: trl43UMqFJCkVAUUtQwQ1y/578A=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: Vqvo4jDuqND3K4nFPvxDLUdbuZM=
+
+Name: assets/release/gear/scout_106.png
+SHA1-Digest: Y+1snodzKfY4plh3pGCfEt8Fk/k=
+
+Name: assets/public/config/levels/mt2.xml
+SHA1-Digest: gVAQf2TV6WU+dqEOd8ww2++sEBc=
+
+Name: assets/public/config/levels/conquer-9.xml
+SHA1-Digest: bJwRFYNusIW/Ib0EdCzpC1aqC4M=
+
+Name: assets/release/gear/armorplate_107.png
+SHA1-Digest: dcRqA5VH1BQu0i7l6U85+l5LA10=
+
+Name: assets/release/plist/weapon_bow.png
+SHA1-Digest: hJInxKxaj3Xigcil8/G4x3nQa3s=
+
+Name: assets/release/gear/highpriest_118.png
+SHA1-Digest: hNUHmIR6CkRdyd+nfHtsNiA1i1I=
+
+Name: assets/public/font/zh_angrybirds_26.png
+SHA1-Digest: zaWbqn4Sk9UIy/Yxdn4APrwKE1o=
+
+Name: assets/release/gear/helmetleather_105.png
+SHA1-Digest: GLmohZO2vgeDMPZWKN7RAy+jQp8=
+
+Name: assets/release/plist/weapon_wand.png
+SHA1-Digest: Mt9/IYbg0mlYWQjByMrcom6JlKI=
+
+Name: assets/release/plist/witch.plist
+SHA1-Digest: fpG3yg9uoRWDiBbAf896H+Dsjus=
+
+Name: assets/release/spine_json/demonRevive_redUp.json
+SHA1-Digest: 1evJmSMqZo6pGWxkOiwDlVIl31o=
+
+Name: assets/release/spine_json/twine_ground.json
+SHA1-Digest: sNC1pR9Zjzpi9jkLU3Jmpvlj5Do=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: G6dSngXLOt8M2G3S042PH/IFdHQ=
+
+Name: assets/release/plist/groupGift.png
+SHA1-Digest: rsOFQeQQUEPXQAaozNfBp0vwpr4=
+
+Name: assets/release/spell/spell_upgrade_shield.png
+SHA1-Digest: N6NKpMeq50sjZ/GpyvuXYH/3oqc=
+
+Name: assets/release/gear/mage_108.png
+SHA1-Digest: 7jXbdBKW82IXfmUzbLVBYQErN9o=
+
+Name: assets/release/gear/beltcloth_115.png
+SHA1-Digest: w8IcSm46kZIJgZv3Cz5QZvwQsw0=
+
+Name: assets/release/spine_json/resurrection_hit.json
+SHA1-Digest: cUd4LZzq4kvQ1EfwH8f4QpTBO0c=
+
+Name: assets/release/plist/orc_rider.png
+SHA1-Digest: sjRiiB3YGsPIaH9XxfqjBSqmYu4=
+
+Name: assets/release/spell/arcane_intellect.png
+SHA1-Digest: J66P6KBV4JAmiiqdgSmHuSnTpH0=
+
+Name: assets/release/spine_json/bishop_weapon.json
+SHA1-Digest: dYw13IDdFrFXySKcdBk+QkitoLc=
+
+Name: assets/release/spell/wild_leap.png
+SHA1-Digest: tw11jTiIWO8L/q9l+tNybYEY08Q=
+
+Name: assets/release/gear/helmetplate_113.png
+SHA1-Digest: 3L2OIO3kpepgrfvMFJVrVGXiAYA=
+
+Name: assets/release/plist/awakening.plist
+SHA1-Digest: VUJkY97bJ6Q/mS+1iiBE/ammjr4=
+
+Name: assets/public/config/levels/mdkt6.xml
+SHA1-Digest: /gcI9NekDpwVavIMx60/UzCL3sw=
+
+Name: assets/release/spine_json/shieldStrike.json
+SHA1-Digest: fmSGAG4wLYjeIxiHa6HE1cHU8Hg=
+
+Name: assets/release/gear/assassin_121.png
+SHA1-Digest: BwPD6ruWyDYDW+RoR1vXdrwRAOM=
+
+Name: assets/release/spine_json/pvp_trick_start.json
+SHA1-Digest: /zSZTHgSo+q6V3GQq3wXdWepqns=
+
+Name: assets/release/spine_json/elfin.json
+SHA1-Digest: DQCiWZ1oGn5BaGgL9FfmZU3MCAw=
+
+Name: assets/public/config/levels/mf5.xml
+SHA1-Digest: CbHZkOlJOchNu6L/vh8LuKswzZk=
+
+Name: res/drawable-xxhdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: ZXQOMXYIiWwII7vGmY3zRnMYg+8=
+
+Name: assets/release/spine_json/senility_hit.json
+SHA1-Digest: 7Dw3ONxEbn5A5vdHcxCvBYI0/Bo=
+
+Name: assets/sound_android/btn.ogg
+SHA1-Digest: hCCXlAVozwe+N6DohCA7uxml618=
+
+Name: assets/release/spine_json/lionRoar.json
+SHA1-Digest: 4m2gg0KCnY4Ee2i6RnYT9zyVtYE=
+
+Name: assets/sound_android/attackByBite2.ogg
+SHA1-Digest: g6v/t5ZQLxOsAtxynxtGEO+Q/dc=
+
+Name: res/drawable-xxhdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: ccNxg4V3GGhXMk1DBWF6Fj6tzRE=
+
+Name: assets/release/spine_json/goblinSummon_down.json
+SHA1-Digest: 1u4FYYauKLk9mX1ANpDIF2qPd9o=
+
+Name: assets/public/config/levels/mission-3.xml
+SHA1-Digest: edJ1odoCupI7U+z4LzM1I72+hwA=
+
+Name: assets/release/gear/scout_114.png
+SHA1-Digest: qHbzESjvRBHYpVPHjubns38o6q8=
+
+Name: assets/sound_android/voice_14_Ranger.ogg
+SHA1-Digest: tAzVp4JAjMfLKkBRTfccj98CuFc=
+
+Name: assets/release/spell/whirlwind.png
+SHA1-Digest: 1ePcGPI+j9lpZ5FQXJ/QP+5Oeqc=
+
+Name: assets/sound_android/voice_08_Mage.ogg
+SHA1-Digest: wibf+XLola9OAP1/Ag6YFVTZTpo=
+
+Name: assets/release/map/scene_8_3.png
+SHA1-Digest: CRCUB1ceiBWpUpW1DS6+Hr1VdNk=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: kv/AI+kY5TjjoX1O0j58MBzxAI0=
+
+Name: assets/release/spine_json/pvp_windShield_down.json
+SHA1-Digest: AdAGMzZoKYp/7T28+h8O/Xa7Xuw=
+
+Name: assets/release/spine_json/leverage_up.json
+SHA1-Digest: EPzCkZVEpzUWHk3kN9rBIv08V50=
+
+Name: assets/release/gear/musketeer_116.png
+SHA1-Digest: GLhxt6++TsgZeTOpAlXT8azL0aw=
+
+Name: assets/release/gear/helmetcloth_105.png
+SHA1-Digest: Zsys7tINoAnmSaJ3aqT6kJb+LaQ=
+
+Name: assets/release/plist/nation.png
+SHA1-Digest: yxwV+/jHXIoF86uJWTGyeRhrAjA=
+
+Name: assets/public/config/levels/mdt5.xml
+SHA1-Digest: QUu+mO5IY+y8vM2VWGXd+cGMG2k=
+
+Name: assets/public/config/levels/conquer-0.xml
+SHA1-Digest: MIfAM3msM1f7s/Vs3o9rZo1z15I=
+
+Name: assets/release/spine_json/senility_start.json
+SHA1-Digest: QyWbEsdZiwKT0BoTtlb0e2896Uw=
+
+Name: assets/release/gear/armorleather_115.png
+SHA1-Digest: cpUcTLc/ckINi+hSzaQk/1WY8ws=
+
+Name: assets/sound_android/hellfire.ogg
+SHA1-Digest: R0RXkL8yeNA/YN9xb/QcV2RzULA=
+
+Name: assets/release/gear/ring_107.png
+SHA1-Digest: nICIN61FLfoaP0R5cMDNgO2FzhA=
+
+Name: assets/release/spine_json/angelForm_up.json
+SHA1-Digest: G0TVraDO/1D6vUx4N+pQ9JFxkuM=
+
+Name: assets/sound_android/voice_05_HighPriestess.ogg
+SHA1-Digest: ANI200gOQZv7Za1uqOKfhrGRDcs=
+
+Name: assets/release/spine_json/pvp_icicle_down.json
+SHA1-Digest: EmYCufPwvwk9Jfimm/kTtyOBVhE=
+
+Name: assets/release/plist/sand_worm.plist
+SHA1-Digest: pM/fBliis8m7I791SBa87BG6MDY=
+
+Name: assets/release/gear/musketeer_105.png
+SHA1-Digest: X7NHpBYjieCU/nHEf9PRboX0Pao=
+
+Name: assets/release/gear/highpriest_114.png
+SHA1-Digest: 8bAbW4w+cMcFscHLToxq1sO4Xns=
+
+Name: assets/release/plist/goblin_healer.plist
+SHA1-Digest: B9ZY6ocysV0YKn3xZfVB54pMA7g=
+
+Name: assets/release/gear/musketeer_107.png
+SHA1-Digest: Tuyf8zHdrwI443FGIgjBlz2z0C4=
+
+Name: assets/release/plist/beholder_small.plist
+SHA1-Digest: 260p9k0kGxo4Z/HwjybICC+1As0=
+
+Name: assets/release/plist/centaur.png
+SHA1-Digest: YStMsOi/AQJs7DheRVuwj5QwP7g=
+
+Name: assets/public/config/levels/ms2.xml
+SHA1-Digest: rZAhM7ewnhDAznUWRaiB+dkMzR8=
+
+Name: assets/release/plist/regent.png
+SHA1-Digest: KeajWaS3huZrXMQMPqyo0Ade5AA=
+
+Name: assets/release/plist/popupExLife.png
+SHA1-Digest: 27lL7c0F8kKegVeepy4JydaEEKM=
+
+Name: assets/public/config/story/story5-1.xml
+SHA1-Digest: jlyRJ9LYzxTvjIIEL84iXYdap0A=
+
+Name: assets/release/gear/highpriest_120.png
+SHA1-Digest: N+c8YYRK4SMEu1Nwr6QgLEuTKh0=
+
+Name: assets/sound_android/dragon_die.ogg
+SHA1-Digest: EiY9xz7e6epaD/sKz/bEsZFeBuc=
+
+Name: assets/release/gear/bishop_122.png
+SHA1-Digest: qCPGbMlnCj0vxQuwWEHslOBYGtc=
+
+Name: assets/release/spine_json/killShot_fly.json
+SHA1-Digest: YQReF1usLkZ73sSr/DtwJH9NEek=
+
+Name: assets/public/config/levels/9-3.xml
+SHA1-Digest: YEIaSvsDwhj3dV3CRUy0oyKjP3k=
+
+Name: assets/sound_android/polymorph.ogg
+SHA1-Digest: zKFHuyzhwGiQEJt80nlyEJKVI88=
+
+Name: assets/release/spell/spell_upgrade_angel_summoning.png
+SHA1-Digest: AWC9ABbCSOGiHb8LVNvs4EP7Qb4=
+
+Name: assets/release/gear/armorcloth_110.png
+SHA1-Digest: TrEJfLPz9HrBflVVPwIDradKDGg=
+
+Name: assets/release/spine_json/bear.json
+SHA1-Digest: ArBi3blCikL0s2PbJF+jDqUxpr8=
+
+Name: assets/release/spell/aura_of_tenacity.png
+SHA1-Digest: bFIJZM0RX3dcBxpE5prXWqd/iIA=
+
+Name: assets/release/spine_json/meteor_start.json
+SHA1-Digest: yG6tYr7z61eCmA4y0XIcGIqbXes=
+
+Name: assets/release/gear/necklace_110.png
+SHA1-Digest: ulawB5mccxhEjZbqpS6JkhQvHh4=
+
+Name: assets/release/gear/musketeer_101.png
+SHA1-Digest: hHl62jDkz0F9jVciMOnNGyUvwS0=
+
+Name: assets/release/plist/home2.png
+SHA1-Digest: ZCweXAPC1kzeNGOQkFdbFC6Uc2c=
+
+Name: assets/release/spell/multiple_shot.png
+SHA1-Digest: yFYOMRdndRgNnKU/31WhuOJdXSc=
+
+Name: assets/release/spine_json/berserker_weapon.json
+SHA1-Digest: jCe42ZUBUm95ihBvdAGklVVGU4U=
+
+Name: assets/release/gear/hunter_100.png
+SHA1-Digest: BFHq7FBZw5Ht7Y6/iTOwbVUZfkw=
+
+Name: assets/sound_android/auraOfTenacity.ogg
+SHA1-Digest: L8n3atmzhj/XZB0L+0WhEoeTqMI=
+
+Name: assets/public/config/levels/conquer-4.xml
+SHA1-Digest: rQmc5ktNMh9b2tOFujrY/O+kx6U=
+
+Name: assets/release/map/scene_5_2.png
+SHA1-Digest: /C0aw7F9FXkqzviE4BHXzu9VEjY=
+
+Name: assets/release/spell/spell_upgrade_armor_pierce.png
+SHA1-Digest: PuH9bLftcdxYW1zG06qpicbhmuI=
+
+Name: assets/release/map/scene_9_2.png
+SHA1-Digest: 2zdtpXWaS8tc4+aNX9onRYbFdk4=
+
+Name: assets/release/spell/spell_upgrade_combo_shot.png
+SHA1-Digest: /bNuAcA0DSmiFVzlacYmEvrP50c=
+
+Name: assets/release/plist/cousin.plist
+SHA1-Digest: ON2s7ONOFrSzjtOV2Vm5zu+N/4c=
+
+Name: assets/release/plist/weapon_gun.plist
+SHA1-Digest: kwRrTQkDRoF60B+LeHkLe7zupZU=
+
+Name: assets/release/gear/assassin_113.png
+SHA1-Digest: KBEiHtPrBTzHI2FkFIiRFKJ8u8E=
+
+Name: assets/public/config/string/de.xml
+SHA1-Digest: 4AIonIYCGAU1UuMwEYm+2wUqABo=
+
+Name: assets/release/gear/wizard_120.png
+SHA1-Digest: gGA/Zswba7UtmYbjez+idnttwww=
+
+Name: assets/release/gear/highpriest_111.png
+SHA1-Digest: TEuKSzSNVsh2MORUFnI6o+Al870=
+
+Name: assets/release/spine_json/evil_sandworm.json
+SHA1-Digest: vUe2SC2ewWhBwTOXvmhh84BEaYw=
+
+Name: assets/sound_android/armorPierce_up.ogg
+SHA1-Digest: E7KXEiZkORQ9XXU6uOKauHd1biw=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: UcDyJtsKn6Pfa74wTCnvCu1YQj0=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: HApNmWi/Rv0fhLfK8ttcitINA6o=
+
+Name: assets/public/config/levels/m71.xml
+SHA1-Digest: BU8OaU91BYEBtpensuihy8cDErk=
+
+Name: assets/public/font/attack.fnt
+SHA1-Digest: 4z8TYRLlRefhhM0FJJL9niEB7Do=
+
+Name: assets/release/spine_json/achievementBg.json
+SHA1-Digest: 6Kk3Glg52eKF4nIs6jLtT4t637M=
+
+Name: assets/public/config/story/story6-1.xml
+SHA1-Digest: XEaN5uQ/ezIj/3OFhjPnxM8zvGo=
+
+Name: assets/public/config/story/story4-10Begin.xml
+SHA1-Digest: TuKFYuDq7Z6m1awk4JFllpH53IQ=
+
+Name: assets/release/gear/assassin_122.png
+SHA1-Digest: HsF2MMV594reXutm2KFTRFFPy04=
+
+Name: assets/public/config/levels/8-1.xml
+SHA1-Digest: 2CsYp9/BDPBcArhoNYarAHW1jjU=
+
+Name: assets/public/config/levels/7-1.xml
+SHA1-Digest: AspC+iJNPcrmZxk2mg+08wSEUmI=
+
+Name: assets/release/gear/beltcloth_112.png
+SHA1-Digest: u4+Anj6N6I2K/E6zf83mr0HXWZk=
+
+Name: assets/release/gear/assassin_116.png
+SHA1-Digest: VwT4UitkuMsN5wJURhZbpW2hOpw=
+
+Name: assets/release/gear/paladin_118.png
+SHA1-Digest: u6hdTZwF0rl0oDtB6ET4JFg/ciM=
+
+Name: assets/release/gear/ranger_105.png
+SHA1-Digest: G/auMz6YdIISMlaEiKi/eVqIyd8=
+
+Name: assets/release/gear/bishop_106.png
+SHA1-Digest: f+4EzgbLJJoWqwk0Tzzk/2oXK0U=
+
+Name: assets/public/config/levels/5-6.xml
+SHA1-Digest: 3irYj6MefxID4Z9SQGtEMrv0df4=
+
+Name: assets/release/gear/scout_117.png
+SHA1-Digest: SomB5OPlnrLxHi1GCN44d0GNZ6M=
+
+Name: assets/release/spine_json/poisonousShot_hit.json
+SHA1-Digest: +j06rW40BYPh2HHqDcwlzyxL3Ws=
+
+Name: assets/public/config/levels/m85.xml
+SHA1-Digest: 2Pao+lqhpK293ttZhbk+QFLtKo4=
+
+Name: assets/public/font/zh_cartoonist_28.fnt
+SHA1-Digest: Nx8KtyhF5LYop4b4fkTzL2UsqkY=
+
+Name: assets/release/spine_json/elf_caster.json
+SHA1-Digest: Di4ZMIuB16DeeeBtgSgfARWF5VU=
+
+Name: assets/public/config/levels/mdt6.xml
+SHA1-Digest: oucdV0U2ZEvGwfkgCcoAl/HNVDo=
+
+Name: assets/release/gear/assassin_108.png
+SHA1-Digest: jLDAXyyh9+LFBymDpEMOZBQ3Xek=
+
+Name: assets/release/gear/cloak_105.png
+SHA1-Digest: b62PPSgcTMK/kzJHJjH8d9rcttw=
+
+Name: assets/release/plist/ui0.plist
+SHA1-Digest: 0iBj5gNKC1tHbRUmwyQrLUcSWA8=
+
+Name: assets/release/gear/ranger_102.png
+SHA1-Digest: CaWJ7e2APFvvoq7W3DbAAPV9PI8=
+
+Name: assets/public/config/levels/1-9.xml
+SHA1-Digest: bLA9FYcqnBf0tUfpUS5M4yIM4OU=
+
+Name: assets/sound_android/voice_07_Caster.ogg
+SHA1-Digest: 2LU+1gU8Qg+mgzzrC+IBhpGMZjY=
+
+Name: assets/release/plist/rhinoceros.png
+SHA1-Digest: BbNSEiesHi3CrGBddbtKjBUoZJk=
+
+Name: assets/release/gear/highpriest_104.png
+SHA1-Digest: 1XGdKJ55b8Iu2PtFVzMyM39hIA4=
+
+Name: assets/public/font/zh_mflihei_26.fnt
+SHA1-Digest: Kv/35gBxjRhSLvStWyOHvf/eF7k=
+
+Name: assets/release/gear/helmetcloth_104.png
+SHA1-Digest: PN0KWKY4CxVnE5UwXlbPR+d+tqk=
+
+Name: assets/release/spine_json/grenade_hit.json
+SHA1-Digest: k48wb4d2pyIHl0EumC8x79/ArdI=
+
+Name: assets/release/spine_json/warrior_weapon.json
+SHA1-Digest: 9oRUqAwYeWxtvWeiIW3NpQMu1y8=
+
+Name: assets/release/gear/wizard_106.png
+SHA1-Digest: I4pG0tLGejnwFr7VnnVuf9PKZpU=
+
+Name: assets/public/font/de_cartoonist_45.png
+SHA1-Digest: h5/vuMfVcYUgIN+XcB7vayoks08=
+
+Name: assets/public/config/story/story1-2Begin.xml
+SHA1-Digest: nv0jDV+sUxf/mkBbsm8rzi+9Elw=
+
+Name: assets/sound_android/voice_12_Scout.ogg
+SHA1-Digest: jcm7cBtt9FVzAdWJbkM/cezt4uk=
+
+Name: assets/public/config/string/zh.xml
+SHA1-Digest: Tc0vutghF0rjx8xbdem5AeDBQrQ=
+
+Name: assets/release/gear/mage_104.png
+SHA1-Digest: p31t2XMU1Pfs2lNtiQAX6zHYKfI=
+
+Name: assets/release/spine_json/comboShot.json
+SHA1-Digest: bE5lMEOltJx7g9jf8SXiUGBmUkA=
+
+Name: assets/release/gear/beltleather_114.png
+SHA1-Digest: dc2Xd8ZRZQoA4MsrVSdufeVFLRA=
+
+Name: assets/release/gear/shoeplate_108.png
+SHA1-Digest: yXu+Wbrs6OsNDt/txpJTnWUglAo=
+
+Name: assets/release/spine_json/alchemistBomb_hit_down.json
+SHA1-Digest: VEinIzddHDgp3IgJZNnNzg3DLZo=
+
+Name: assets/public/config/levels/5-4.xml
+SHA1-Digest: JxjIIurKdTtY5akQS9wDRb67f6s=
+
+Name: assets/release/spine_json/thunderStrike_down.json
+SHA1-Digest: KtVNomp8w4wXueiemOTKSm/f+6E=
+
+Name: assets/release/spine_json/totem_rock.json
+SHA1-Digest: ek1d42j68SLzMNQqSba3E30muHE=
+
+Name: assets/release/plist/priest.plist
+SHA1-Digest: siM2kQeed6GbuducomoG1pyU384=
+
+Name: assets/release/gear/helmetplate_110.png
+SHA1-Digest: wCDDpbygVTe8iBcQK2Ozq1sq2zk=
+
+Name: assets/release/gear/wizard_109.png
+SHA1-Digest: T9WuVdS/r2NtAEcL9UeZhjGbiK0=
+
+Name: assets/release/gear/beltcloth_103.png
+SHA1-Digest: Ivo+bwhZWXmqGst5EaCm+YhnWL4=
+
+Name: assets/release/spine_json/darkMirror_up.json
+SHA1-Digest: 4Ayn8BvmxTVgPjiufaOulgUaHhU=
+
+Name: assets/public/config/levels/1-5.xml
+SHA1-Digest: mTxy1rqpSbq66qTyPV5j0ChgbH0=
+
+Name: assets/release/spine_json/high_priest.json
+SHA1-Digest: ixbf2MqdQ0su3kzsU87xqdDfbU0=
+
+Name: assets/release/plist/battle1.png
+SHA1-Digest: 8+QaN+pQqjgQ9d45Qx5qr26f3Dc=
+
+Name: assets/public/font/sk_angrybirds_26.fnt
+SHA1-Digest: zX+zV/CZS+NOClUEKQ+wirVI4BQ=
+
+Name: assets/release/spine_json/totemDust.json
+SHA1-Digest: YaLfzXsdorGINDVW5HY7LQtKzhk=
+
+Name: assets/release/gear/paladin_114.png
+SHA1-Digest: R370E+JDeDLtho2hXxAV99MXLRI=
+
+Name: assets/release/spine_json/UI_loading.json
+SHA1-Digest: pXd9trV1KIXvUloHEKkD+YXeQGs=
+
+Name: assets/release/spine_json/map_icon_achievement.json
+SHA1-Digest: boOY0zKnEzPE5qvpyS42Bcl0so4=
+
+Name: assets/release/gear/beltcloth_100.png
+SHA1-Digest: /xO0tTowcd0d77HWkpUxsmiOt0c=
+
+Name: assets/release/spine_json/charm_hit.json
+SHA1-Digest: c12Y9QvhLlgoqLoUQNtw/hZoy5o=
+
+Name: assets/release/plist/orc_warlock.plist
+SHA1-Digest: nOUfnlaX86b5TFfMHlrAfjVKLIs=
+
+Name: assets/release/plist/home0.plist
+SHA1-Digest: qXb29cYXOyuWPgI9NUgbsUJtO3k=
+
+Name: res/drawable-mdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: 6eT2kB9+PoddRN6pi6C0AgNOsQ8=
+
+Name: assets/release/spine_json/demonRevive_redDown.json
+SHA1-Digest: re703/Q7FMbKy5XASMLRP1SA2PI=
+
+Name: assets/release/spine_json/fadeOut.json
+SHA1-Digest: JME2O7eKkmIJd+BJoSCPa2IAVIw=
+
+Name: assets/release/gear/assassin_115.png
+SHA1-Digest: wET7nt4ZuCFLcMmrFRMlH0xoSlk=
+
+Name: assets/release/plist/pvpBattle_behead.plist
+SHA1-Digest: AwnVrnxHz9McvDiTo5M03P1drqQ=
+
+Name: assets/release/gear/shoeplate_102.png
+SHA1-Digest: sMDNS7bHAKDxl1AsCYiOVYu0ibE=
+
+Name: assets/public/font/de_cartoonist_28.fnt
+SHA1-Digest: nSMuhfs9ECFgA0TTmOXrTP7X10k=
+
+Name: assets/release/plist/pvpBattle_steal.plist
+SHA1-Digest: AzIfKybxX1YkJ972TwuBV7hBIuY=
+
+Name: assets/public/config/levels/5-7.xml
+SHA1-Digest: WVDnyuSUpyg5mUqOi8+BBG4vGTs=
+
+Name: assets/release/spine_json/vanish_out.json
+SHA1-Digest: eY1LabG1dnfLHGfn13WbTm1lzHA=
+
+Name: assets/release/spine_json/orc_warrior.json
+SHA1-Digest: sbrAyJAlK9g7MEwx8yEWEzQcFY0=
+
+Name: assets/release/gear/beltleather_104.png
+SHA1-Digest: fvOTvcXsVxM544YipB32gMCuBhY=
+
+Name: assets/release/spine_json/caster.json
+SHA1-Digest: xSWOy4BoZO9KI0LpczKI/Df7RO0=
+
+Name: assets/public/config/unit.xml
+SHA1-Digest: 4oryoL7CDYUzZutyp3LPbG7Iof8=
+
+Name: assets/release/spine_json/fairTrial_up.json
+SHA1-Digest: 9X9lcRGXZsziiGfkVRZDej7K3lc=
+
+Name: assets/release/spine_json/musketeer.json
+SHA1-Digest: yFVAM9DFli4jcgpyrGEDJhyyQ6s=
+
+Name: assets/release/gear/musketeer_119.png
+SHA1-Digest: qI/sDhT/6fQC0RCOZyP0DB8Nkfs=
+
+Name: assets/release/gear/bishop_114.png
+SHA1-Digest: esuiycUvmM+ojrSCFlujieSPPaE=
+
+Name: assets/public/font/ru_angrybirds_30.png
+SHA1-Digest: rai3vX9tjY2BGL3OUD6s+Y4Z/Zg=
+
+Name: assets/public/config/levels/m65.xml
+SHA1-Digest: 4Dra/3DR6884DfO/1t0lGHbpe1k=
+
+Name: assets/release/gear/helmetleather_102.png
+SHA1-Digest: gUXwGXe8S/QsL6QVxG/4DVdkHX0=
+
+Name: assets/release/spell/powerful_shot.png
+SHA1-Digest: uaaW5mZBNVm2s1sb4FdPUcTCdHk=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: 9W0T55fo9aapYdMoOLL5e3D7Z2g=
+
+Name: assets/release/plist/ui0.png
+SHA1-Digest: nWo622B5MacJSu6ujjuZg/bwNkY=
+
+Name: assets/release/plist/popupHint.png
+SHA1-Digest: T9Y8kfRNYpEiSwq7gTVNs0WHKMA=
+
+Name: assets/release/plist/weapon_twoHanded.png
+SHA1-Digest: YziRtP3Zp/wNEUCNxhxX2CJ2HWU=
+
+Name: assets/sound_android/skillReady.ogg
+SHA1-Digest: Es9lB1tTu+oAT/QLewR6oJxMwFU=
+
+Name: assets/release/gear/beltcloth_113.png
+SHA1-Digest: rM+Hn4RwIbxWr/fBMonf2uLgIy8=
+
+Name: assets/public/config/levels/2-4.xml
+SHA1-Digest: 5jpHfwerJvonpJjM0wsQ7nfSMsA=
+
+Name: assets/release/spine_json/explosiveShot.json
+SHA1-Digest: xJdKFoRq1ysu7p5MdhOWwpy1/W4=
+
+Name: assets/public/font/ru_cartoonist_45.png
+SHA1-Digest: um9ZcNLq8zPDDDHVS7TrK1VVWS4=
+
+Name: res/drawable-hdpi/featured_frame_game.png
+SHA1-Digest: Jvf9Sfo3Cf0EXWUUAcSmv0c6eKk=
+
+Name: assets/sound_android/stun.ogg
+SHA1-Digest: eNKhMywT3HHyerlbpee/TwhwYwE=
+
+Name: assets/release/gear/bishop_108.png
+SHA1-Digest: WKehUWC5HPVDU/4dMTx/WzV+v5Y=
+
+Name: assets/release/gear/scout_108.png
+SHA1-Digest: tx6C7PfYCTh8P2uSmIAcIwBq09w=
+
+Name: assets/release/spine_json/fire_up.json
+SHA1-Digest: XAqwzD6yNXKk/+BVZC8ssw4gn0c=
+
+Name: res/drawable-mdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: 8HFBy6CCPO1ERPwvdY0jFM5WrsA=
+
+Name: assets/release/gear/wizard_110.png
+SHA1-Digest: vLekS0OL/pE7hG4FOksTWuUz9Gk=
+
+Name: assets/public/config/levels/6-2.xml
+SHA1-Digest: 0Tw/qcACWcu3SISlHBBXZEhbIaY=
+
+Name: assets/sound_android/holyShield_exit.ogg
+SHA1-Digest: MJDEl893+qacE5LhuUmlud8pLS0=
+
+Name: assets/public/config/levels/7-7.xml
+SHA1-Digest: iMWk99RX7Tq63mD14OaMbmV/qcw=
+
+Name: assets/public/config/story/story6-10End.xml
+SHA1-Digest: /pha97bs6mxpcBn+2wyBJSyBJ68=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: p6WFfopAJUpe9SAbwumQyu6etVM=
+
+Name: assets/release/gear/helmetplate_104.png
+SHA1-Digest: yDssMLIEOgbYRUcwBJjcAOptrDs=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: KBKivHvYvVRyH1jLTW/mhvTU2GA=
+
+Name: assets/release/spell/combo_shot.png
+SHA1-Digest: 7B1YTUOBvixQEsn/A/sAH2fE5h0=
+
+Name: assets/release/gear/bishop_103.png
+SHA1-Digest: Syd0QoJvQn9FXC6QVvnDQdqw6/0=
+
+Name: assets/release/gear/paladin_105.png
+SHA1-Digest: Jx+4isIEhiRREgEGQcBVCo43VNo=
+
+Name: assets/sound_android/sirbedivere_die.ogg
+SHA1-Digest: tayOwZUo7xMJ61U+5EB72Q2leLw=
+
+Name: assets/release/gear/necklace_103.png
+SHA1-Digest: gwo99J6scwQeoWziT5itLJZIW0c=
+
+Name: assets/release/plist/goblin_thief.png
+SHA1-Digest: kxvCI1smJWSV8HvkDkLVgng+md8=
+
+Name: assets/release/spine_json/piranhaAttack_fly.json
+SHA1-Digest: wp9T+3kVoBxNjCrGPWTSILEhW7s=
+
+Name: assets/public/config/levels/2-6.xml
+SHA1-Digest: k/LZXik59aob/QwEf50phOm/wdw=
+
+Name: assets/sound_android/meteor.ogg
+SHA1-Digest: JNlOgCbvYI9BsxF6CupWJdLzUFg=
+
+Name: assets/release/gear/highpriest_119.png
+SHA1-Digest: lo5nB/6+jNwc/KbqOBqVgMSkVvY=
+
+Name: assets/release/spell/spell_upgrade_fearless.png
+SHA1-Digest: GDq72QWWv1QtP14hLh9vI/mq8xQ=
+
+Name: assets/release/plist/evilelf_archer.png
+SHA1-Digest: 3OcTxZ7lOYWkXXL7hDXFEtci/wg=
+
+Name: assets/release/plist/evilelf_warrior.plist
+SHA1-Digest: Gk8XTFCBRhoq2prjTujd+xG4b7Y=
+
+Name: assets/release/gear/ring_110.png
+SHA1-Digest: UHU3HSUO7d10Uvr6I9F/laYyQAs=
+
+Name: assets/release/spine_json/caster_weapon.json
+SHA1-Digest: RjOWNrgMSEgpv297mykZ9qOClCM=
+
+Name: assets/release/plist/popupEvents.plist
+SHA1-Digest: hreJLfy8Hvvuj2jteS8to6qGHc0=
+
+Name: assets/release/plist/totem_healing.plist
+SHA1-Digest: I8DJtOjT2XZrilHBG9d9ZSgB6Sk=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: aPxNzja8/HLMOYVcjsH5mpC2QFY=
+
+Name: assets/release/plist/cardchoose.plist
+SHA1-Digest: +bfHkTjH6KV4PK5qrN/WczM9kp8=
+
+Name: assets/release/spine_json/armorPierce_down.json
+SHA1-Digest: YC+8MgJ7plFomXiMcdJA4juGt8k=
+
+Name: assets/public/config/levels/m25.xml
+SHA1-Digest: iLDI/ie5NCNLYnmOFy23xklJtoE=
+
+Name: res/drawable/button_exit.xml
+SHA1-Digest: 1bVtYJlL7Lsw95siWUGOnBFd+v0=
+
+Name: assets/release/spell/enrage.png
+SHA1-Digest: XxK4y8/5a6g31mKhRWqFWYyEn6E=
+
+Name: assets/release/spine_json/sandwormAttack_start.json
+SHA1-Digest: kpIkCzvoByc23zvYTQ+brZ3BrZg=
+
+Name: assets/release/plist/pvpTicket.plist
+SHA1-Digest: TKWGIRg699/JDY08JsRQbe1FLM8=
+
+Name: assets/release/spell/spell_upgrade_holy_shield.png
+SHA1-Digest: LQvwIwxiKEmIQWufFVJB8RNyCaM=
+
+Name: assets/release/gear/beltplate_112.png
+SHA1-Digest: SW0niUCB/FO4PGkWf7FxgLHb/hM=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_focus_light.9.
+ png
+SHA1-Digest: vYGpVWnAMgcmNtuRdZ+dYzNpdOM=
+
+Name: assets/release/spine_json/orcWarlockHealing.json
+SHA1-Digest: c74X2KK6nusCjd3u0V1o2jNVYrc=
+
+Name: assets/release/plist/wizard.png
+SHA1-Digest: yk0XI7Byw60D5i9UilWDj/CWJjQ=
+
+Name: assets/release/plist/mission.png
+SHA1-Digest: +/YwIlV1XpzseHC5Ad0VaymLigI=
+
+Name: assets/public/config/global.xml
+SHA1-Digest: NqmgJ4YvKm/vBPD90uz81szBBUg=
+
+Name: assets/release/gear/paladin_120.png
+SHA1-Digest: ROl5lCXJqiDdScg3ze1nkqiXZOY=
+
+Name: assets/release/plist/totem_healing.png
+SHA1-Digest: YKnmT/BlVScLrLHEbC5CuOxfL4Q=
+
+Name: assets/release/spine_json/darkestFear.json
+SHA1-Digest: b/yYuS/8jKCpkT4vmH/8MalFGU4=
+
+Name: assets/release/gear/highpriest_101.png
+SHA1-Digest: vFESLBtPv4vvwh8TAPNLGTYqiAA=
+
+Name: assets/public/config/levels/endless-8.xml
+SHA1-Digest: AFzNGSgBHF7a6Cxbd9v+KhbrulM=
+
+Name: assets/public/config/levels/3-9.xml
+SHA1-Digest: 55rgUJWbhmkgASVqIqAW6d1qxUY=
+
+Name: assets/release/spell/blood_fever.png
+SHA1-Digest: wBonJNJtM2jWN3GT9JJ/FmMYo78=
+
+Name: res/drawable-xhdpi/icon.png
+SHA1-Digest: /jnKD4w5r5PIyf4bAio5wD/4u0s=
+
+Name: assets/release/spine_json/scout.json
+SHA1-Digest: g8Cb2w1+t/YQxIyRHWpoF46tYeU=
+
+Name: assets/public/config/levels/6-6.xml
+SHA1-Digest: NKqPL8/d+pl3Bp4VOFGSBabAU9M=
+
+Name: assets/public/config/levels/ms6.xml
+SHA1-Digest: ATdKcMHlhFND8WAMmabHB9FApJU=
+
+Name: assets/release/spine_json/pvp_deadly_start.json
+SHA1-Digest: pwHWzE34d8PAPoUVbo/dg4VpXLU=
+
+Name: assets/sound_android/fenrir_die.ogg
+SHA1-Digest: A3NJOcfcZmerp35hSqOk952MeBU=
+
+Name: assets/release/plist/regent.plist
+SHA1-Digest: lT40t7nj6cAovnI3XyXlVMj4ZVA=
+
+Name: assets/release/spell/lions_roar.png
+SHA1-Digest: alj6XrHRDfmXUgxUxPSPFhQ/3zE=
+
+Name: assets/public/config/levels/mf6.xml
+SHA1-Digest: ER0owaZyCIvBxvtrM4enkFl+f8w=
+
+Name: assets/sound_android/poisonousShot_start.ogg
+SHA1-Digest: qXUNLnIO1K/I/jYmLTDosKguOQk=
+
+Name: assets/release/spine_json/ranger.json
+SHA1-Digest: db+TUafiQ2SMKiXqlYFfy3ulqHY=
+
+Name: assets/release/spell/spell_upgrade_warstomp.png
+SHA1-Digest: /3oK6B4+73SQeLsw4UzLTa/C14w=
+
+Name: assets/public/config/levels/mdkt1.xml
+SHA1-Digest: wb/uGR6e8TTxotuaJnAjbXRS1ss=
+
+Name: assets/public/config/levels/conquer-8.xml
+SHA1-Digest: oihKqOFhQWu38Pp9e2VGfMZYeEY=
+
+Name: assets/release/plist/paladin.plist
+SHA1-Digest: loFUxwkRo3Nd/EpItnv+kKLQgZs=
+
+Name: assets/release/gear/shoecloth_103.png
+SHA1-Digest: c0p31iz1BeFBlSXQVy1VZozPCZA=
+
+Name: assets/release/gear/mage_105.png
+SHA1-Digest: ElA/zaB5d2HSWEszOUdNQfF7ExU=
+
+Name: assets/release/map/homemap_bg_sky_2.png
+SHA1-Digest: vdjojGoWJrFAtiSIwJZ6t+PVsuo=
+
+Name: assets/release/plist/usPublic.plist
+SHA1-Digest: og4/E8J2k24aVApGecT/bT9hOWw=
+
+Name: assets/release/plist/wheel0.png
+SHA1-Digest: 1ikVV7iWxZHQ+z3S+Zab973v2Mw=
+
+Name: assets/release/gear/necklace_101.png
+SHA1-Digest: V7M0Q2vZdisiU0Leosg4kP1KA6c=
+
+Name: assets/release/spine_json/burrow_down.json
+SHA1-Digest: 0LcQxuJtt8t3ZkJ/0HtgJakFpmQ=
+
+Name: res/drawable-hdpi/self.jpg
+SHA1-Digest: Nz3JEAcfPV50ITVhDcJN5Eph924=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: GkEfIh/mUAfisefwfV9LRLuukWc=
+
+Name: assets/release/gear/mage_112.png
+SHA1-Digest: TSqgBCuZE1qrSR63AFLEtI232vQ=
+
+Name: assets/release/plist/pvpBattle_luck.png
+SHA1-Digest: sfCALYF9BbPtcJmp1SBcZI998fc=
+
+Name: assets/release/spine_json/iceNova_down.json
+SHA1-Digest: iP+MiY7uTnKcHLQdVfG5/ouafuw=
+
+Name: assets/release/plist/caster.plist
+SHA1-Digest: 03uT8APprK61TnMT3N+QuPEUkRk=
+
+Name: assets/release/spine_json/rogue.json
+SHA1-Digest: ovXyf56AEj18UUmfpwoduJmuDHk=
+
+Name: assets/public/config/levels/m43.xml
+SHA1-Digest: 45eUiyCKNZY2kSW2cA5+LQEZc0s=
+
+Name: assets/sound_android/darkestFear.ogg
+SHA1-Digest: NZRgX2XjGUf/LI1hKbtXv+iOj0Q=
+
+Name: assets/public/font/zh_angrybirds_30.png
+SHA1-Digest: LiWx3uMGpdkmzXNTseQgoF9N9VI=
+
+Name: assets/release/spine_json/drunkman.json
+SHA1-Digest: mUseQYku3CuFh8yOS1LIun10lnM=
+
+Name: assets/release/spine_json/pvp_selectedHero.json
+SHA1-Digest: BbhFXAVx9L+a3fKMhnI/SXxcL+M=
+
+Name: assets/release/spine_json/dragonBreath_down.json
+SHA1-Digest: ybynUJMGtJUCNp1xqQmMJSV99FY=
+
+Name: assets/release/gear/beltplate_103.png
+SHA1-Digest: wTizjTLRIYfNkfhAKiHUoDIA148=
+
+Name: assets/release/spell/dog_partner.png
+SHA1-Digest: yFPuqiLkkB4NqwHOXcd5g31Enjw=
+
+Name: assets/public/font/zh_angrybirds_30_new.fnt
+SHA1-Digest: GYzOSndbGXpFJZIh7gYM2SmBrXI=
+
+Name: assets/release/gear/shoecloth_108.png
+SHA1-Digest: xLRIVeYH7BqLHOqSIW8RbAmeyNI=
+
+Name: assets/release/plist/wheel0.plist
+SHA1-Digest: bBIz2bRDFQKlSxbnhh8+jxL+J2s=
+
+Name: assets/release/spell/spell_upgrade_deadly_shot.png
+SHA1-Digest: JIadYMx8P62PDcxy40YMCX9qX54=
+
+Name: assets/release/gear/mage_116.png
+SHA1-Digest: OUNvHE1WfXiI9/+TCSl181utKTo=
+
+Name: assets/release/gear/ranger_120.png
+SHA1-Digest: g5hskdBm2jA50ZlwhYPyilqM1jQ=
+
+Name: assets/release/plist/intro1.plist
+SHA1-Digest: XW1KB31+o/431L+fsFwFXjTUtOY=
+
+Name: assets/release/spine_json/stun.json
+SHA1-Digest: WCf7w4wk088mBYP/y5ow4VCJFtU=
+
+Name: assets/sound_android/dragonBreath.ogg
+SHA1-Digest: sP1sbycn+QG5Ila/LV3RnFNpHQQ=
+
+Name: assets/release/spell/holy_blot.png
+SHA1-Digest: K2j5YDrvXeXm+qaxvJs1vSHgQiw=
+
+Name: assets/release/spine_json/attackByCrow.json
+SHA1-Digest: voKy3ZT7Rj+NIx7NI9FvmOy+dus=
+
+Name: assets/release/plist/cousin.png
+SHA1-Digest: Klqe8HsJuMqhLWmzueVbgDP01rY=
+
+Name: assets/release/spine_json/iceNova_up.json
+SHA1-Digest: 0e66Fx/VF/eJo0ym8fydSrC/GmI=
+
+Name: assets/release/spell/sunder_armor.png
+SHA1-Digest: i/MccqYZtO7b8L6YVo//zQcyXBc=
+
+Name: assets/public/config/levels/ms5.xml
+SHA1-Digest: fTHRNwNgi83GaexhKqCHjRtbdUI=
+
+Name: assets/release/spell/expanded_magazine.png
+SHA1-Digest: KWM4+/6yyGZceg005Ie2R3aOUsE=
+
+Name: assets/public/config/gear.xml
+SHA1-Digest: TVeNLuKslsPGcipQ6GUPmUssOwM=
+
+Name: assets/release/gear/armorcloth_106.png
+SHA1-Digest: 5h1R61YydkaW98kUAwFiwC8xqvU=
+
+Name: assets/release/spell/spell_upgrade_mightyswing.png
+SHA1-Digest: S8Znfc9/DxA7rLvZuj45p8RHay4=
+
+Name: assets/release/spell/spell_upgrade_atonement.png
+SHA1-Digest: Xr4BiG2Jf351L7tmhlwurB+eDe8=
+
+Name: assets/release/spine_json/meteor_down.json
+SHA1-Digest: vSTBeprwiOBBqDNH0dH8BxtldBU=
+
+Name: assets/release/gear/armorcloth_121.png
+SHA1-Digest: HlEV9k2KCArJX0GSxcp0W5zJySs=
+
+Name: assets/release/spine_json/dog.json
+SHA1-Digest: FJDow+I2tqN89XRfhbPrArJSlMM=
+
+Name: assets/release/spine_json/paladin.json
+SHA1-Digest: sPU2CUNOo3mAIHhvQl/NLBjkKEY=
+
+Name: assets/sound_android/armorDamage.ogg
+SHA1-Digest: bqrnNXVOmD2q9gIxV4kQyNoK7/s=
+
+Name: assets/release/spine_json/hammering_down.json
+SHA1-Digest: gkuhA/Cuiw1IhRfWMHc+gLrd8Y0=
+
+Name: assets/release/spine_json/pvp_deadly_hit.json
+SHA1-Digest: vkvp4w2ylk1fzozokUaPA/A7hC4=
+
+Name: assets/release/spine_json/UI_line.json
+SHA1-Digest: PO1FDQEc7FdL02u7qcDABQPM3so=
+
+Name: assets/release/plist/popupBankHint.png
+SHA1-Digest: +549Kcd/EXgxFsiNsNYU/Jc2gK4=
+
+Name: assets/release/plist/yangtuo.plist
+SHA1-Digest: lzEoCUTyO+NwxugSlAD8OrjMrb4=
+
+Name: assets/release/gear/bishop_112.png
+SHA1-Digest: LHCYbfs9X5txvmxAwSFQoT0rXoo=
+
+Name: assets/release/plist/giftBase.png
+SHA1-Digest: x6r9A5GcG+O5xl6iuxR5TKGkJes=
+
+Name: assets/release/spine_json/lightningChain_fly.json
+SHA1-Digest: xfPRQ7eNoPlUvQ4FuvZDBzC70BE=
+
+Name: assets/sound_android/alchemistDie.ogg
+SHA1-Digest: m3+29p5O6bYh6IN+tooyOhlWtAE=
+
+Name: assets/release/spine_json/bishop.json
+SHA1-Digest: Hyc0BGdFx0ILRbxvhoV/I3oAtPY=
+
+Name: assets/release/gear/necklace_107.png
+SHA1-Digest: bvhY1uElLA70q4We11TctKgqWmU=
+
+Name: assets/public/config/levels/8-8.xml
+SHA1-Digest: Ag1aguwxwSkBAa9/uhcTqsG+ZkY=
+
+Name: assets/public/config/story/story4-1.xml
+SHA1-Digest: Ubl7QBYkhwxt8vut1Y8hdEw0T2A=
+
+Name: assets/release/spell/spell_upgrade_throwing_daggers.png
+SHA1-Digest: H2CurR/xTy3dQO9ygHl7KjTVJGU=
+
+Name: assets/sound_android/card_hit.ogg
+SHA1-Digest: Y/bFlb77vfmgtjrYupFkhOlVNgE=
+
+Name: assets/sound_android/wildLeap.ogg
+SHA1-Digest: ayTVuts1mI/vWODTwVdEODEjId8=
+
+Name: assets/release/spine_json/blinkElfCaster.json
+SHA1-Digest: zR07Mr+jaEhePqKmdEM2fos5BYo=
+
+Name: assets/public/config/story/story2-6.xml
+SHA1-Digest: MmM001YKyF6eX0CQpY2pSCi4kXs=
+
+Name: assets/release/gear/armorcloth_120.png
+SHA1-Digest: cl5ZEkNgPS8JOPwu2J4OEJ8u8yM=
+
+Name: assets/release/gear/beltleather_100.png
+SHA1-Digest: jZgcZ8sVcee4s2hCOYAyUYNvwIg=
+
+Name: assets/public/font/de_cartoonist_28.png
+SHA1-Digest: 3NFwCBun0WvWrTqMTHNklsGxQbc=
+
+Name: assets/release/plist/popupLuckGiftBase.png
+SHA1-Digest: k0ySptHuyOBtQdvFnLBC6GVdoYQ=
+
+Name: assets/sound_android/voice_01_Warrior.ogg
+SHA1-Digest: v6drqEs8Km4AfNJKn90CBeStoE8=
+
+Name: res/drawable-mdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: AZnQe1K2q3TpZBvPmp0YyyPZIZc=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: lWs4d261JPPuk3EUuccIGCrtIls=
+
+Name: assets/release/gear/helmetleather_107.png
+SHA1-Digest: 5RHxhi3vy9QNzSmk+jX7gudEbtE=
+
+Name: assets/release/gear/helmetcloth_103.png
+SHA1-Digest: FEKuS6zrYPAVac7vgeYLUNZmM2Q=
+
+Name: assets/release/gear/ranger_111.png
+SHA1-Digest: GsDoaMXZipEOSrV3OUgqUpwuLwo=
+
+Name: assets/release/gear/beltplate_104.png
+SHA1-Digest: tIc6s0UvYK/JVyC7DJuWS1sHEic=
+
+Name: assets/release/plist/demonRevive.png
+SHA1-Digest: 4wU0j64StuQIsV7VxjQ/hbV+dkg=
+
+Name: assets/release/map/story_map_2.png
+SHA1-Digest: pnZjiVjIIRRVm2DNMR4FQcrmvAo=
+
+Name: assets/sound_android/sand_worm_die.ogg
+SHA1-Digest: +HezTAhhNl9XRLjpFZMhNBaHUWA=
+
+Name: assets/release/plist/piranha.plist
+SHA1-Digest: AxjjhBKMcvWQH85OFsQX7mTyHwk=
+
+Name: assets/release/spell/favor.png
+SHA1-Digest: tsq+nQ4DPkUWRmDOPWEUZ5EENLM=
+
+Name: assets/release/gear/armorplate_100.png
+SHA1-Digest: BKibHTs4Sx789FG14d8PFTZwkV4=
+
+Name: assets/release/spine_json/bomb.json
+SHA1-Digest: HJheEBYXNpNpXsfl/ANwkLPJExQ=
+
+Name: assets/public/config/story/story9-1.xml
+SHA1-Digest: pwKOQ/yFWlGxgI9NuW5UBRYIRCo=
+
+Name: res/layout/cp_fullscreen.xml
+SHA1-Digest: HUlKQg0/NKsrOVe/o5dNn05lmqY=
+
+Name: assets/release/spell/spell_upgrade_wild_leap.png
+SHA1-Digest: gAQTAB540zaXJFr2W7M1+STukO0=
+
+Name: assets/release/spine_json/fire_down.json
+SHA1-Digest: JabXhaKFXRwywYEeL2Hs0+UApsY=
+
+Name: assets/public/config/levels/4-9.xml
+SHA1-Digest: o1HuReqeHRvgy1gX4uBFMGH4pKU=
+
+Name: assets/sound_android/silence.ogg
+SHA1-Digest: cQP7p65eG35bFY3LfifI7vmlQvM=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: 1lmxdMqqR05NGCIicX5/go4klZ8=
+
+Name: assets/release/gear/beltleather_112.png
+SHA1-Digest: Y9tyDJmPllQg3IaTGXwGyjD//EY=
+
+Name: assets/release/spine_json/manaForm.json
+SHA1-Digest: dskTYirQvUcxV2DgRsJNzg6ejhM=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: omAXquwzcPn18tEZRYr8IO45zFo=
+
+Name: assets/sound_android/attackByStab1.ogg
+SHA1-Digest: QFAuGamm0bHsKqSnIT/l8ePD4jw=
+
+Name: assets/release/spine_json/pvp_focus_hit.json
+SHA1-Digest: m8gS0Hu5wdR+ZLFa9B/t9YfsLCg=
+
+Name: assets/release/gear/cloak_101.png
+SHA1-Digest: n5sI0jrAlBP0bD2cwtXByoYK218=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: vGK2Dmvv4ROeijEyHCYXRWdCvLU=
+
+Name: assets/public/config/levels/m55.xml
+SHA1-Digest: j+PCrz5Kc9ACDuyttdK3Py24idA=
+
+Name: assets/sound_android/lionRoar.ogg
+SHA1-Digest: 9wwU5ihqoRDUhrrsFNP45A6+QbY=
+
+Name: assets/release/gear/paladin_100.png
+SHA1-Digest: 9FKQOOCK6eLIgBNv+d+eyRCKW04=
+
+Name: assets/release/spine_json/jumpHammer_up.json
+SHA1-Digest: zPk+YrLl/dc18OkmRoexkED6IIg=
+
+Name: assets/release/spine_json/elfCasterAttack_hit.json
+SHA1-Digest: 8CgUuaL/5YuGIyCTYrYZV0J759A=
+
+Name: assets/public/config/levels/m15.xml
+SHA1-Digest: OQwIGq5ObK/pDm/ecztvjB+WDiM=
+
+Name: assets/sound_android/bg_1.ogg
+SHA1-Digest: Pef6vCsXhN2Wzz4k/FUhKZWxk6k=
+
+Name: assets/public/config/story/story8-1Begin.xml
+SHA1-Digest: lgRN2OkENds0az44+Ahj2d8LSWc=
+
+Name: assets/release/spine_json/gearRefelect.json
+SHA1-Digest: rUuD1HxZs+TOt2JCUgYs1UGz+Qs=
+
+Name: assets/release/gear/armorplate_108.png
+SHA1-Digest: +yAbNiLYNTU8ev9c2HR1y4uxV/w=
+
+Name: res/drawable-hdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: u9m8DNPyctAszy/bxpNhW/anLw8=
+
+Name: assets/public/config/prop.xml
+SHA1-Digest: 6FLEOu+dV2YCapmNVRuYlF4UyMU=
+
+Name: assets/release/spine_json/goblinHealer_hit.json
+SHA1-Digest: Ykwx8wtigHchIpaJRo2TC63JN50=
+
+Name: assets/release/plist/hunter.plist
+SHA1-Digest: 3WY0ftnRRDELdVBXh5Ek92/Zip0=
+
+Name: res/drawable/ic_action_search.png
+SHA1-Digest: 5XfDo1vHzLA/LHkFXdzkoXlpeZo=
+
+Name: assets/release/plist/sven.plist
+SHA1-Digest: 6IKjGLyyzzLaDQgRaDfNkDKHtIc=
+
+Name: res/drawable-mdpi/powered_by_google_dark.png
+SHA1-Digest: VlhPpPhoDiKy9UwnZZSfRBGik6A=
+
+Name: assets/release/gear/helmetleather_109.png
+SHA1-Digest: FLbVYfj/xdvuRXOFHuN+rfmHb/A=
+
+Name: assets/sound_android/tick2.ogg
+SHA1-Digest: lm/Gyxmn/1ly/nYWtKAEvSeeQwU=
+
+Name: assets/release/plist/popupExLife.plist
+SHA1-Digest: HfCq5b0VCaYXx0TiCHt+HIyYsw8=
+
+Name: assets/release/gear/highpriest_103.png
+SHA1-Digest: Z+2QiVq0W71YIfbUFPvNm+/77Vw=
+
+Name: assets/release/plist/popupPractice.png
+SHA1-Digest: RJIB32R3eFmzME8rDmBEINxRo3U=
+
+Name: assets/release/map/message_events_ads_4_us.png
+SHA1-Digest: Ez5FvHUPh4NnEWdkPL/fvJYyNFk=
+
+Name: assets/release/spine_json/succubusHeal_start.json
+SHA1-Digest: OdwBrBA9ZB42MX7sRaOVrhg6x5I=
+
+Name: assets/public/config/story/story9-10End.xml
+SHA1-Digest: N/R8TaU9Z/WxAs1VuHKz8d32dRI=
+
+Name: assets/release/spine_json/surge_c5.json
+SHA1-Digest: Nj1w1yDaWs7pCwFjK65ADP5Ad9A=
+
+Name: assets/public/config/levels/4-5.xml
+SHA1-Digest: Zhtb0cmPYfi2sb1zOmYNqsX+UKs=
+
+Name: assets/release/plist/rhinoceros.plist
+SHA1-Digest: fHuRVl6pRr+j5DHJqZyzpjysVZM=
+
+Name: assets/release/gear/highpriest_108.png
+SHA1-Digest: qjvL+NjUBgHyXRjV/RY7ufpAUO4=
+
+Name: assets/release/gear/gear_icon_myth.png
+SHA1-Digest: 2XsG/JpQ1JzZvrTrwWQpZ/b2RyI=
+
+Name: assets/release/gear/helmetleather_100.png
+SHA1-Digest: ukivLLkKv3FqF08PtOweQOKYuEk=
+
+Name: assets/release/spine_json/pvp_behead.json
+SHA1-Digest: Sa/QzEZL5+vTq9/k6nalZz5+1Fo=
+
+Name: assets/release/plist/beholder.png
+SHA1-Digest: 3266YsEo+zikrFOFdZErjPMbuf0=
+
+Name: assets/release/gear/mage_119.png
+SHA1-Digest: B/LZ33g0tXFEs4wdpeJ8nq8ii2s=
+
+Name: assets/release/plist/drunkman.png
+SHA1-Digest: eKxRoW+iW4Gs04XDwJxLbIJDW98=
+
+Name: assets/release/map/scene_8_1.png
+SHA1-Digest: /bDDA7+UG9mxQfA7BA30hIujhtE=
+
+Name: assets/release/gear/armorcloth_100.png
+SHA1-Digest: mivuYWR6lzKQFvIotbO0k4e1wYY=
+
+Name: assets/release/plist/popupLadderReport.plist
+SHA1-Digest: dTKXxiFHyMQ1P7mMK5qWZCahFoA=
+
+Name: assets/release/spine_json/holyShield_down.json
+SHA1-Digest: I5eoFHOEiWmxnBTdHs0d1K+Xn0g=
+
+Name: assets/release/spine_json/UI_defeat.json
+SHA1-Digest: ocAGm5o3FTFCrvtNvhMVrzbdN5w=
+
+Name: assets/release/gear/ring_111.png
+SHA1-Digest: 3ksUX+i7sw/ph0v7FEy/w+KmD0Y=
+
+Name: assets/release/plist/achievement.png
+SHA1-Digest: JEygLGxRENhEz2SANJsdOUZ8yIo=
+
+Name: assets/release/gear/necklace_100.png
+SHA1-Digest: Ix4li0KL+HZd617QuO7CKxr+C0I=
+
+Name: assets/release/plist/warrior.plist
+SHA1-Digest: xHVFpQdr33xQDnS+WHSVRllzcBM=
+
+Name: assets/release/spine_json/daggerLash.json
+SHA1-Digest: YZpP0JVw2h9CAFyOuUCZbjxnKvY=
+
+Name: assets/release/gear/gear_icon_epic.png
+SHA1-Digest: zorR2B/Iv6EOzR/QqWKvWwmRTTs=
+
+Name: assets/public/font/bangers_26.fnt
+SHA1-Digest: FJL0tePoYHABHDpQrRDMu3GB/C8=
+
+Name: assets/release/spine_json/mound_up.json
+SHA1-Digest: /BRNbmXZSXsXV5LgZPsWj0cqclw=
+
+Name: lib/armeabi/libbspatch.so
+SHA1-Digest: YBUStbkSNAJpQ+SUEXsyJn0+1iA=
+
+Name: assets/release/map/homemap_bg_cloud_1.png
+SHA1-Digest: F9t9DcnOBWE6OBkF/8Mr82VOlJM=
+
+Name: assets/release/gear/musketeer_104.png
+SHA1-Digest: MgwsN2OflfuVC33g0fICDh+UZuc=
+
+Name: assets/sound_android/arrowAttack_hit.ogg
+SHA1-Digest: pCBHXh3k+vtLtW7BX/6LrABBmto=
+
+Name: assets/release/plist/jeti.png
+SHA1-Digest: SEngMP5GcXvpTi8bupVWIlGhUJM=
+
+Name: assets/release/plist/discount.plist
+SHA1-Digest: /zge9VOP67N9R/ywdnOZ8FBHkaE=
+
+Name: assets/release/plist/battle2.plist
+SHA1-Digest: LuSS91F30VziXqpxW4jmEHSiAt8=
+
+Name: assets/sound_android/item_get.ogg
+SHA1-Digest: aCVsONWBka1deCnPrfMvMr8WQTw=
+
+Name: assets/release/gear/helmetcloth_112.png
+SHA1-Digest: IRfC+1C6taQ5bEZfK4RA2uNd2qY=
+
+Name: assets/release/spell/spell_upgrade_arcane_intellect.png
+SHA1-Digest: 2rMw0G5iA1OF4MIKybFEqUOWJUw=
+
+Name: assets/release/gear/caster_104.png
+SHA1-Digest: 6T7/uqPHw2koFp+1yxwKElTWZ4Q=
+
+Name: assets/release/plist/priest.png
+SHA1-Digest: hLO/LSGR9+prXnN8QQotdnV+Ag4=
+
+Name: assets/release/spine_json/auraOfWisdom_up.json
+SHA1-Digest: q0WbFwjrmGnP02ZyJuGLSkKLoiU=
+
+Name: assets/release/gear/scout_110.png
+SHA1-Digest: kWwZlSCx1mZXsYRKKdK+ahjosxI=
+
+Name: assets/release/spine_json/darkestShield.json
+SHA1-Digest: MPFqOIexNn/k6Eq/zz7QGS/G41Y=
+
+Name: assets/release/gear/scout_100.png
+SHA1-Digest: yNkiPKpwKbp/Rl32qLlNj0y+aD4=
+
+Name: assets/release/plist/pvpBattle_behead.png
+SHA1-Digest: TN7MFkhhU044B8lt3Iz4jEg9Syw=
+
+Name: assets/release/spell/angel_summoning.png
+SHA1-Digest: K0RwWKlrlNjW8wdvOpXt//vHb9A=
+
+Name: assets/release/spine_json/cirrus_sky.json
+SHA1-Digest: TBzItl28YlUn92UeGREQ7Rtd8Kc=
+
+Name: assets/release/gear/necklace_108.png
+SHA1-Digest: vlOE0aISp6nN1j1y3GkmTaVEdz0=
+
+Name: assets/release/spine_json/pvp_skillReady2.json
+SHA1-Digest: hy58qZ0xDSSh6TbQI3WfN2JHSyw=
+
+Name: assets/release/gear/berserker_115.png
+SHA1-Digest: 26FzsOoJVV5VLKVv5xcc5THpNCM=
+
+Name: assets/release/spine_json/deathCoil_hit.json
+SHA1-Digest: yvoIji7+fDeVt3lzOZLdcRsO+P8=
+
+Name: res/drawable/ic_launcher.png
+SHA1-Digest: Ugnl34RRz5RpzIBsBHP8ThjF97E=
+
+Name: assets/release/map/ladders.png
+SHA1-Digest: gOHj03YC0NGvQ/rZhfpeF1exxWw=
+
+Name: res/drawable-mdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: ds+f/lFZwVRaWXjupvg4SfKp2ME=
+
+Name: assets/release/spine_json/mysticstore_item.json
+SHA1-Digest: vRRGgK/tlzVKwarSNk1OnxIulUA=
+
+Name: assets/release/spell/dagger_lash.png
+SHA1-Digest: fdezSVQoxFdcBDOTKLQtaEAO/xQ=
+
+Name: assets/release/gear/armorplate_117.png
+SHA1-Digest: G2m1Y9nkkgoViMlZFBEdphVSuuw=
+
+Name: assets/release/spine_json/goblin_healer.json
+SHA1-Digest: 7KqtVCIovkoy4WAc5TYlfvhlvbo=
+
+Name: assets/release/gear/paladin_113.png
+SHA1-Digest: enSQ7R7W4TXebTAnh1vzgh4aWAk=
+
+Name: assets/public/config/levels/mdkt4.xml
+SHA1-Digest: aEPEgLesZNLIHOWR6qsj4K5TFbI=
+
+Name: assets/release/plist/fenrir_effect.plist
+SHA1-Digest: WTHOEH5zK0t30p7UHCeT4NmdNUo=
+
+Name: assets/release/spell/spell_upgrade_taunt.png
+SHA1-Digest: pSgx26ma1SgIUpvJirV6R4k3GLo=
+
+Name: assets/release/map/scene_2_1.png
+SHA1-Digest: kDOEdVLmJMm56IlLu+KgAhUYfa4=
+
+Name: assets/public/config/levels/mf3.xml
+SHA1-Digest: NKxEXLi20pjo7XMp1qHuxg4FzPk=
+
+Name: assets/release/spine_json/attackByHew.json
+SHA1-Digest: 0REd3AMqUPnKcYtyv20X2tv0X1o=
+
+Name: assets/release/plist/assassin.png
+SHA1-Digest: 6gdgyeXczclrQqB+iOnzXNamd9E=
+
+Name: assets/sound_android/iceBolt_hit.ogg
+SHA1-Digest: kS8E9MmumLfAkK2kacvn+W8yFYU=
+
+Name: assets/release/gear/musketeer_122.png
+SHA1-Digest: DOIoBmGZacT1tZM3XbdfalkefpQ=
+
+Name: assets/release/spell/ice_blot.png
+SHA1-Digest: /ewOHe2RxmIMzjj6U4F0QD17QT0=
+
+Name: assets/sound_android/shotgun_hit.ogg
+SHA1-Digest: 71w/fBk9b3SLqniYkavFU/MuFp4=
+
+Name: assets/public/config/levels/m64.xml
+SHA1-Digest: EbP+iOWw8cEkQqyQoXXaFzhTO0o=
+
+Name: assets/release/plist/orc_warrior.png
+SHA1-Digest: eSDNTO/8gJ5aXEh9brtaQLE0K9Q=
+
+Name: assets/release/gear/warrior_103.png
+SHA1-Digest: zvERxiuPHJP289yeEAS8rreFPYk=
+
+Name: res/drawable-hdpi/featured_frame_rate_b.png
+SHA1-Digest: ZHgaIW5f/1VWYjP+y+jWTy30W7Y=
+
+Name: assets/release/spine_json/deadlyShot_start.json
+SHA1-Digest: Xvw6Y6UaFa4QDH78KDj29Tx3kBA=
+
+Name: assets/release/spine_json/incendiary_start.json
+SHA1-Digest: gdO1N8XodSdL9jpJ6nEWYSGQZ5o=
+
+Name: res/drawable-hdpi/offerwall_download_a.png
+SHA1-Digest: k3/oKaAU4N8fHzMWxYFjW/Sh+dg=
+
+Name: assets/public/font/zh_cartoonist_28.png
+SHA1-Digest: xHvjTC+YQz98OGMpPNJGM6OSSAo=
+
+Name: assets/release/spine_json/fireball.json
+SHA1-Digest: 7o0/DH9/d8xmbmduy7wc+u5nF7E=
+
+Name: assets/sound_android/gear.ogg
+SHA1-Digest: JZSDTOIiWd6yR3ehEyRbI9H9/aM=
+
+Name: assets/public/font/zh_mflihei_26.png
+SHA1-Digest: 4fSLOfkXt+EfoYVtwp94YEA7kFM=
+
+Name: assets/public/config/story/story1-2End.xml
+SHA1-Digest: D3j6KTjC6tW1ZzJyOvfqCFralq0=
+
+Name: assets/public/font/zh_cartoonist_45.fnt
+SHA1-Digest: TriO5ImIl9ygNxThc4/tKzs6Uos=
+
+Name: assets/release/gear/armorplate_112.png
+SHA1-Digest: mCNQIXzuKKih38zOtCic0Bq8JWY=
+
+Name: assets/public/config/levels/3-3.xml
+SHA1-Digest: dZTBP0I4htBcgmJxNAGArcDZ1qg=
+
+Name: assets/release/plist/award.png
+SHA1-Digest: tfWHKCSIoKQMut3uFsbSN3M78pA=
+
+Name: assets/release/gear/assassin_105.png
+SHA1-Digest: U8jSnsztDAP7K62L3kwOUV9t/9g=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.
+ 9.png
+SHA1-Digest: tiSPmIDei9Aw2tFXdH20PB+LEf0=
+
+Name: assets/public/config/story/story5-9End.xml
+SHA1-Digest: h1QbGLzFMJCdejblJFSEDbTBdzU=
+
+Name: assets/release/spell/spell_upgrade_polymorph.png
+SHA1-Digest: kl/8EF/5cXaEJAgncja4DTJXrdY=
+
+Name: assets/release/gear/warrior_102.png
+SHA1-Digest: aAhKNkfd9sJTmIHW4KoGhUI39mk=
+
+Name: assets/release/spine_json/goblinThiefHint.json
+SHA1-Digest: lTNhdyqmy9g2/FnliHZqh6EieMY=
+
+Name: assets/release/gear/berserker_116.png
+SHA1-Digest: anJR6HD56SyIHwAE0hZRdBOKkJw=
+
+Name: assets/release/gear/priest_102.png
+SHA1-Digest: HUhuadVFMOe8PRHcr7YYitGu8A4=
+
+Name: assets/release/spine_json/throwingDaggers_hit.json
+SHA1-Digest: C1Xd1ylfoVO2C3jcdCR2yBL4fzQ=
+
+Name: assets/release/spine_json/berserker.json
+SHA1-Digest: ifoOEhuPsEwAd42XjAjQyYhZWME=
+
+Name: assets/public/config/levels/9-4.xml
+SHA1-Digest: vZI89FOaliaDc0YqmSk5J5eKyXs=
+
+Name: assets/release/gear/helmetcloth_108.png
+SHA1-Digest: 1g9ls6rHIFtVpYdiLUNMqgB1C6I=
+
+Name: assets/release/plist/mysticstore.plist
+SHA1-Digest: q+IqGrQ7NPPKAp6Bud33PDa/zV8=
+
+Name: assets/release/gear/ring_100.png
+SHA1-Digest: FR+yy4D3PN/QKtBGxFs5aRvAvHY=
+
+Name: assets/sound_android/reload.ogg
+SHA1-Digest: 8Pc/Mlaz1VX9+wiaJgc1zxlvx9Q=
+
+Name: assets/release/spine_json/summon_down.json
+SHA1-Digest: wpZ8S2adZ57C9Gq6m2Wxr0ekhrI=
+
+Name: assets/release/gear/berserker_121.png
+SHA1-Digest: FePqyu8ZTHySDyEVzyR8+WyoHv4=
+
+Name: assets/release/gear/bishop_121.png
+SHA1-Digest: r9o3dGby9frTm2pE5NX2MnGn4Vw=
+
+Name: assets/release/gear/shoeleather_106.png
+SHA1-Digest: pwcbACIvglnM4uqzp9PyD/+J0Ck=
+
+Name: assets/release/gear/hunter_103.png
+SHA1-Digest: qytHDl3JeH0WDRYk8Wl/MgKyus0=
+
+Name: assets/public/config/story/story9-10Begin.xml
+SHA1-Digest: 4TpqyFyL0KnS/IWAaGgD7ZtDUE8=
+
+Name: assets/release/plist/berserker.png
+SHA1-Digest: qxm4RmD2qm6Gv+8hhiDmIkX4Qgk=
+
+Name: assets/release/spell/spell_upgrade_plague.png
+SHA1-Digest: Q9JIth1D+yaCh7qJQ3kn+P3Ye1c=
+
+Name: assets/release/spine_json/elfCasterAttack_start.json
+SHA1-Digest: RIrLG4Ubq/jxU2m5Aenuh0XOuxE=
+
+Name: assets/release/plist/evil_egg.plist
+SHA1-Digest: 8A4xe4wuAUbFtPeuyYocX3FCGrA=
+
+Name: assets/release/gear/beltleather_113.png
+SHA1-Digest: aVsy7gu9aTmqwCkGeC5JFbFJc/M=
+
+Name: assets/release/spine_json/magicDetonate_sky.json
+SHA1-Digest: FfXUb+gjMHSKK++ykHgRB+oOP8I=
+
+Name: assets/sound_android/killShot_start.ogg
+SHA1-Digest: yxmlD8Q4jn2IfLqXhaT8zTIYMOA=
+
+Name: res/layout/cp_dialog.xml
+SHA1-Digest: OioaZ2lCu0+8aecdY95uv70/URM=
+
+Name: res/drawable-xhdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: 7tZIRcxrlk4z2T0GUvJ6lhN36BY=
+
+Name: assets/release/gear/armorleather_112.png
+SHA1-Digest: XFcZURJV92xMdxn5U4jCtgf8upI=
+
+Name: assets/release/spine_json/powerfulShot_hit.json
+SHA1-Digest: y7Y+msXU6EAKA/L9h0fAduNDDrM=
+
+Name: assets/release/spine_json/shotgun_start.json
+SHA1-Digest: h6IsjLC2XO8hDj4Uhm4ZDyoCPJs=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: vgV6qtSN/tCF8z3jydixfLTTByo=
+
+Name: assets/release/gear/helmetplate_102.png
+SHA1-Digest: iIc5I+ejLHzD1H+d785aJgiDIEU=
+
+Name: assets/release/spine_json/beholderAttack_start.json
+SHA1-Digest: BYmJ5iL55lnpLZaBnu6PRCKLXd8=
+
+Name: assets/release/spell/spell_upgrade_meteor.png
+SHA1-Digest: MAhDI7XL0OQhI3t+dYuf7B+OnEQ=
+
+Name: assets/release/plist/scout.png
+SHA1-Digest: q4GFTi7iK7BDAbClkqeGf9BnPp4=
+
+Name: assets/release/gear/scout_120.png
+SHA1-Digest: tBLcBVFj5AykxVY4BVc5PR4vWLA=
+
+Name: assets/release/map/story_map_6.png
+SHA1-Digest: lELEIMyLdO0rEhqC+1oRBJ9v8KM=
+
+Name: assets/release/spine_json/thunder_hit_up.json
+SHA1-Digest: 7yzegsjMDxmT+sJoZCtPczyVgao=
+
+Name: assets/release/gear/assassin_117.png
+SHA1-Digest: qoinSmTW/dg/0wIUPhzabE6v6js=
+
+Name: assets/release/gear/shoeleather_100.png
+SHA1-Digest: vnXEUltPrNzUosfkDlY4DRqgCG8=
+
+Name: assets/release/gear/ranger_108.png
+SHA1-Digest: IL5ZXRFslKoO5ShWQ/ONf+vmWBY=
+
+Name: assets/public/config/levels/ms4.xml
+SHA1-Digest: d+yTGZ5ub0cFfJN1oaFAq56eP6Y=
+
+Name: assets/release/spine_json/pvp_stateClean_start.json
+SHA1-Digest: e2Jmm5W8b5WmtQjJnvav53eJNp0=
+
+Name: assets/release/spine_json/fanOfKnivesHint.json
+SHA1-Digest: jp6dysYkEBsU4lBzIyr2+GUvrkk=
+
+Name: assets/release/plist/piranha.png
+SHA1-Digest: DQgDc/SIfcVrkv4Drxrx2KnkEvA=
+
+Name: assets/sound_android/seal_start.ogg
+SHA1-Digest: nLvQOGMYmAAlQi76A0gMBCl0y5w=
+
+Name: assets/release/gear/mage_113.png
+SHA1-Digest: qCButfMTU4hSsJxtXcHNxkokxX0=
+
+Name: assets/release/spine_json/UI_fighting.json
+SHA1-Digest: aJV4rLnMvi5S66vrbOqThNOpZ/U=
+
+Name: assets/public/config/levels/1-0.xml
+SHA1-Digest: 3xkL37DxwlaLKDd8yyLHEtm/k6o=
+
+Name: assets/release/spine_json/goblin_thief.json
+SHA1-Digest: sURCwF7KGDLKRQTpwuJ/Op3KNj0=
+
+Name: assets/release/spell/deadly_shot.png
+SHA1-Digest: xaM1jaDeyQxdJu9y+ZOUSDlNnFY=
+
+Name: assets/release/spell/fortitude.png
+SHA1-Digest: mUD5UI6K/OYuwh/tZfTUSQSv3x4=
+
+Name: assets/release/gear/priest_103.png
+SHA1-Digest: MouEzPkzJb/CWa/C5DZj56/LgVE=
+
+Name: assets/release/spine_json/dragonRoar.json
+SHA1-Digest: xYerwCyZQ+nu3OpGaQhQRAEKzso=
+
+Name: assets/release/gear/highpriest_100.png
+SHA1-Digest: 7OvYQC4uY7pNjFuphqMzqUs3qw0=
+
+Name: assets/public/config/levels/endless-9.xml
+SHA1-Digest: XyQqdDFqcdj3oeD2lHqXAQEQwaQ=
+
+Name: res/drawable-mdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: G7U+BhGfj0UB1IoANEkltKLVFys=
+
+Name: assets/release/gear/armorleather_110.png
+SHA1-Digest: S7eX0EEt0u7yzOYrDJnF5FoP4aM=
+
+Name: assets/public/config/levels/4-4.xml
+SHA1-Digest: 4mp/c3jQYNpUehAaO8U3QalYoOE=
+
+Name: assets/release/spine_json/alchemistHugeFist.json
+SHA1-Digest: 7V0ZjBow66IZeI+i2LgwqXjNEIY=
+
+Name: assets/release/spell/spell_upgrade_aura_of_courage.png
+SHA1-Digest: a3S8NnyFDQpjbBpLWu2VM/IcMOg=
+
+Name: assets/release/map/scene_7_2.png
+SHA1-Digest: 7hzc7oRX8wyYdc0eUGJTihXOgWU=
+
+Name: assets/release/spell/spell_upgrade_group_heal.png
+SHA1-Digest: He706LniLI17kjybtxZuPBLA/4w=
+
+Name: assets/release/spine_json/holyImpulse_start.json
+SHA1-Digest: 0kahFCM2LCbpxIf3A93zCaFaGiE=
+
+Name: assets/public/config/levels/1-8.xml
+SHA1-Digest: m6hTIoA00M83XxHACbcCN6C6tpk=
+
+Name: assets/public/config/levels/m74.xml
+SHA1-Digest: ci/bRiVSxcJFDBnxama6mHh6tQA=
+
+Name: assets/release/spine_json/thunder_hit_down.json
+SHA1-Digest: BXGGa4M6AubO2ItfuICb0kb6Cd8=
+
+Name: assets/release/spell/spell_upgrade_reload.png
+SHA1-Digest: UA4LSNj5qS8HjfhxJSGczIaLT1g=
+
+Name: assets/release/spine_json/wizard_weapon.json
+SHA1-Digest: /i1zkvKekK0OOIbvKRh010NSTjo=
+
+Name: assets/sound_android/attackByPunch2.ogg
+SHA1-Digest: qSw+ruJg0V9f0OXraXZXokSjk2w=
+
+Name: assets/release/gear/paladin_116.png
+SHA1-Digest: dnfeV1xfR2K4Zhn00MnQYPpU8gI=
+
+Name: assets/release/gear/assassin_110.png
+SHA1-Digest: dcCSEkMQ2bP7FCOI0AUjIR2YEtM=
+
+Name: assets/release/spine_json/plague_start.json
+SHA1-Digest: Yf38k7GacA6R18x03ghi9er1zEE=
+
+Name: assets/release/gear/beltleather_107.png
+SHA1-Digest: QquFQWAUALV1EaclwYnzv+aPNwE=
+
+Name: assets/release/spine_json/garrote.json
+SHA1-Digest: JRStrvDpAr1pRDh70bvmUdWsIts=
+
+Name: res/drawable/common_signin_btn_text_light.xml
+SHA1-Digest: mLn0Zg2Vb5Jm4Le0P6/vIGD1dC4=
+
+Name: assets/release/plist/heroForSell.png
+SHA1-Digest: iDyUbAA5/SuryKH5ebOQTIEIrt4=
+
+Name: assets/release/gear/armorleather_101.png
+SHA1-Digest: uRGrQsVT6fMWhJdId8YxHoXVDok=
+
+Name: assets/release/spine_json/demonRevive_blue.json
+SHA1-Digest: 6NuHCR6ypHVrM1grHKMHBf+gKpU=
+
+Name: assets/release/spell/meteor_sting.png
+SHA1-Digest: Kt3GwXqkUIUgUovz2f2y1vffFXM=
+
+Name: assets/sound_android/itemGet.ogg
+SHA1-Digest: ZTEaMd0DFw2HePL79sT+1y5bdz8=
+
+Name: assets/release/plist/bank.png
+SHA1-Digest: PiAVLnnETccPABMZvP+2+LMd1CY=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_light.9
+ .png
+SHA1-Digest: 6/jrMAd6PG9GQ14AyLso16WeJgg=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: Xfc+Al09Xssx0kcQurcYDdc2Rv8=
+
+Name: assets/release/spell/leverage.png
+SHA1-Digest: i1eWyjb//3h9k3G2o67jxk9zsnM=
+
+Name: assets/release/spine_json/meteor_up.json
+SHA1-Digest: DDCf045k4s1WjJYrcCEanx8CAhQ=
+
+Name: assets/sound_android/musketeerAttack_start1.ogg
+SHA1-Digest: hz8vIsomoON06sRI26M5/voQrlQ=
+
+Name: assets/release/gear/armorleather_105.png
+SHA1-Digest: ajRSewq8ARm9nepAg35Kun3p1HM=
+
+Name: assets/release/gear/bishop_101.png
+SHA1-Digest: dkO++SZnmTz51lKss7PdrwZDSIw=
+
+Name: assets/release/plist/ladders.png
+SHA1-Digest: kKrK8T2cSxJ4OPdm/qK9pxX1lO0=
+
+Name: assets/release/gear/beltleather_103.png
+SHA1-Digest: +qQn1o03Ev44cjOmcvavHMIlcS8=
+
+Name: assets/public/config/levels/8-6.xml
+SHA1-Digest: chkX0fUBCbiEIu//4Vz3jG9Rgt0=
+
+Name: assets/release/gear/cloak_108.png
+SHA1-Digest: zomzCxcoV9P9Cze1JxSRzFSppvc=
+
+Name: res/drawable-hdpi/common_signin_btn_text_focus_light.9.png
+SHA1-Digest: C4AJ+Ob990/Kj24MBAlX2ur4jcs=
+
+Name: assets/release/gear/helmetleather_108.png
+SHA1-Digest: Q2pTAp1syQLBYzmqOjlm8CqCcck=
+
+Name: assets/release/plist/tornado.png
+SHA1-Digest: IWoDPPbTnEldzOYfGV5vQs+rudU=
+
+Name: assets/release/spell/spell_upgrade_dragon_breath.png
+SHA1-Digest: JGaNa37w5zep964waNiV3bmlDTU=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: /k94eDdWzgjVJYxhVFR6eQ46xzk=
+
+Name: assets/release/plist/orc_warlock.png
+SHA1-Digest: ylKzfyDLo7bAHbaZtMR7TwNF+ps=
+
+Name: assets/release/plist/dragon.plist
+SHA1-Digest: z0B7S8whqYwZvaN5jM7oQPqk9jA=
+
+Name: assets/release/gear/beltcloth_104.png
+SHA1-Digest: JLq3YXOKXndK2K0zxP0QWk8x2pY=
+
+Name: assets/release/spine_json/demonRevive_blueUp.json
+SHA1-Digest: qWt2DLJfmXEDbIJrwUk7N1WR9vA=
+
+Name: assets/release/plist/public0.plist
+SHA1-Digest: HIV4/6ZC4ctJ5r2A8apntFGEJCI=
+
+Name: assets/release/gear/berserker_112.png
+SHA1-Digest: tldgedAltXvTON4xUD488WdVnjc=
+
+Name: assets/release/gear/ring_104.png
+SHA1-Digest: 21AmUAKAn7vF3bGw64M2cEFyaKU=
+
+Name: res/drawable-hdpi/ic_plusone_small_off_client.png
+SHA1-Digest: 98br5LtZ8pDpWGlHJ+uz9smDZgg=
+
+Name: assets/release/spine_json/crow.json
+SHA1-Digest: YM/Up9n8tX2aHasZXOTF/I4/lAw=
+
+Name: assets/release/spell/spell_upgrade_vanish.png
+SHA1-Digest: fdmsK9Hx0TJc7+hdyatZXcBv2N8=
+
+Name: assets/release/spine_json/pvp_silence_hit.json
+SHA1-Digest: IbyuG/Ystz4Ux0uTelstTwAPFQE=
+
+Name: assets/release/gear/wizard_100.png
+SHA1-Digest: 5LFKcZsh2ab2M1wRt9LeQeGeHJg=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: 77jPZOcgtvqWgvDMxyDkTsQlrCM=
+
+Name: assets/release/spine_json/alchemistVenom_down.json
+SHA1-Digest: FFmyQ3TPjE5VJkdwYyuc619IXrQ=
+
+Name: assets/public/config/levels/5-1.xml
+SHA1-Digest: ScwxpkdJ1koAF7rig+DESYzXYNY=
+
+Name: assets/vg_mute_on.png
+SHA1-Digest: GwChhvGSSPbkR1VIsH6YCsJHm5k=
+
+Name: assets/release/spine_json/UI_discountItem.json
+SHA1-Digest: vC0EOM659/v/vM9OHzbqKdT1z6A=
+
+Name: assets/public/config/levels/5-8.xml
+SHA1-Digest: ZFLTCXoHvfayXeDPHhPY9lJ5IX8=
+
+Name: assets/release/plist/scarecrow.png
+SHA1-Digest: gLiCzuurZpUXG60czGd9aJ4g5RE=
+
+Name: assets/release/plist/popupVideo.plist
+SHA1-Digest: P0elVpU9ytDROT8SrdvZQhI3UF8=
+
+Name: assets/release/spine_json/yangtuo.json
+SHA1-Digest: sxFQ/Nq5U1vB9z6Pfq3yDuwdYYk=
+
+Name: assets/release/spell/armor_pierce.png
+SHA1-Digest: 8FM3yFZXfZ7woKDpmsFxOgMLtr8=
+
+Name: assets/release/gear/wizard_118.png
+SHA1-Digest: X4vRJ4OPvzLmiYxI+5HgHVCbvB8=
+
+Name: assets/release/spine_json/death_magicball.json
+SHA1-Digest: zNJgbwyIaqgq+ubVMNNzhUOWX+E=
+
+Name: assets/release/spine_json/chainAttack_up.json
+SHA1-Digest: 7UpctwNZdLRdpriq9YBSqD2G/Eo=
+
+Name: assets/release/plist/heroShow.plist
+SHA1-Digest: 7bvICcPyz82Y30ussU+4cWG93eQ=
+
+Name: assets/public/config/levels/5-3.xml
+SHA1-Digest: yOITF1w7gh+1gU6t6v8p0J0HFDA=
+
+Name: assets/release/gear/hunter_104.png
+SHA1-Digest: bHY2HCwgITWjGzDvEldd2/Euo+0=
+
+Name: assets/public/font/sk_cartoonist_45.fnt
+SHA1-Digest: pECbtXxalszhZrniYWOscLvTsFs=
+
+Name: assets/release/spine_json/roar.json
+SHA1-Digest: zF2W2e5bSLO3mzayDHajFL8WmoE=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: vFafikJvN8kTFA5xtb3LUU8mNiw=
+
+Name: assets/release/gear/paladin_101.png
+SHA1-Digest: eX0UvFAy7O/COXWAbFNmxcwgeOM=
+
+Name: assets/release/gear/mage_106.png
+SHA1-Digest: pDq/nWrAanEGmzBHZtNPnt9nQgU=
+
+Name: assets/release/spell/thump.png
+SHA1-Digest: e4cZycipr+E1caZHKE4EnkkfPCU=
+
+Name: assets/public/font/us_mflihei_26.fnt
+SHA1-Digest: ZS9v8iQVzOYuZiIckZC3DeAfuhA=
+
+Name: assets/release/spine_json/gulp_up.json
+SHA1-Digest: ccmMN6BnMa0deug4IctM16AvySU=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: yZdoTSukumfGKpt5ZzQvr86i5ts=
+
+Name: res/drawable-xxhdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: GMp3Y8kOR/Z4lGX9a97YQiEp0GA=
+
+Name: assets/release/spell/spell_upgrade_priecing_shot.png
+SHA1-Digest: wGp6mRreLfVP1M9DvwETnp/iPjg=
+
+Name: assets/sound_android/eject.ogg
+SHA1-Digest: lgcvw/4kp4+XOBUmzj2HtZxkkOw=
+
+Name: assets/release/plist/elfin.plist
+SHA1-Digest: y9Pirn6zSR4s55p0WzgLSS0ClHk=
+
+Name: assets/release/gear/assassin_120.png
+SHA1-Digest: mAvq+/Ic/LkTBjG4WF3DvDZOKHM=
+
+Name: assets/release/plist/mage.png
+SHA1-Digest: 8po5R3MhHqObznPBUQ3wAAX7NoU=
+
+Name: assets/public/font/bangers_26.png
+SHA1-Digest: l/58vCU/u2ZCu2THH/MQc3z61c0=
+
+Name: assets/release/gear/cloak_110.png
+SHA1-Digest: lguX85xRS7PGsM91m8n46YsyQqY=
+
+Name: assets/release/spine_json/puppy_hydra.json
+SHA1-Digest: U8DVOBehTEhWa++mj7AooL0aMU8=
+
+Name: assets/public/font/zh_angrybirds_30_story.png
+SHA1-Digest: Ghv61/jRxf3U3K7ZmF/qwvYA7ZU=
+
+Name: res/layout/notification_inc.xml
+SHA1-Digest: NfTRMVFQPDPlHcY/DlL8jkGVtnE=
+
+Name: assets/release/gear/armorleather_116.png
+SHA1-Digest: R7RNyGzOt+ms/MeM3x9QZssHyaQ=
+
+Name: assets/release/spine_json/paladin_weapon.json
+SHA1-Digest: evlBrcayP3Ptuzt2MyfYi9cgRx4=
+
+Name: assets/release/spine_json/burrow_up.json
+SHA1-Digest: +oY4FtOLnq8OeB4gQBw61jV638I=
+
+Name: assets/release/gear/wizard_107.png
+SHA1-Digest: 4BNZSZhfiUoLBA677xSMH//A4c8=
+
+Name: assets/release/spell/senility.png
+SHA1-Digest: Ck6sVWXMjzKk6xHDUi9IPvk+bic=
+
+Name: assets/sound_android/explosiveShot.ogg
+SHA1-Digest: K3JfSsAEvmy1XW8ummQbiOiM0po=
+
+Name: assets/release/plist/auraEffect.png
+SHA1-Digest: cquV5Pp04+VHDPfQ3ubZwnvTBhk=
+
+Name: assets/release/spine_json/coneOfCold_down.json
+SHA1-Digest: lzpey0tRkDbQscCAnLceq7ajej4=
+
+Name: assets/release/plist/sylvagaunt.png
+SHA1-Digest: SDXVZ3OhrIO1IsBUIGgKsYvbl90=
+
+Name: res/drawable-hdpi/close.png
+SHA1-Digest: ZzeajZ/n9r3LP6Y6p/YuHQ09Sqc=
+
+Name: assets/release/spine_json/map_icon_boss.json
+SHA1-Digest: Rm73WbLXooZXPxQ4OSdPmg3oLMA=
+
+Name: assets/release/gear/ranger_122.png
+SHA1-Digest: 45Ev1L6HRIiFKR/lkTr4OxJ2nto=
+
+Name: assets/release/spine_json/grenade_start.json
+SHA1-Digest: 8STmUuKFzbWLPn31ECt7lantliU=
+
+Name: assets/sound_android/dragSpell.ogg
+SHA1-Digest: 3sVtx9UrMx1MlhncKNX7Frhlbus=
+
+Name: assets/public/config/talent.xml
+SHA1-Digest: m7TrqYuHwoPYw1cyDaeQCdp4L6g=
+
+Name: assets/sound_android/bg_ui.ogg
+SHA1-Digest: 7oSIwbHNMs7nAHCCb/q7KJQZhIc=
+
+Name: assets/release/plist/elf_warrior.plist
+SHA1-Digest: ctYfMVPGO6Ku6pc2lCF/M3NkA0M=
+
+Name: assets/release/plist/border.plist
+SHA1-Digest: WfR7DvwfqvkSSm6f1c0yvUxySCo=
+
+Name: assets/release/gear/highpriest_102.png
+SHA1-Digest: vBEBrgUNmxLnv677ui/U2lLSmA8=
+
+Name: assets/public/config/levels/mt1.xml
+SHA1-Digest: c8ulDbfJnfKrqEAOE7gfDPS8MUs=
+
+Name: assets/release/gear/ranger_101.png
+SHA1-Digest: bH3JgbYADDqR3rtM22M6QHonKmE=
+
+Name: assets/public/config/levels/1-1.xml
+SHA1-Digest: HfJYTLj+CiXLnzCvDv6hBqNdx3g=
+
+Name: assets/release/map/homemap_bg_top_1.png
+SHA1-Digest: Upjj+WjeXXLmep+Ehi/t7YB/AOI=
+
+Name: assets/release/spine_json/UI_transfer.json
+SHA1-Digest: EAxmZbUgoCQmH1SZMhOlZ6aW6Ss=
+
+Name: assets/release/plist/elf_caster.png
+SHA1-Digest: C3FCQ9cUUpm+ztELunhoPfXXook=
+
+Name: assets/release/plist/conquerBox.png
+SHA1-Digest: WcrCyqpBu0X0VYz9EMwiW4FNKQc=
+
+Name: assets/release/spell/reload.png
+SHA1-Digest: rsCH2wRwggS0jLoI2CWJ7VxN+84=
+
+Name: assets/release/plist/demonRevive.plist
+SHA1-Digest: HcE56nUkYH7ecqnEr37WTiYP6Vs=
+
+Name: assets/release/spine_json/UI_score_layout.json
+SHA1-Digest: +6zAOdQc2GGK8v/t8xouEKxl0mY=
+
+Name: assets/release/spine_json/orc_champion.json
+SHA1-Digest: ZWZMOYbPJtffH70qpKbqWGUPZWM=
+
+Name: assets/sound_android/achievement.ogg
+SHA1-Digest: 5YObxllX9UvbzzfztZokXZDYuSs=
+
+Name: assets/public/config/levels/m34.xml
+SHA1-Digest: VKvxeRyNdduzcawo25Yhz2RH6qI=
+
+Name: assets/public/config/story/story3-10End.xml
+SHA1-Digest: UKY2QIGGCYKp8HJOx3Ls9kmpXkU=
+
+Name: assets/public/config/levels/m12.xml
+SHA1-Digest: Lr8zMMIAt8NxJqRKnE5HrWpaS18=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: TrhBGvq6ZBdaaRMzpsvPbzxbr8M=
+
+Name: assets/sound_android/rate.ogg
+SHA1-Digest: 36QKDNWiONPDMNBbMQzXymxvEaY=
+
+Name: assets/release/spine_json/intro.json
+SHA1-Digest: cmjyah7Wt/IfbLeI7cF/rMyTO84=
+
+Name: assets/public/config/levels/7-4.xml
+SHA1-Digest: 2Vh/HvStIOU9nPn5xWCb/1/BVW0=
+
+Name: assets/release/spine_json/mound_down.json
+SHA1-Digest: roiBCCfvT8qwNeMtfuqtBGYulqo=
+
+Name: assets/release/spine_json/blink.json
+SHA1-Digest: hQ3QgKohFCM00acAX1+bYrynbYY=
+
+Name: assets/release/spine_json/pvp_vsBg.json
+SHA1-Digest: IgsgeHB0fhS9UAowPRPa22b1u8A=
+
+Name: assets/sound_android/voice_03_Berserker.ogg
+SHA1-Digest: VotNSD/gba+d99NMmrIEE+gB1kw=
+
+Name: assets/release/spine_json/deadlyShot_hit.json
+SHA1-Digest: 6D1qebgnfmZdgEDd+qiADVYX1rg=
+
+Name: assets/release/gear/highpriest_121.png
+SHA1-Digest: 2jl8MY7Y9xNL06TWNHFHs9NUhks=
+
+Name: assets/release/spell/providence.png
+SHA1-Digest: y6+oj9gBv+3aWUywHftkPmCkNqE=
+
+Name: assets/release/spine_json/musketeerAttack_hit.json
+SHA1-Digest: ZisHkqi+lfY0hWYSIb8uJasoGIU=
+
+Name: assets/release/spine_json/iceBolt_fly.json
+SHA1-Digest: HdENM9v9XJRqI6d7jVJXxviqDbg=
+
+Name: assets/release/plist/battle1.plist
+SHA1-Digest: dkBhCDihXE0y3bMqD7+s0w3U1fY=
+
+Name: assets/release/spine_json/skillReady.json
+SHA1-Digest: veKLfDRqyNf0nhYGWws0dmNdFiU=
+
+Name: assets/release/gear/bishop_115.png
+SHA1-Digest: 0VJ5/za6Lv6tGlJoBKMxcLDloDU=
+
+Name: assets/release/spine_json/stone_guard.json
+SHA1-Digest: cf28ieCaTucCWkCw63pGp272CLA=
+
+Name: assets/release/spine_json/coneOfCold_up.json
+SHA1-Digest: IHPLsLw0OHpFsS+A+IgHHoZRgtM=
+
+Name: assets/public/font/cartoonist_28.fnt
+SHA1-Digest: yqLFBlEj2EYEc/q83//+O/O+TRU=
+
+Name: assets/public/config/levels/m63.xml
+SHA1-Digest: kbIotcn51ilFfvRFtJoPcyqhOmo=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_focus_light.9.
+ png
+SHA1-Digest: C4ViNGMo/B+mD4BsStPPbWuUMUI=
+
+Name: assets/public/config/toponymy.xml
+SHA1-Digest: U+G6XTQZSb0bly85bOfeSdsetBI=
+
+Name: assets/public/config/levels/mt8.xml
+SHA1-Digest: 3c95MCeo0iOb98ZKELKx3qRnlLQ=
+
+Name: assets/public/config/levels/m72.xml
+SHA1-Digest: BcQgT7OH/YgZy4urYdBL2opVbJs=
+
+Name: assets/release/spine_json/pvp_sealing.json
+SHA1-Digest: /sZjLIWeUQhBNLdMuEEUHMGpK6g=
+
+Name: assets/sound_android/alchemistBurp.ogg
+SHA1-Digest: po4SeFESdqaOh/rbXNC5gU801lY=
+
+Name: assets/release/spine_json/lifeDrain_start.json
+SHA1-Digest: LnBDW7yom05HsWmVui/zHpzQ5Oo=
+
+Name: assets/release/spine_json/alchemistBomb_fly.json
+SHA1-Digest: vY1yMJrNpZ+yiaX1L5KdiXmgG7c=
+
+Name: assets/sound_android/fearless.ogg
+SHA1-Digest: gP7U+5z8Klt+4HGkyo83OXyiY2s=
+
+Name: assets/release/gear/helmetcloth_107.png
+SHA1-Digest: Y0xfkvRtyRc4F+3aUlpyMShWnxA=
+
+Name: assets/release/gear/helmetplate_103.png
+SHA1-Digest: foAKZP/bONqlWG8TkILXj1M7Sqw=
+
+Name: assets/release/plist/public1.png
+SHA1-Digest: BysFpn2wfZPRhUHnZXepDghBZpA=
+
+Name: assets/sound_android/attackByPunch3.ogg
+SHA1-Digest: 8n/5bu6PdDbUrKcZl1s5GUhAFgY=
+
+Name: assets/release/gear/shoeplate_104.png
+SHA1-Digest: TW5GJ4JZVBkV3mcZ+OvHu4bhaFI=
+
+Name: assets/public/config/levels/conquer-2.xml
+SHA1-Digest: AkLBF9EgXkXthx7UOrbj6DXHbyo=
+
+Name: assets/release/gear/berserker_101.png
+SHA1-Digest: 0NnMsmk8KtpXjyGGMN3yF5PKz5s=
+
+Name: assets/release/gear/musketeer_123.png
+SHA1-Digest: 1W2c6jumk8ZG1omQB+NlkWbIJmY=
+
+Name: assets/sound_android/goodluck.ogg
+SHA1-Digest: 64wh8f9ZCuDYK+jGVi1Xyokohmo=
+
+Name: AndroidManifest.xml
+SHA1-Digest: mvAzt4/pXGNtIxikUhQyZnunRHU=
+
+Name: assets/public/config/levels/2-5.xml
+SHA1-Digest: NWtMDHoBnQbYyS3gycJnrnSAiG8=
+
+Name: assets/sound_android/BE2_start.ogg
+SHA1-Digest: E3ToprzHMciR40AjbSgxGkKf08w=
+
+Name: assets/release/gear/wizard_119.png
+SHA1-Digest: wkhKuifXKnodqMe4Z5rL48dny44=
+
+Name: assets/release/spine_json/thump.json
+SHA1-Digest: yPuE1paY/Eop5ZlkU2pJRMujuIE=
+
+Name: assets/public/font/sk_cartoonist_28.png
+SHA1-Digest: AOOX3sIUwldXAFYZ4ZjrYWWCRS8=
+
+Name: assets/release/spine_json/surge_c7.json
+SHA1-Digest: opljauWx1Kd6FKtjLwgjY9OPlEk=
+
+Name: assets/sound_android/earthPower.ogg
+SHA1-Digest: Pr2fMoLKtiJtWuW/zuzKx/ZTumo=
+
+Name: assets/release/gear/highpriest_116.png
+SHA1-Digest: 4SoQA1gXihtBv8sj4Tp0C4YgEB4=
+
+Name: assets/sound_android/bg_boss.ogg
+SHA1-Digest: tEsfNNT1JkBHyhTJlIYHCqAcElM=
+
+Name: assets/sound_android/halfmoon.ogg
+SHA1-Digest: +7ykQUVWMtBzCgo1Cb/GoGklqnQ=
+
+Name: assets/public/font/sk_angrybirds_30.png
+SHA1-Digest: JYfee7czQPqM23K+a85OSg/hYpg=
+
+Name: assets/release/gear/wizard_113.png
+SHA1-Digest: DaZd4NCeLnFKO7ar5FnWxB7bR8A=
+
+Name: assets/release/spine_json/alchemistTransfer_to.json
+SHA1-Digest: ikVKrf13ArwX07rPfuHrkU5+WEM=
+
+Name: assets/sound_android/bloodlust.ogg
+SHA1-Digest: h7j6JWJXhXxbW+BqATayACi+W+Y=
+
+Name: res/drawable-hdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: VdvSR3/rVDSxjkN3bmqVWMdUCCc=
+
+Name: res/drawable-xxhdpi/powered_by_google_dark.png
+SHA1-Digest: 3TZdf7LXDyKO+oZYwjd+6ETbjT4=
+
+Name: assets/release/spine_json/rebirthSmoke.json
+SHA1-Digest: tX3uszWDBtswYo6dRULiO4JpxeE=
+
+Name: assets/release/gear/berserker_111.png
+SHA1-Digest: xUj/U5VhNPwHihfJfGGblyoux3w=
+
+Name: assets/release/gear/armorplate_102.png
+SHA1-Digest: rdsl+6NrwQJscrdBJmM/hieXjsA=
+
+Name: assets/release/gear/warrior_100.png
+SHA1-Digest: KIZUaAma/3vcGIZ7cIMuZ8UTtyQ=
+
+Name: assets/public/font/ru_angrybirds_26.png
+SHA1-Digest: GqnB0OGfP1Zh2N9n5OJfkAWaTKY=
+
+Name: assets/release/map/world_boss_alchemist.png
+SHA1-Digest: ASB5vrpeC0ggKnIDIsdVaF7zu3A=
+
+Name: assets/public/config/levels/6-9.xml
+SHA1-Digest: P92HinBSwwWczghNwSeKVao4PTo=
+
+Name: assets/release/spine_json/iceBolt_hit.json
+SHA1-Digest: TQETYP+71uy5UcyLKF1+TXx4THA=
+
+Name: assets/release/spine_json/magicDetonate_ball.json
+SHA1-Digest: 4skUX4gxzsvzyhBUeCAKfR6qZmE=
+
+Name: assets/release/gear/mage_103.png
+SHA1-Digest: 4EvVSLTMiw9OD78WKduuUpLtAQQ=
+
+Name: assets/sound_android/convert.ogg
+SHA1-Digest: a2jfq3ny1Fc3CJa859kb4ETnHlo=
+
+Name: assets/release/gear/assassin_114.png
+SHA1-Digest: wP3IdR10c+LyIuluEMBLhdxhCqo=
+
+Name: assets/release/gear/armorleather_102.png
+SHA1-Digest: U4c4jDjpwOaHmMlf0lsFId7P8aI=
+
+Name: assets/release/gear/musketeer_118.png
+SHA1-Digest: TTWf+wuUvsP8zhZlZXQ38wg9Ikk=
+
+Name: assets/release/spell/angel_form.png
+SHA1-Digest: EQRfKhSO4ooIaC3bKLnlH5kliOY=
+
+Name: res/drawable-mdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: Xr9Kvpno/9I8LDq8v90Fopa1RrI=
+
+Name: assets/release/spine_json/UI_conquer_box.json
+SHA1-Digest: X/M+sLgpRrJLV6+erdp53zyCfP8=
+
+Name: assets/public/font/ru_angrybirds_30.fnt
+SHA1-Digest: 5e699M4kdqGGiMo9s7sSPhue4ZE=
+
+Name: assets/release/spell/resurrection.png
+SHA1-Digest: /3B2oU71+QD00U++Z/BtTOZtADc=
+
+Name: assets/public/config/levels/conquer-1.xml
+SHA1-Digest: jVlWQicmycFSmBjj7SSoSRW4ERs=
+
+Name: assets/release/gear/beltplate_113.png
+SHA1-Digest: +AtKHnMjJSqj3smolzOg/gUXXgE=
+
+Name: assets/public/config/levels/m73.xml
+SHA1-Digest: KvIaGCWGWHsd4XQLY2vYTpKcXOo=
+
+Name: assets/release/gear/highpriest_115.png
+SHA1-Digest: Lx4PKlgaPZhayPvdeNT/xbc7utM=
+
+Name: assets/release/spell/spell_upgrade_holy_impulse.png
+SHA1-Digest: 4jMOVZXI3pwPc4uYyutwgSN5Cj4=
+
+Name: assets/release/plist/weapon_guardian.plist
+SHA1-Digest: R1LvkBvPDIKlp9MCYlmneOD1O2c=
+
+Name: assets/sound_android/Boss1_cage_drop.ogg
+SHA1-Digest: duIuljsHtgKiYV8sAX9z/PDe1wY=
+
+Name: assets/sound_android/demon_guard_die.ogg
+SHA1-Digest: 2QAe3UxFtThsNIN0MiSRpOY8Tws=
+
+Name: assets/release/gear/necklace_106.png
+SHA1-Digest: eyzYIw6GQpZRAYVjQ7sA8ek3fRE=
+
+Name: assets/release/gear/assassin_123.png
+SHA1-Digest: cNduiHpcPE1EqBSuJAiywina0FQ=
+
+Name: assets/sound_android/dialogue_battle.ogg
+SHA1-Digest: ziQwPKG6G85E0hsngKt5OOcZi9Y=
+
+Name: assets/release/spine_json/halfmoonSlash.json
+SHA1-Digest: 8WjsMohTVaUFc9SYnkbkU8/H4Oc=
+
+Name: assets/release/spell/blink.png
+SHA1-Digest: M25G86ovFu38SGUlfEeZ8QI2r2A=
+
+Name: assets/release/gear/armorcloth_116.png
+SHA1-Digest: RGTAlpf309cXuVrM1gDuwA6CFhE=
+
+Name: assets/sound_android/smallEye_birth.ogg
+SHA1-Digest: Vkp/lnV9YpPcRKIV6wkWYgqsCys=
+
+Name: assets/release/map/story_map_7.png
+SHA1-Digest: WT/fVncEz4KUfDn3uTAoQofY5XE=
+
+Name: assets/release/plist/bank.plist
+SHA1-Digest: tDH0U0UHwAYcSNi1iURU36sS3p4=
+
+Name: assets/release/plist/goblin_healer.png
+SHA1-Digest: i163irHEuxlBL5sMHPa+v5ypEVU=
+
+Name: assets/release/spine_json/pvp_skillReady.json
+SHA1-Digest: 9LlWsMJIF3mOey4JwxeYnAJeXsU=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: kRsGqCmu8Bd39WDzj6wp8ZCz06o=
+
+Name: assets/public/config/levels/7-5.xml
+SHA1-Digest: qKHiDlxLpD+ZwjQaqX1mvK8l5wI=
+
+Name: assets/release/plist/dragon.png
+SHA1-Digest: u4hEoVwVdoeZfuSc8WvUypZw3Bc=
+
+Name: assets/release/spine_json/lightningChain_hit.json
+SHA1-Digest: WcwQ7r1SiaB9VmmfKebjzak+qHY=
+
+Name: assets/public/config/levels/m84.xml
+SHA1-Digest: 4ii7ErMfA1KOimfcG2HhtLjZjFc=
+
+Name: assets/release/gear/mage_101.png
+SHA1-Digest: S3zbhjtMX8Ypa18uTUU+25a2vt0=
+
+Name: assets/release/spine_json/UI_cardUpgrade.json
+SHA1-Digest: dN0/U7pzWigj0e4ZnKl6Zw/QLL0=
+
+Name: assets/release/spell/polymorph.png
+SHA1-Digest: dpommZQcRa5INPnDrN+KZVhM5kI=
+
+Name: assets/release/gear/berserker_100.png
+SHA1-Digest: oJQjY49IG4uEkBgsE0fEP9tiXVg=
+
+Name: assets/public/font/zh_angrybirds_30_new.png
+SHA1-Digest: EuOrhOHDMqhrqzhVf1o5lWKbzQo=
+
+Name: assets/release/spine_json/soulGathering_hit.json
+SHA1-Digest: DDO95NhMnIUXCTOZQZ+nZlhBmKM=
+
+Name: assets/sound_android/cousin_die.ogg
+SHA1-Digest: eb2/PzsK+9oss4aWUljJ+JmGsXo=
+
+Name: assets/release/spine_json/blinkFenrir.json
+SHA1-Digest: ugBdOKjPhavvdyXz7dEJEzgHmqo=
+
+Name: assets/release/spine_json/gearRange_up.json
+SHA1-Digest: kSsmB2q25JmD5/Uqdy+ReTJB6KY=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_focus_light.9.
+ png
+SHA1-Digest: Yndv8kOzCwrLL2xbQUlSqNZPLLc=
+
+Name: assets/release/plist/berserker.plist
+SHA1-Digest: JgWG1dSnkXIXhEaUdEryshgI0Rs=
+
+Name: assets/release/spine_json/UI_revive.json
+SHA1-Digest: wljxRNp/3xydntVKjKu/L3MVyCw=
+
+Name: assets/release/spell/kill_shot.png
+SHA1-Digest: 5mTWdfGeof/S/gV6BuF8CDKq/x4=
+
+Name: assets/release/gear/paladin_119.png
+SHA1-Digest: /3mpLxYhRbYYHDWf3Y25TuQmAyQ=
+
+Name: assets/release/gear/highpriest_105.png
+SHA1-Digest: y1TrQ1uk5lc1lvJK0/vHwqpvrw0=
+
+Name: res/drawable-hdpi/featured_frame_exit_a.png
+SHA1-Digest: CYVxiNzqh1RkxaFqwLu0FVJf4Fk=
+
+Name: assets/public/config/story/story8-4Begin.xml
+SHA1-Digest: hLD+4QlX6qaEA7WXMJ7J07LYYHo=
+
+Name: assets/release/plist/goblin_bomber.png
+SHA1-Digest: bBLVZl1VJ05myhWdYx9/UstUkEE=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: KH33857tho0UqY3EskIAcYvRqxs=
+
+Name: assets/release/plist/succubus.plist
+SHA1-Digest: TJdRbk8mRkTu1YOojHtuMEqy1NE=
+
+Name: assets/release/gear/cloak_100.png
+SHA1-Digest: gF1re/BGzn47s6/3/OGja2c+cbE=
+
+Name: assets/release/spine_json/mage_weapon.json
+SHA1-Digest: loftaD0toxGvtqTm1Xet9WmzWuQ=
+
+Name: assets/release/spine_json/holyShield_up.json
+SHA1-Digest: 4RYXHtNgFD+9CzgrclX8PQYBbQU=
+
+Name: assets/public/config/levels/conquer-7.xml
+SHA1-Digest: z3dwBvfzmiP6KsGfU/4L1YjYKbk=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9
+ .png
+SHA1-Digest: WAwaRsig+4y9B2GJX3eEQ4v5DLM=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: j5kufN4qd7ztpO8p5kOM2CfmqRg=
+
+Name: assets/release/gear/berserker_109.png
+SHA1-Digest: WYsoOFhbmr2th2n6aKmsE/u/taE=
+
+Name: assets/release/gear/wizard_112.png
+SHA1-Digest: aze1PnhBRBJj5WC3mH4FQBk9laQ=
+
+Name: assets/public/config/levels/mk4.xml
+SHA1-Digest: nfsMSCkJWCSyW/N/qATnYFxromQ=
+
+Name: assets/public/config/levels/mdt3.xml
+SHA1-Digest: JOfc4OMmgLLytCiN1N6mKerQc7g=
+
+Name: assets/release/spine_json/whirlwind.json
+SHA1-Digest: puDSWGvwdwhLTeDZmcJ5fBCI3R8=
+
+Name: assets/release/map/message_events_ads_3_us.png
+SHA1-Digest: yLFPhXIGJLXeRHPU2iEzlP/iW30=
+
+Name: assets/release/gear/necklace_111.png
+SHA1-Digest: sjnRuMwaA5SwLJlLyiFr5bcAKTw=
+
+Name: assets/release/plist/book.png
+SHA1-Digest: 9H1LI/kuMwRV4ImnueoXWvkJLpo=
+
+Name: assets/sound_android/voice_09_Wizard.ogg
+SHA1-Digest: 3UFR1L7cpKXpGOp3dv7gvFHhYTU=
+
+Name: assets/release/plist/revive.plist
+SHA1-Digest: z6qELQx7sXaMbKZ1Kyl+e7plXRA=
+
+Name: assets/release/spell/spell_upgrade_dagger_lash.png
+SHA1-Digest: 84FSixyZI4Vc4Gytb5q9clAKwNg=
+
+Name: assets/sound_android/tornado_loop.ogg
+SHA1-Digest: ctEopyHIOxzF+Djjj5u6jR5Anr8=
+
+Name: assets/release/spell/perilous_strike.png
+SHA1-Digest: HhC4lC88X9jNS6tYE3Nbrw+PPUQ=
+
+Name: assets/release/gear/armorleather_120.png
+SHA1-Digest: 5O06Opjt2f/zxzm1xi2nl03KM80=
+
+Name: assets/public/config/story/story4-9End.xml
+SHA1-Digest: H81mSklQ4zOjvi3PY1My1A24l4Q=
+
+Name: assets/release/plist/witch.png
+SHA1-Digest: prZYIWixj5JIdcYC+3GO6Av42DY=
+
+Name: res/drawable-xxhdpi/powered_by_google_light.png
+SHA1-Digest: g2CSQTHDg4sw+UWQOpE7kHpuCCU=
+
+Name: res/drawable-mdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: saKXzRrSnb9HqTwm4uGIRL9MubM=
+
+Name: assets/public/font/rank.fnt
+SHA1-Digest: Vxhqq7sMbfBBs4aJ6Rww34XpADQ=
+
+Name: assets/release/plist/orc_rider.plist
+SHA1-Digest: ZfKh2nNsqd2SrLZozNtbRTK6nW8=
+
+Name: assets/release/spell/meteor.png
+SHA1-Digest: kmtfOXRyUoqamUVCdlJ38qNJ49Q=
+
+Name: assets/release/spell/combat_master.png
+SHA1-Digest: c3iTyoPzeeNuPp0y07ndxvhinUc=
+
+Name: assets/public/config/levels/m31.xml
+SHA1-Digest: B8z6hg5Hi9nx1NaS8/UiIL78NiY=
+
+Name: assets/release/gear/scout_116.png
+SHA1-Digest: AowDUptKcp7KU1uozdZkkJ86RME=
+
+Name: assets/release/gear/paladin_103.png
+SHA1-Digest: /xElPKsdYLu5X8IJXUDRqf549NE=
+
+Name: assets/release/plist/weapon_dagger.plist
+SHA1-Digest: PqY4JM4nEUA2N3Ll7nCb+iOD03w=
+
+Name: assets/release/spine_json/earthPower.json
+SHA1-Digest: bGworn1NxytGDbCO2AZ02BhIX+s=
+
+Name: assets/release/spine_json/hellfire_up.json
+SHA1-Digest: 21ldLBkm1AdL+b41bLYj3udS2z0=
+
+Name: assets/release/spine_json/throwingDaggers_fly.json
+SHA1-Digest: t+BqYXP687FdU2kQzfNXg8by+ew=
+
+Name: assets/release/plist/elf_ranger.plist
+SHA1-Digest: saNn1RNDwb3v8V+dEhJ0FUE6IgE=
+
+Name: assets/sound_android/casterAttack_hit.ogg
+SHA1-Digest: vpJN4dl+dv5OZtkmDPzCMWtpAus=
+
+Name: assets/release/gear/helmetplate_107.png
+SHA1-Digest: yIP/QJx4dnpAWJzhIwBz0lpn13M=
+
+Name: assets/public/config/levels/6-7.xml
+SHA1-Digest: 6QN7usZ3L5pW+vbG/mt0MswPQ8Y=
+
+Name: assets/release/gear/scout_112.png
+SHA1-Digest: AiwpIlDf3Ab6HtMlRUO8tbDyC6Y=
+
+Name: assets/release/spine_json/shield_hit.json
+SHA1-Digest: wezmH/gKrvAyVeF7WEGvmrkRpfs=
+
+Name: assets/release/gear/windwalker_101.png
+SHA1-Digest: JzzvPvE/uvBKUc7wvjgBcc3d9pg=
+
+Name: assets/release/gear/berserker_105.png
+SHA1-Digest: 0sqp2xFdsl0aQ7f1Yc1Iy/puhFk=
+
+Name: assets/public/config/story/story8-7End.xml
+SHA1-Digest: /ldp9XrZIFG3juYyRLi/jzp29Yc=
+
+Name: assets/release/gear/ranger_106.png
+SHA1-Digest: wuN7DfN3zCUOsUAtiu7VcHfQ6Jo=
+
+Name: assets/release/spine_json/grenade_gd.json
+SHA1-Digest: PiDnldhbnO7IMwEvymRr43jzrIM=
+
+Name: assets/release/gear/wizard_115.png
+SHA1-Digest: tmY31XuMeqS5iSAp0bUSDQ68XuI=
+
+Name: assets/release/spell/shield_strike.png
+SHA1-Digest: CyuKzJNkRvtCa7nDVc62h6aX5OY=
+
+Name: assets/sound_android/priestHeal_spell.ogg
+SHA1-Digest: Yw5mKRkfdjcE65h7kWJQj1yC8YI=
+
+Name: assets/release/spell/holy_impulse.png
+SHA1-Digest: /4LHgzQBJpw6+I4kz+6rygXXygU=
+
+Name: assets/public/config/levels/m82.xml
+SHA1-Digest: 9CGUmnGt6hU9vHYRKWQ1vbmJg8w=
+
+Name: assets/public/config/levels/3-2.xml
+SHA1-Digest: a+W8k6WmFuahP9cEXrW3QnbG6y8=
+
+Name: assets/release/plist/goblin_bomber.plist
+SHA1-Digest: huNWw7VTvfO+IJwywKKcRlwCRpE=
+
+Name: assets/release/spell/spell_upgrade_thunder.png
+SHA1-Digest: ga0S/J+IoqIUSVcGUW/HzBcLk4w=
+
+Name: assets/release/plist/mission.plist
+SHA1-Digest: T8CmUxobCvQp9w0/Kq9ebs94Cu8=
+
+Name: assets/release/spine_json/reload.json
+SHA1-Digest: yXJlM9BvW1qF/bwGNC6pdm/UV2c=
+
+Name: assets/release/map/scene_9_1.png
+SHA1-Digest: XdZyK1K8AoZmNn4WI/K07xE/CV4=
+
+Name: assets/release/plist/totem_storm.png
+SHA1-Digest: 0VdNpkTt1AWuWz1UlDfCaUAXZ2M=
+
+Name: assets/release/spell/combo_master.png
+SHA1-Digest: OHykoIUM2lf1IzCWpxCnCEQnXsQ=
+
+Name: assets/sound_android/summon.ogg
+SHA1-Digest: Qg1fbpErUnQtbMKtVp/W2DgxK6g=
+
+Name: assets/sound_android/dragonRoar.ogg
+SHA1-Digest: yYWuOS72I/ld2oetA4WYIMmgQSk=
+
+Name: assets/release/spine_json/UI_victory.json
+SHA1-Digest: 4Jsh+0im0CS0ZFQor/ti8NdG9Ak=
+
+Name: assets/release/plist/archer.png
+SHA1-Digest: TQ3kuEZz4AFwrWf41Nn+VVwFqv8=
+
+Name: assets/release/gear/cloak_106.png
+SHA1-Digest: +8w0WEYbMI6SE56IyzT+zZotCIY=
+
+Name: res/color/common_signin_btn_text_dark.xml
+SHA1-Digest: o6MtdkyGAOQ8KD4bobxUZOvpEFY=
+
+Name: assets/release/gear/caster_123.png
+SHA1-Digest: RnumDByrNZyx1jOxbgF7c0GACVI=
+
+Name: assets/sound_android/plague.ogg
+SHA1-Digest: 20bDCgcv9pe8rVXAyT5gLfQz4Js=
+
+Name: assets/release/gear/ring_105.png
+SHA1-Digest: 7F/OJfhkSt6bG542FAMVjhNiJFk=
+
+Name: assets/release/plist/champion.plist
+SHA1-Digest: BqXOCY5mbP4MMFM4gFfCIe+R1/c=
+
+Name: assets/release/plist/popupBuffSlot.png
+SHA1-Digest: 41LeqYtOJ27QFwtSG0qKXSG3LE0=
+
+Name: assets/vg_timer.png
+SHA1-Digest: t9l61qhO82aUDw34Lb2ZpEpkvmQ=
+
+Name: assets/vg_close.png
+SHA1-Digest: dEFj7Pcdbalud2xDLTS7sS6BwvE=
+
+Name: assets/release/gear/beltplate_109.png
+SHA1-Digest: /mIp0AWsEXeyve2kvlhxskvxCAg=
+
+Name: assets/sound_android/operationFail.ogg
+SHA1-Digest: UOWaaCcIzdgCwcRoQa09aUmlzAw=
+
+Name: assets/vg_cta.png
+SHA1-Digest: RKjemiSTnYN2aovdZERW42PZn4Q=
+
+Name: assets/release/plist/popupDaily.png
+SHA1-Digest: 7RIyUrlt+HrxCHHnvstwHHM7ydc=
+
+Name: assets/release/plist/popupHalloween.png
+SHA1-Digest: fhvN7OqIcJT1GMjeLKAY4kWCMHY=
+
+Name: assets/release/gear/helmetcloth_110.png
+SHA1-Digest: Syt7qHGyJ6afoPQmtUNuNReF0jg=
+
+Name: assets/release/gear/helmetcloth_115.png
+SHA1-Digest: aMD5oe00S8e+pLljeGayatgEfAg=
+
+Name: assets/sound_android/storyTap.ogg
+SHA1-Digest: dNc0s0JooPV3O3QQw3aQFoeaP6E=
+
+Name: assets/release/spine_json/magicDetonate_fly.json
+SHA1-Digest: DPXhDs3Pisc1ZpQp3FjHLkvf/5w=
+
+Name: res/drawable-xxxhdpi/icon.png
+SHA1-Digest: 940QbrOZPyWLoQAKG475BsYAnEc=
+
+Name: assets/sound_android/thunderStrike.ogg
+SHA1-Digest: qxX/wVtwhmQlEM8EKv9GoENRzyA=
+
+Name: assets/public/config/levels/mt7.xml
+SHA1-Digest: cbGiu1l/F9WHEnAMUTlztdsdBDg=
+
+Name: assets/release/gear/cloak_109.png
+SHA1-Digest: IKJdXkEHUkoz93w6hLhmF2WSEQg=
+
+Name: assets/release/plist/chat.plist
+SHA1-Digest: 4IbxwLGLMMJPYCeQtqGhnldMoyk=
+
+Name: assets/release/spine_json/beholderSmall_birth.json
+SHA1-Digest: dRtY1dCL5RRkYQ5HKPmDHEs0zK8=
+
+Name: assets/release/gear/beltplate_107.png
+SHA1-Digest: kfbIBoJcMcxL2EiII/poRfEBT4w=
+
+Name: assets/release/spine_json/prick.json
+SHA1-Digest: wfc6ACkmWpvDyxzTNUMfmd1gwnw=
+
+Name: assets/sound_android/priestHeal_hit.ogg
+SHA1-Digest: hJuQoLsCMoFa5cgR4pkd5ZbU4Tw=
+
+Name: assets/sound_android/wheel_loop2.ogg
+SHA1-Digest: aK0PYJdk3XRu0Ub3qwEL91gy6v4=
+
+Name: assets/release/plist/guard.png
+SHA1-Digest: cXQvX/yuoStTftrNnnfYQAT5kTE=
+
+Name: assets/release/plist/jeti.plist
+SHA1-Digest: 9sveowh+RwyAXP9dRO+XXR6e+Zw=
+
+Name: assets/public/config/levels/m22.xml
+SHA1-Digest: 7vE4XNd/jbpjOuhK6XeOWSEepsg=
+
+Name: assets/public/config/levels/7-10.xml
+SHA1-Digest: EL/EAZoBTUEt3dJXjGnw/FL6YH0=
+
+Name: assets/release/plist/wolf.plist
+SHA1-Digest: h/GKrwvLE0s9Op3aG664G1K9eO4=
+
+Name: assets/public/config/levels/2-2.xml
+SHA1-Digest: is5NIeX2beEG1SuhEcjOPAEWQfc=
+
+Name: assets/sound_android/whirlwind.ogg
+SHA1-Digest: gpfEChxL8D+clELw2hmgGty8JkQ=
+
+Name: assets/release/spell/spell_upgrade_fury_strike.png
+SHA1-Digest: FhXpFaawHTevcOu/rYq6C6/Xbu0=
+
+Name: assets/release/gear/gear_icon_uncommon.png
+SHA1-Digest: Wu54uJjDUD+FH0xks/anZCxiDlc=
+
+Name: res/color/wallet_secondary_text_holo_dark.xml
+SHA1-Digest: CtNzRec3p8meGpQRx56Ym7fj8Ig=
+
+Name: assets/release/spine_json/clawBlood_start.json
+SHA1-Digest: Hs2WqWNPqivC4g7OTRWxIXY4Qbw=
+
+Name: assets/release/spine_json/UI_buffSlot.json
+SHA1-Digest: 3u/N8vaomDIPXlwtQjmrr6lm05A=
+
+Name: assets/release/spell/spell_upgrade_incendiary.png
+SHA1-Digest: yK7O5/XqZJQwVWOKD5kqwfYqsWg=
+
+Name: assets/release/plist/public2.plist
+SHA1-Digest: 0T/FoBSr0b5or/ipt2qjcd5GmjI=
+
+Name: assets/release/spine_json/goblin_bomber.json
+SHA1-Digest: sy7Xzky0xXYi7bPAuv9s4ednKAE=
+
+Name: assets/release/map/scene_4_5.png
+SHA1-Digest: 3YCtIapZl2HkFn/tAKNCi/jFJhw=
+
+Name: assets/release/gear/wizard_103.png
+SHA1-Digest: LLMxZsAw4jEKk5GtaIKoDMTKcIc=
+
+Name: assets/release/gear/ranger_123.png
+SHA1-Digest: XON9zr9XWm/8WESY1c1i3Hg+uvE=
+
+Name: assets/release/gear/musketeer_110.png
+SHA1-Digest: VV6//Y2hZmDctOOhp+rzmFAd2F0=
+
+Name: assets/release/plist/weapon_twoHanded.plist
+SHA1-Digest: knI6NIZVmcFaTLRdk8y+aTzmqIk=
+
+Name: assets/release/spine_json/groupHeal_hit.json
+SHA1-Digest: DWQooWly+mnHhFM4qyoFDmmVSjk=
+
+Name: assets/release/gear/scout_115.png
+SHA1-Digest: g6fxC2qtkJI98tJ01nHstyzPZcU=
+
+Name: assets/release/plist/popupFastBattle.png
+SHA1-Digest: 4h9FNIzg/HdoGt24+owkJMLFJE4=
+
+Name: assets/release/gear/mage_111.png
+SHA1-Digest: LC3Lb2fLDFwUmhW9zkdOpkyOm+A=
+
+Name: assets/release/gear/ranger_114.png
+SHA1-Digest: iGX5zz160k3GagOCEVBrZ3qjYrE=
+
+Name: assets/release/spine_json/thunderStrike_up.json
+SHA1-Digest: jPkqE6y/UG8PYIpBWUNl9w+l0kU=
+
+Name: assets/release/gear/scout_121.png
+SHA1-Digest: XyXpfOPoblkrJhvlstiWvBGukxs=
+
+Name: assets/public/config/levels/mk3.xml
+SHA1-Digest: 6bqgCkz2GlpGMDBuWVHfqqPiSbA=
+
+Name: assets/release/gear/berserker_122.png
+SHA1-Digest: Z2Adt5Gi7nKMxQM0zS/sv1FOC9k=
+
+Name: assets/release/gear/helmetplate_101.png
+SHA1-Digest: H6QWjReh+Nr99uS1VNwJEjyRGw8=
+
+Name: assets/release/plist/angel.png
+SHA1-Digest: UkuORiDhqLgqXuIFMf5NxfZn/pI=
+
+Name: assets/release/gear/berserker_106.png
+SHA1-Digest: OYFqS5vEQwvMHnpqpwDcowljQds=
+
+Name: assets/public/config/levels/mdkt7.xml
+SHA1-Digest: qOP1WQ6RWjIji1bTlHr7NUHtl98=
+
+Name: assets/release/spell/fury_strike.png
+SHA1-Digest: Xj1Ar/suS21xnS05GAcSEalwR9U=
+
+Name: assets/release/spell/toughness.png
+SHA1-Digest: QXSeMutIXAME2ncSYwUNqR6BKwI=
+
+Name: assets/release/plist/pvpBattle_sealing.png
+SHA1-Digest: IdYfJ+oNvfb+kAMjle0qPXiJoJw=
+
+Name: assets/release/spine_json/selfDestruction.json
+SHA1-Digest: An8n+byu1pm4K5kRW2SBYCM6NWM=
+
+Name: assets/release/gear/scout_109.png
+SHA1-Digest: SXnv4Msc0HjaIDHrz/2z2WWVxds=
+
+Name: assets/release/plist/groupGift.plist
+SHA1-Digest: JyWOwAdelZcMn3fZeKWbB6v97g0=
+
+Name: assets/release/spine_json/auraOfCourage_down.json
+SHA1-Digest: 3Od+qoUfjB+d0U8BJnI4fpQjLW0=
+
+Name: assets/release/gear/musketeer_111.png
+SHA1-Digest: CtwTdFSJNsVwgpwm++aq9pBEeEs=
+
+Name: assets/release/gear/armorplate_110.png
+SHA1-Digest: eLBmU6ZNxyLiXVkLgEQONE5mMlc=
+
+Name: assets/release/spine_json/totem_lightening.json
+SHA1-Digest: FQ0pLGaJ2pv5XGB6EfrXlVh0KV0=
+
+Name: assets/release/map/story_map_5.png
+SHA1-Digest: 0hPDAsvOBKh50oQTkr1Z5BMlk0A=
+
+Name: assets/sound_android/thunder_hit1.ogg
+SHA1-Digest: w0anWstkkgJxtAh4KCQ5KuN0UUs=
+
+Name: assets/release/plist/totem_rock.png
+SHA1-Digest: /IUK+IQFBWZPIklog1eyI5uLdSA=
+
+Name: assets/release/plist/fenrir.png
+SHA1-Digest: 9eMqkvHJfO5X8pnsyu09ZqG+I2U=
+
+Name: assets/release/gear/beltplate_108.png
+SHA1-Digest: URQaOeOS73tAp9al45oqSLTUDNg=
+
+Name: assets/release/plist/piranha_king.plist
+SHA1-Digest: 9ymYf+LKIWC2DKRtIaLJFPl7l88=
+
+Name: assets/release/spell/grenade.png
+SHA1-Digest: XqiKjglffcsZ80Xg/fUSzSCxZL8=
+
+Name: assets/release/spell/spell_upgrade_resurrection.png
+SHA1-Digest: 2vf8qyxiu8ZXmxeuAdoBO2/sosY=
+
+Name: assets/release/spine_json/enrage.json
+SHA1-Digest: 4In7Z2HwyNkQIBl/pvBm8peEAhc=
+
+Name: assets/public/font/zh_cartoonist_45.png
+SHA1-Digest: 77E2+VSnfjrzD6f5FFrSIhjFJpw=
+
+Name: assets/public/config/levels/endless-2.xml
+SHA1-Digest: PlkSN5Pnv1eoXm1uWNe/cUNT+to=
+
+Name: assets/release/spine_json/bloodlust_start.json
+SHA1-Digest: ogoKqsRLcS97rS1j5OVgErs9ayw=
+
+Name: assets/release/spine_json/pvp_steal.json
+SHA1-Digest: 8ibxuqqGAr9l/waajoB5kdooINQ=
+
+Name: assets/release/map/tutorial_info_bg_s.png
+SHA1-Digest: TGR4IZhq0lGA+urrnnOy67RIL7A=
+
+Name: assets/public/config/string/sk.xml
+SHA1-Digest: MTH3T/E+4tRCLx/3IQ6s6Xsah8o=
+
+Name: assets/release/spine_json/totem_start_down.json
+SHA1-Digest: jkWW3cIRi4TsKNlwdsx9Vebh0s8=
+
+Name: assets/release/plist/popupDaily.plist
+SHA1-Digest: fXrvox/cscIxPiP9XvvgWuxmpTg=
+
+Name: assets/release/spine_json/piranha_king.json
+SHA1-Digest: M7oINwsHUV4y6yk0uLy9yuw51k0=
+
+Name: assets/release/spine_json/UI_rotary.json
+SHA1-Digest: f48cuCrnykAE+MHiuYUXgI+Z1bg=
+
+Name: assets/release/spell/spell_upgrade_angel_form.png
+SHA1-Digest: 8yluYXqjp7gihxB2MInSHchZsrk=
+
+Name: assets/release/gear/armorleather_109.png
+SHA1-Digest: NhE9IPWm3EYznJbnrhDM2i3UY2E=
+
+Name: assets/release/gear/musketeer_121.png
+SHA1-Digest: 8TyNVQ+m61wGkti3YR127UGA4iY=
+
+Name: assets/sound_android/stepOnWater.ogg
+SHA1-Digest: uA/qU4KVGRGqzy8YFuVY0jp5Vpc=
+
+Name: assets/release/spine_json/tornado.json
+SHA1-Digest: b2rf9b29DIdSBhyzIXgJ6dMg//I=
+
+Name: assets/release/gear/berserker_119.png
+SHA1-Digest: ausj0lYxeQzaHs9v49L0Ozo8FSg=
+
+Name: assets/release/map/story_map_4.png
+SHA1-Digest: /j2Tip1snSJTv7yVx/v35VmGuag=
+
+Name: assets/release/plist/windwalker.png
+SHA1-Digest: lyd1wRB9/E1mP9Z6DacL0+xDh6I=
+
+Name: assets/release/gear/warrior_122.png
+SHA1-Digest: tCedyUHEPtdXv91OU5YxtLICcWE=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: NY21Bk2QFwmh17REpjWWNJjl4v0=
+
+Name: assets/release/spell/spell_upgrade_powerful_shot.png
+SHA1-Digest: AFcnm0M64z+wqrBqdZJgCgeZDBM=
+
+Name: assets/release/gear/armorcloth_119.png
+SHA1-Digest: 21XyZth60nMuwlxMnR+ZTHNzfHA=
+
+Name: assets/release/plist/stone_guard.plist
+SHA1-Digest: SldXnZX5adCcinC729HUwSTpteU=
+
+Name: assets/release/gear/armorplate_103.png
+SHA1-Digest: y6z/gKJ19UbnMuK+Euv6iSnO/ms=
+
+Name: assets/release/spine_json/jumpHack.json
+SHA1-Digest: P27dvUa6AEzGv512VsOXMhnsJVw=
+
+Name: assets/public/config/levels/mdkt2.xml
+SHA1-Digest: enn1BbfSbt9qiHX20f/4LjZOlIA=
+
+Name: assets/release/spine_json/fenrirBall.json
+SHA1-Digest: msTyR1EvGIWUqk71IogM7vbzxAg=
+
+Name: assets/release/spell/garrote.png
+SHA1-Digest: nEphi+DKt0Z7wrl7biwgeiVdXOs=
+
+Name: assets/release/spell/poisonous_shot.png
+SHA1-Digest: qKSplvjJojM99DdZWRf+Rry1Lz8=
+
+Name: assets/release/gear/assassin_106.png
+SHA1-Digest: TDcO5Aqu0NxizSnoXzcJMBcH0ZQ=
+
+Name: assets/release/spine_json/leverage_down.json
+SHA1-Digest: oX20xGdgNOGfGhh6pIZymvWGi+A=
+
+Name: assets/release/spine_json/magicDetonate_hit.json
+SHA1-Digest: 2P1SVynDcwLz4Q/npXg481SAh2A=
+
+Name: assets/release/spell/redirection.png
+SHA1-Digest: zmUrne3YMoQlPYDKddQ+l/0C+P4=
+
+Name: assets/release/plist/pvpBattle_trick.png
+SHA1-Digest: q9hTiQG6UgCE85Wc2UmfJ/pvb7Q=
+
+Name: assets/release/plist/pvpBattle_arcaneExplosion.plist
+SHA1-Digest: sXXp9t2TJ24X/OPUiueuPH5X/gk=
+
+Name: assets/release/gear/cloak_111.png
+SHA1-Digest: c1bey0sjAM2vPbyjn3wbgs7eCNM=
+
+Name: assets/release/spine_json/killShot_start.json
+SHA1-Digest: rmvfOyqTjHIItRA0TDY11rp6B2s=
+
+Name: assets/public/config/story/story8-10Begin.xml
+SHA1-Digest: gTgPJvXJ9VJHkOEDdZUWMS/BKzY=
+
+Name: assets/release/spell/mightySwing.png
+SHA1-Digest: 6VKhjTLTMrsn5H41j7/O/ePpjSk=
+
+Name: assets/public/config/levels/m41.xml
+SHA1-Digest: /uh0ELKpmZGoOIRPCaq8i3WRMNc=
+
+Name: assets/public/font/ru_cartoonist_28.fnt
+SHA1-Digest: TSRkZB1rfJBFhFnuNIeBj/Lj4uI=
+
+Name: assets/release/spine_json/sirbedivere.json
+SHA1-Digest: 4dVjHZjpOExEnQJ/HPJbvbtmrW4=
+
+Name: res/drawable/common_signin_btn_icon_light.xml
+SHA1-Digest: NGFCS8nla80avSKQuA9D7YNEUAg=
+
+Name: assets/public/config/levels/m45.xml
+SHA1-Digest: nMUD7rnF5iq1BEjnmr4JYfaPzXg=
+
+Name: assets/release/spell/spell_upgrade_poisonous_shot.png
+SHA1-Digest: SXTtsrzzv3JyQalEH01n3SrHzCE=
+
+Name: assets/public/config/levels/7-2.xml
+SHA1-Digest: lX9vJtuPUxaJjvO3okB2NNE1kC4=
+
+Name: assets/release/spell/shadow_strike.png
+SHA1-Digest: g4z4jjJHiidGUY7vJC/eIhJOwag=
+
+Name: assets/release/spine_json/soulGathering_start.json
+SHA1-Digest: B7M+/1WgXT5G9V1mX/iqLPgcUak=
+
+Name: res/drawable-xhdpi/powered_by_google_dark.png
+SHA1-Digest: aTHtrxZoRrTTpamgBNzwe3/sqrg=
+
+Name: assets/public/config/levels/m21.xml
+SHA1-Digest: 6ZvZ1cx8wtEigMZgUl2pBPsnElQ=
+
+Name: assets/release/gear/armorplate_121.png
+SHA1-Digest: FUtAPt2t3cnJYLd0g5xdk1eoVJM=
+
+Name: assets/release/spell/life_drain.png
+SHA1-Digest: KBJlTH79ZBe+TmppBFRaWWf2w04=
+
+Name: assets/release/gear/shoecloth_102.png
+SHA1-Digest: 2rk3yzMLWra9duPFjPNhGMwOZlk=
+
+Name: assets/release/gear/scout_101.png
+SHA1-Digest: +uco6T1dZWePG/ezPiuEQ3se3U8=
+
+Name: assets/release/plist/wood.png
+SHA1-Digest: 6D2fnXve7chIvw3gz6k95U6tXzY=
+
+Name: assets/sound_android/spellRefresh.ogg
+SHA1-Digest: mw71D4iR2lpie5F9sFYNxi9Kh0E=
+
+Name: assets/release/spine_json/paladin_shield.json
+SHA1-Digest: 2Xp1SRnulsF84PZyYJjSm14AiH4=
+
+Name: assets/release/gear/armorcloth_107.png
+SHA1-Digest: 26yq3FN8fp3mgZ9stbbu/lPAkOg=
+
+Name: assets/sound_android/fairTrial2.ogg
+SHA1-Digest: fGs++nbqn6f/uN9S3pS+Ak9QUfg=
+
+Name: js/mraid.js
+SHA1-Digest: XNptZM2BY264COtTYviewxAmyL8=
+
+Name: assets/release/plist/worldboss.png
+SHA1-Digest: AFXuFaLr+EOD0OQX70s67dPztCo=
+
+Name: assets/public/config/levels/m81.xml
+SHA1-Digest: 3RXDtoO9mFdNq7T+9D84oeXcHR4=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: NhAJ2PqfJ8jvnQmdWdP1Y7fLbB8=
+
+Name: assets/release/plist/popupFastBattle.plist
+SHA1-Digest: OYoF8jCrEWRmWawPuy7inruavaQ=
+
+Name: assets/sound_android/howl.ogg
+SHA1-Digest: C/+RcmO5VaKaq6tVKsLkXIAy8CY=
+
+Name: assets/release/gear/armorleather_121.png
+SHA1-Digest: 6YfY2GD6q99963640ubvz45B+TE=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: zhNBLqbyZHP2zoNyYoW2pZEQgpg=
+
+Name: assets/release/spell/spell_upgrade_magic_shield.png
+SHA1-Digest: 3JPX7dvDDyuoZyMgKOiWFCbs+uQ=
+
+Name: assets/release/plist/weapon_guardian.png
+SHA1-Digest: 3+bKfodFAx3mTqgyRq+CkC13YSs=
+
+Name: assets/release/plist/sirbedivere.plist
+SHA1-Digest: oX4s0WAoAKhXZKZA2RMPlQBJNJY=
+
+Name: assets/public/config/levels/m42.xml
+SHA1-Digest: rrt/nEvWtOXfMwv2ydjjxRgHYUA=
+
+Name: assets/release/map/gear_board.png
+SHA1-Digest: YCoub0rvoE1TQREJFfU9bugeixI=
+
+Name: assets/release/spine_json/gearBuffArmor.json
+SHA1-Digest: 1oA3y13UK2YlgRcRh8yIxNr+nt0=
+
+Name: assets/sound_android/darkdakarai_die.ogg
+SHA1-Digest: zgQMv1HSZoGiBsaZPivHlVB5GTY=
+
+Name: assets/public/config/levels/7-8.xml
+SHA1-Digest: l6ywBeyr7vryJI/nHCcdgrYsdKY=
+
+Name: assets/release/plist/hellfire.plist
+SHA1-Digest: 0l2Qh33UokLBMtNWYhuYQGvqHfI=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: dFqlBbQlUTGg/YzNQZQrtmm8fus=
+
+Name: assets/release/spine_json/darkMirror_down.json
+SHA1-Digest: 5UA2lsERdJoJ5YmK1X6JATZ5VgY=
+
+Name: assets/release/gear/ring_106.png
+SHA1-Digest: x+cvvD2wde+/XJM+7J3FXhdbhOE=
+
+Name: assets/sound_android/fenrirBall_loop.ogg
+SHA1-Digest: LmLyC62pDgzGygYRX58pmadrkCw=
+
+Name: assets/release/gear/shoeleather_104.png
+SHA1-Digest: BztH3mwUfHFaX6qk3L5q+xRy6KQ=
+
+Name: assets/public/config/levels/ms1.xml
+SHA1-Digest: u82WYGwWqGSXVf64nZ2qYGgJXsM=
+
+Name: assets/release/spell/spell_upgrade_enrage.png
+SHA1-Digest: kn/EsdwfgHoZ/4nXFKeFVthh16A=
+
+Name: assets/public/font/sk_angrybirds_30.fnt
+SHA1-Digest: ZdPQdxnwUuqg2KpC6XcEVIC69C4=
+
+Name: assets/public/config/levels/mission-p1.xml
+SHA1-Digest: VYMd1WXqiyuyi6BE9npsfiJ2WN4=
+
+Name: assets/release/spine_json/alchemistHugeFist_down.json
+SHA1-Digest: klR3c8ALY7J7FZKNujpt9fq3QQo=
+
+Name: assets/sound_android/assassin_convert.ogg
+SHA1-Digest: H0UF8gJYwESUvjBFqkC2cxyEUzI=
+
+Name: assets/release/spine_json/hammering_up.json
+SHA1-Digest: 6DiavPLLnPmjTX/C7UgBjenMs5I=
+
+Name: assets/release/gear/warrior_123.png
+SHA1-Digest: 9Pit4Pj9Y65leqbjiVpGXE1p/BQ=
+
+Name: assets/release/gear/beltleather_115.png
+SHA1-Digest: QM/TxE7Wf5kro/yp8q8txyOP+r0=
+
+Name: assets/release/plist/intro0.png
+SHA1-Digest: Fhpljit/Zl31lyhRixU9DpNMuiw=
+
+Name: assets/release/map/scene_1_1.png
+SHA1-Digest: cOThvWr7hGAK3rf9kiddIt11feY=
+
+Name: assets/release/spell/spell_upgrade_face_slap.png
+SHA1-Digest: 94adb6sL4CrgncHBc99MjgICQJg=
+
+Name: assets/release/spine_json/atonement.json
+SHA1-Digest: eDaRHQnTIg1KWjcw7TPebBDc34I=
+
+Name: assets/release/plist/scarecrow.plist
+SHA1-Digest: 8NYl2a4dXV/9d/HuIl6bJPK9wbo=
+
+Name: assets/sound_android/voice_02_Paladin.ogg
+SHA1-Digest: ggCALPgJc2H9GQqUlpyAQZB2oKw=
+
+Name: assets/release/gear/musketeer_100.png
+SHA1-Digest: 3upPvrP9lpcz9+7hX1h+u6UTNJo=
+
+Name: assets/release/spine_json/magicDetonate_circle.json
+SHA1-Digest: YjYVdurQM2JnEG/GU6lKcCj3NbU=
+
+Name: assets/release/spine_json/UI_circle.json
+SHA1-Digest: joDGhstClcUHicpxYfr/Ow/pNHw=
+
+Name: assets/release/spine_json/angelHeal.json
+SHA1-Digest: Zi9RhBNPMD6u4Fmh2Q4BbHSkWvA=
+
+Name: assets/release/plist/piranha_effect.plist
+SHA1-Digest: FXUjKLOwG4L4BGtYV3I0hHOuW6Y=
+
+Name: assets/release/gear/paladin_104.png
+SHA1-Digest: 0nDUyWytw4vlTK1KKDNA3A/uihE=
+
+Name: assets/release/spine_json/UI_worldmap2.json
+SHA1-Digest: OYRCmKBSj1FJZR9iAWGxNnxW/DM=
+
+Name: assets/sound_android/auraOfCourage.ogg
+SHA1-Digest: aP1nVJL5Aqzzh9CXLpZBRqBNOGo=
+
+Name: assets/release/plist/warrior.png
+SHA1-Digest: SbTCfdMLi7lm8yt8o0LmaF/LXvw=
+
+Name: assets/sound_android/vanish_in.ogg
+SHA1-Digest: v4AwoY+2YOOd6bTWOlVZsnKZQiM=
+
+Name: assets/release/gear/ranger_112.png
+SHA1-Digest: 3CNTAEuwF/F+QDTg471QjBA+1ro=
+
+Name: assets/release/spine_json/goblinAward.json
+SHA1-Digest: h2e+PdLDyjkRRy1JUa59yqslsO4=
+
+Name: assets/release/plist/battle0.plist
+SHA1-Digest: xZyn0xfrBR08SF3/1Doh4tgoP0w=
+
+Name: assets/release/plist/evilelf_warrior.png
+SHA1-Digest: eev2F0gry0U6tCdktq8HsXSSBgI=
+
+Name: assets/release/spell/spell_upgrade_storm_blast.png
+SHA1-Digest: 8s/QdQYamIx5V2NKxvX/32dqStA=
+
+Name: assets/public/config/levels/mf2.xml
+SHA1-Digest: MH1uo7e0rvv86XKpWcax/W97JZU=
+
+Name: assets/release/spell/assassinate.png
+SHA1-Digest: cZEefbd8GiB1VfFGgzXNqz28lD8=
+
+Name: assets/release/gear/helmetleather_115.png
+SHA1-Digest: SUxufwuMThAp0UcKrZdrTSi/geM=
+
+Name: assets/release/gear/helmetcloth_106.png
+SHA1-Digest: LEsT8T1jIcAGq8f5AeEAvEn+6Yc=
+
+Name: assets/release/gear/scout_104.png
+SHA1-Digest: NWqn/WFvTLBSo6LTUONbjyr8m2w=
+
+Name: assets/public/config/levels/m32.xml
+SHA1-Digest: AfPRaL/DKRB6e7Suxja0WhisbNQ=
+
+Name: assets/public/config/story/story2-10.xml
+SHA1-Digest: UH7WgwXPNfLDGprQSedxPj9+cw0=
+
+Name: assets/sound_android/bg_win.ogg
+SHA1-Digest: udTvi2E1UYLniLXhP1PWvLLng6Y=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: yzeBGfo4eCG8Ca1ecPNsJro8gFQ=
+
+Name: assets/release/spine_json/auraOfMystery_down.json
+SHA1-Digest: zWkGAn4lkkJ8Oo8JfoBKjP0DEJw=
+
+Name: assets/release/spine_json/hunter.json
+SHA1-Digest: HAJhX2wSYKGfXF1IBSiALjp6B8Y=
+
+Name: assets/release/gear/helmetcloth_111.png
+SHA1-Digest: pVnOhIamlCaapzAsKBJeDuYueNE=
+
+Name: assets/release/plist/home1.png
+SHA1-Digest: KsVP7X0n+gk3Ak2PfvYC4jbLVmQ=
+
+Name: assets/release/spine_json/sylvagaunt.json
+SHA1-Digest: gmTKF2KreuOy1fopHP1ouCn5nN8=
+
+Name: assets/release/gear/armorplate_109.png
+SHA1-Digest: ZL5fhnmT8PIqiVGGkYy5SFUMn7w=
+
+Name: assets/release/spine_json/magicDetonate_start.json
+SHA1-Digest: nL9vbyDZL9/3MZqnSoiB7hsUNds=
+
+Name: assets/release/gear/mage_114.png
+SHA1-Digest: dj033gY5DLmly2f9SMOlTg4fL1Y=
+
+Name: assets/release/spell/fearless.png
+SHA1-Digest: 2eJtYeC7oUhlA8ZQf5Hh68YRAb8=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: F7z5u26It2uLvaDfTkNrQ+2TPaQ=
+
+Name: assets/release/gear/ring_102.png
+SHA1-Digest: IGMIcSsKpcNCoep4uXpRzTLAqhc=
+
+Name: assets/release/plist/hireHero.png
+SHA1-Digest: mGFf2ClgVYREDbiLPnqBAtZjmzc=
+
+Name: assets/release/plist/assassin.plist
+SHA1-Digest: zpxMeLYd3JjkLnsPLs1w3glBlRs=
+
+Name: assets/release/map/scene_8_2.png
+SHA1-Digest: t+wBHfzHehOAsA/CzuHjXd7/3/I=
+
+Name: assets/release/gear/gear_icon_rare.png
+SHA1-Digest: O/TigYsothorUG9f9ZQRfU0Sv50=
+
+Name: assets/release/spine_json/pvp_magneticField_up.json
+SHA1-Digest: bsI460CdtndwZ3L0H04XinF72lA=
+
+Name: assets/public/config/levels/endless-1.xml
+SHA1-Digest: 3R/yVk7njC2AMfPYmHWTJyD99H8=
+
+Name: assets/public/config/levels/m14.xml
+SHA1-Digest: w+1c3YfjJRgvoKfFAtlbAK7Lq74=
+
+Name: assets/public/config/story/story5-10End.xml
+SHA1-Digest: 2hYmK7mq4aw/wj+qNsv50ua+jAo=
+
+Name: assets/release/plist/public2.png
+SHA1-Digest: kmzZEoV31iYT5CzXPFvnXR9CZxI=
+
+Name: assets/release/plist/elf_ranger.png
+SHA1-Digest: jIA4WZcP5PUzrDQcRvyYQxV7FRs=
+
+Name: res/drawable-xxhdpi/ic_plusone_small_off_client.png
+SHA1-Digest: oXvsxRduewckX2PpVNbGOrtCIEg=
+
+Name: res/layout/increment_popup_dialog.xml
+SHA1-Digest: X+d9C/jiYojodKraj5lG3cabqPo=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.
+ 9.png
+SHA1-Digest: vfnPo3kM74g1XH7M8I1BG23LL6I=
+
+Name: assets/release/gear/beltleather_109.png
+SHA1-Digest: koScuSHUTL8ndqh6P6r1urp23a8=
+
+Name: assets/sound_android/AlchemistGlass.ogg
+SHA1-Digest: S+HMqzNObI8bGRGWUcTVIZ8nJV0=
+
+Name: assets/release/spine_json/drSunderArmor.json
+SHA1-Digest: dtW/nmDtryUpnIffb6/PjsTiJoc=
+
+Name: assets/release/plist/darkdakarai.png
+SHA1-Digest: ZY2Oand1qCy/ajIsEBuMBjUm11I=
+
+Name: assets/release/gear/musketeer_114.png
+SHA1-Digest: cJ2nRZLv5ZoR+criGykymxCpIuE=
+
+Name: assets/release/gear/beltplate_102.png
+SHA1-Digest: g5Krb+A1DwKG6C2PHrk7YVIqERY=
+
+Name: assets/release/plist/fenrir_effect.png
+SHA1-Digest: Ny7xah8LQVuqwoLzl8hOGmxt3UQ=
+
+Name: assets/release/gear/helmetcloth_109.png
+SHA1-Digest: r5XWVlUktKwDcT9htudYizpePa0=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: swa73YtcMLdXPaLTvsPkWMSqiTs=
+
+Name: assets/release/gear/bishop_117.png
+SHA1-Digest: yIpPRp4OQ0aBVDstgKdR07DgEEg=
+
+Name: assets/sound_android/throwingDaggers_fly.ogg
+SHA1-Digest: 67+h8D1KaC+mWBmSY4hZxphCGXI=
+
+Name: assets/release/map/story_map_2_1.png
+SHA1-Digest: nB9YCDiCok+hH0UKQJod0+3Sc6g=
+
+Name: assets/release/spell/spell_upgrade_aura_of_blessing.png
+SHA1-Digest: RAVuHLe/BZ87MOZ62U7MNnbLT9A=
+
+Name: assets/release/gear/bishop_111.png
+SHA1-Digest: +sv368bsfH9h5VAR43LIBmFEfV0=
+
+Name: assets/release/plist/guard.plist
+SHA1-Digest: mdm+Dda6D3cSZHSAYDfvrgBBXT8=
+
+Name: assets/release/gear/highpriest_110.png
+SHA1-Digest: Yqx99fNctkEGRvAZM6JRLoV9pOU=
+
+Name: assets/release/spell/wisdom.png
+SHA1-Digest: QNgSImvbnZPEIyi6igd+6+9qRSI=
+
+Name: assets/public/font/angrybirds_30.png
+SHA1-Digest: 5ODWQl8LIlo5EnVE0GG8Yxmqn14=
+
+Name: assets/public/font/us_mflihei_26.png
+SHA1-Digest: b4MCp3fjgXUwmBy5SXrrL9K5hjE=
+
+Name: assets/public/font/zh_angrybirds_26.fnt
+SHA1-Digest: 4eRjLTdQOhv1aAUuUeP24CTQKE8=
+
+Name: assets/vg_cta_disabled.png
+SHA1-Digest: 9BuwyjxkDPUbExCk02iNL4zTHdU=
+
+Name: assets/release/gear/armorcloth_113.png
+SHA1-Digest: t1bE7orqojWtYxGd2Tv7zcna7z8=
+
+Name: assets/release/spell/spell_upgrade_shadow_strike.png
+SHA1-Digest: alefzSGBpE6xn/EGKXk5OZrUjqE=
+
+Name: assets/release/gear/scout_118.png
+SHA1-Digest: zvtPWeAPNHxEyYoXCpaCP0FY2AQ=
+
+Name: res/drawable-hdpi/powered_by_google_light.png
+SHA1-Digest: dWJEWY/ZZ4u9eNqd71tvdNz1VcU=
+
+Name: assets/public/config/levels/6-10.xml
+SHA1-Digest: yiWQWLqRXXDCvSKK/c9Q9NF0rTQ=
+
+Name: assets/release/plist/paladin.png
+SHA1-Digest: 4W3GPy4BsgXwlhNOzIMoapD6c3Y=
+
+Name: assets/release/spine_json/jumpHammer_down.json
+SHA1-Digest: gRaE040ExjnKBXm4b1Z1llhuAhE=
+
+Name: assets/release/gear/armorleather_114.png
+SHA1-Digest: 9S15HVurtliAVNoiA1vnAAZcMDw=
+
+Name: assets/release/spell/spell_upgrade_barrage.png
+SHA1-Digest: v1xPq3APnD5HTzQRJCA1oJZ80Rw=
+
+Name: assets/release/spine_json/wood.json
+SHA1-Digest: 1zfiwA0+Bzpe9yAZ6EVkaml9eZY=
+
+Name: assets/public/config/levels/mf8.xml
+SHA1-Digest: nGb3nhKS2aWfh18KaozYIZiP39A=
+
+Name: res/drawable-hdpi/featured_frame_exit_b.png
+SHA1-Digest: ryDdv6sj1/+07jfW1ftEllvdve4=
+
+Name: assets/release/gear/armorleather_100.png
+SHA1-Digest: 6rCF8Wzsw2Cz1m/9v5Jx1wNoXEk=
+
+Name: assets/release/map/scene_6_3.png
+SHA1-Digest: E9yg1g9N2HGqQAg9lm5BpicrSD4=
+
+Name: assets/sound_android/AcidDrop.ogg
+SHA1-Digest: oQh5tYWoJ+Mr7DmjWxUGImvwntA=
+
+Name: assets/release/spine_json/world_boss_team_heal.json
+SHA1-Digest: Lk0hT5zhp5pmobkrkI7E/+Au+GA=
+
+Name: assets/release/gear/bishop_102.png
+SHA1-Digest: mIZfLl3flTeEv8+FPC4HXFXCHWc=
+
+Name: assets/release/spine_json/surge_point.json
+SHA1-Digest: xN/YcnCYGQOsbEF5ddaUFAGRobM=
+
+Name: assets/release/spine_json/piercingShot.json
+SHA1-Digest: XEsBzDSWcGqDmRQyhq/6u/xBwEw=
+
+Name: assets/release/plist/twine.png
+SHA1-Digest: 8WC6KMXmybnBQqtF38M8L3/zvoQ=
+
+Name: assets/release/plist/hunter.png
+SHA1-Digest: iFlj2d/RPscaWV8H5wUgSpIVvWk=
+
+Name: assets/release/plist/elf_caster.plist
+SHA1-Digest: nThTGqGlrle8snAWB48L/h/VY5g=
+
+Name: assets/release/spine_json/demon_guard.json
+SHA1-Digest: NmCCkA2bv+zpQWmD7qris8+sn44=
+
+Name: assets/release/plist/inbox.png
+SHA1-Digest: oM8cQWOpUumweNZ2iudmhTgFbHs=
+
+Name: assets/sound_android/voice_15_Musketeer.ogg
+SHA1-Digest: 2Eu9l5MytL0xu6kgN5Y0me97Gb4=
+
+Name: assets/release/spine_json/magicShield.json
+SHA1-Digest: 7bQGFTz4HsHg0eEz2g7Jb+LdoYw=
+
+Name: com/tapjoy/res/countdown_image.png
+SHA1-Digest: bZ8r/UKzndAPLyW6cNAN+kxR4K8=
+
+Name: assets/release/spine_json/demonRevive_red.json
+SHA1-Digest: DOd+J1EBdk4QxsGB5NzrXZJ1nl0=
+
+Name: assets/release/map/ui_bg.png
+SHA1-Digest: wKSYCAubeL5yyN1Zo0YYSuA3A38=
+
+Name: assets/release/gear/beltleather_105.png
+SHA1-Digest: TSzRL5hykq7L9OGxtkkSZME3U40=
+
+Name: assets/release/spell/storm_blast.png
+SHA1-Digest: 5Sb9+XFz2GNa4i5SqGg+lXshDJ8=
+
+Name: assets/release/spine_json/wildLeap.json
+SHA1-Digest: DXmQR1KBEBaYOX/q2aAhyx4LF7U=
+
+Name: assets/release/gear/berserker_107.png
+SHA1-Digest: mJuOild8hbdfA6eY2OI4W0L+GJ8=
+
+Name: assets/public/config/story/rookieGuide-1.xml
+SHA1-Digest: fYFtAq241F38OHl9FSSoXhvv9B4=
+
+Name: assets/public/config/levels/2-3.xml
+SHA1-Digest: r2p3WNhHdFM/LK1jkzQsejt4Olo=
+
+Name: assets/public/config/levels/mt4.xml
+SHA1-Digest: c8aZ7IvW4aAedfLvv9vv0CCftcE=
+
+Name: assets/release/gear/assassin_101.png
+SHA1-Digest: KPCgxIlAPDTgJ35hLHDQZkF/cW4=
+
+Name: assets/release/plist/ui1.plist
+SHA1-Digest: HYk1gGGH59154MVCibaIGsnjsbE=
+
+Name: assets/sound_android/attackByStaff1.ogg
+SHA1-Digest: A7x2Xj1wKO1mhUX47LzOvujyllI=
+
+Name: assets/release/gear/armorleather_103.png
+SHA1-Digest: HaEiemw59GsjIvlormiCrw7JT9U=
+
+Name: assets/public/config/levels/9-1.xml
+SHA1-Digest: c+Btt7Kcwf7ODRGLVR3UF8yTCac=
+
+Name: assets/public/config/levels/endless-5.xml
+SHA1-Digest: c5XAyhWXB7CLiBh/vl5a+Nwtjww=
+
+Name: assets/release/gear/mage_118.png
+SHA1-Digest: EA/mnCy1Hx9RczMc0+7WEusE9t4=
+
+Name: res/drawable-hdpi/offerwall_icon.png
+SHA1-Digest: 1m7ajx9qH7//yQPxtbqIBmP1FCM=
+
+Name: assets/release/spine_json/ranger_weapon_mid.json
+SHA1-Digest: BJ7DLvsTMkc4SqSGMJk64pQNvag=
+
+Name: assets/release/spine_json/furyStrike_1.json
+SHA1-Digest: PhVVygxByBeCsqPBCJoY8SRWYBs=
+
+Name: assets/sound_android/arrowAttack_fly1.ogg
+SHA1-Digest: BThbTOUqi38zlh55RofahBFmcd4=
+
+Name: assets/release/spine_json/clawBlood_hit.json
+SHA1-Digest: H121eTzqGGvrAofVbfO2rIM6GPA=
+
+Name: assets/release/map/message_events_ads_halloween_1.png
+SHA1-Digest: gJdYzLwMhkvKo2m13l5fPahmHPA=
+
+Name: assets/sound_android/fairTrial1.ogg
+SHA1-Digest: fSa1vU1Nee9C53gS1V8gFrm8JbA=
+
+Name: assets/release/spine_json/poisoning.json
+SHA1-Digest: bw3oeJXqSA/Goylet4mTLaWtolg=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9
+ .png
+SHA1-Digest: 94XVIf33eOFxsw/qL7ICmq8zWTI=
+
+Name: assets/release/gear/armorleather_108.png
+SHA1-Digest: G7zRElpGM71EBTij5pVcY1Tj3xo=
+
+Name: assets/release/gear/ring_113.png
+SHA1-Digest: W/z097W9DL0TRhQ14fQPmFBIEsk=
+
+Name: assets/release/spine_json/vanish_in.json
+SHA1-Digest: riaDqa1rLvHeZQJoR16c8Dr0XUo=
+
+Name: assets/release/gear/highpriest_109.png
+SHA1-Digest: LpvMOylMUJqXgWgjwa/1XSEwzLQ=
+
+Name: res/drawable/common_signin_btn_icon_dark.xml
+SHA1-Digest: /NZsKatxZnmFlv4T5vAAJPBxTac=
+
+Name: assets/release/plist/pvpTicket.png
+SHA1-Digest: QsyOzXR22DMy7Qns8y61fxJM8+U=
+
+Name: assets/release/spell/power_spread.png
+SHA1-Digest: BaSqT0IdR9klYJNB0M18wNoPZUc=
+
+Name: assets/release/spell/spell_upgrade_freeze_shot.png
+SHA1-Digest: GOg1gq8LtLfouyj+5rm9/RlV7+g=
+
+Name: assets/release/spine_json/fenrirAttack_fly.json
+SHA1-Digest: T+N53Mh/7SPdGFrsI/6O3rqoRJ8=
+
+Name: assets/sound_android/victoryWordShow.ogg
+SHA1-Digest: g39quvrYfpBW/iLENkgwVHATgCw=
+
+Name: assets/release/spine_json/pvp_magneticField_down.json
+SHA1-Digest: q934ylGnoYfj2X/x7MFsebMluQM=
+
+Name: assets/release/spine_json/fairTrial_down.json
+SHA1-Digest: Txlzk0YdDddIIEQs/vytdNZK4yQ=
+
+Name: assets/release/spine_json/alchemistVenom_up.json
+SHA1-Digest: 5UjJjUh9N6Cv9ta5cIb6zdqPUQk=
+
+Name: assets/release/spine_json/priestHeal_start.json
+SHA1-Digest: f2JEpZBH3l41RYr9Wmf6wJJqVa4=
+
+Name: assets/release/plist/totem_lightening.plist
+SHA1-Digest: 3mArZDDnZK5Is/XLDpP/8zyHG5E=
+
+Name: assets/sound_android/hx_start.ogg
+SHA1-Digest: DOzykgg9nd28dvyemCp79VQkm7E=
+
+Name: assets/release/spine_json/succubus.json
+SHA1-Digest: jZWiGNDIDqAnjm7v6piSK1e5kLo=
+
+Name: assets/release/gear/beltplate_115.png
+SHA1-Digest: P7qToAeY8wHNqMK/45+QatKLCmg=
+
+Name: assets/release/spell/barrage.png
+SHA1-Digest: z3vklTnmf2USqt9xwdzHsrh5FxQ=
+
+Name: assets/release/plist/rankInfoBg.png
+SHA1-Digest: lNkQGVQppVDOZKtAc+OMTH5cWA8=
+
+Name: assets/release/gear/helmetcloth_100.png
+SHA1-Digest: qYPFshKzD/eScMIzAdBham76SeI=
+
+Name: assets/public/config/levels/mdt2.xml
+SHA1-Digest: bOKO1WYCm906ELO1ER1H7r/Tbnc=
+
+Name: assets/release/plist/popupBankHint.plist
+SHA1-Digest: ZCaszsSmzHsJJUOfebXprkBZkeU=
+
+Name: assets/release/spell/spell_upgrade_perilous_strike.png
+SHA1-Digest: 0xoNk2tnMoEcA0t0hzOWGKXtGlI=
+
+Name: assets/sound_android/dialogue.ogg
+SHA1-Digest: 5v6JEaEMGF7UvulJzhYRzwZeP6o=
+
+Name: assets/release/spine_json/evilelf_archer.json
+SHA1-Digest: ehoYvtJzNlxJ+hYqChQltkDtyus=
+
+Name: assets/public/config/levels/conquer-5.xml
+SHA1-Digest: ZksQ5qC8xqeoqhpq4Q5M9mItLY8=
+
+Name: assets/sound_android/refresh.ogg
+SHA1-Digest: nVMv+MCM8kfXVFjNRQcGgVOlnj4=
+
+Name: assets/release/gear/beltleather_110.png
+SHA1-Digest: Nk0qgONOyp32K9fbcMLHGGoYfbw=
+
+Name: assets/release/plist/intro1.png
+SHA1-Digest: +qL9g89w1atkfUmcPQfScpHdW+E=
+
+Name: assets/release/spine_json/totem_storm.json
+SHA1-Digest: 8gH+bcEIaDzs40aJGaw7Sgr9Wro=
+
+Name: assets/release/gear/windwalker_104.png
+SHA1-Digest: /JEQWcI3J8nxk4E+MCQZ+U56ccM=
+
+Name: assets/release/spell/blood_craze.png
+SHA1-Digest: 27T037NvaWizN/LE/hxoS9k245I=
+
+Name: assets/release/plist/worldboss_report.plist
+SHA1-Digest: FrbkUz1FrTWtAmMUpSqlJ2w1/MI=
+
+Name: assets/release/spell/spell_upgrade_blood_fever.png
+SHA1-Digest: 66xjIunM959Js3bSWOIUZgBZwSY=
+
+Name: res/drawable-hdpi/featured_frame_rate_a.png
+SHA1-Digest: uZjfGYMQtkLxMLoQq7COdfjMXRs=
+
+Name: assets/release/plist/drunkman.plist
+SHA1-Digest: gWK38pLkhjyTknsReNMSUw1/SGQ=
+
+Name: assets/release/plist/popupHalloween.plist
+SHA1-Digest: 10icrAmIp7m/apUwJp5omsAOmes=
+
+Name: assets/sound_android/gulp.ogg
+SHA1-Digest: n6fSFdaXPc2w/vFr7ZyyqtmLrVc=
+
+Name: assets/release/gear/cloak_107.png
+SHA1-Digest: QFC7gm6AqDeM6YmODukx7JONm2w=
+
+Name: assets/release/spine_json/howl.json
+SHA1-Digest: GVdbMV4Z+tX1XlzV919JwHkekNE=
+
+Name: res/drawable-mdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: kyHiqcmN6cPNMCcegoXmPnCnZdE=
+
+Name: assets/release/gear/armorleather_104.png
+SHA1-Digest: 7KS87ldE+a+k2mdgcwz+kMm335E=
+
+Name: assets/sound_android/blink.ogg
+SHA1-Digest: ve5QZg7OwqjD81jTeUwtHtTRrRk=
+
+Name: assets/release/spine_json/throwingAxe.json
+SHA1-Digest: tRIZVHx9cCSOyIhJ2JL/jj9r4OE=
+
+Name: assets/release/map/homemap_bg_sky_1.png
+SHA1-Digest: wRHBYtrYoXoI9R5Wqsp5+dJ4ws8=
+
+Name: assets/release/gear/armorcloth_103.png
+SHA1-Digest: 8IAL/0Wu8vffm6lM9d5K/HoD1cA=
+
+Name: assets/release/gear/priest_104.png
+SHA1-Digest: mDds5Hq1rBuuov5ERORjGkFgqVQ=
+
+Name: assets/public/config/levels/4-6.xml
+SHA1-Digest: xsqGMrYRJXRtCNRMwYYaiKbRFcA=
+
+Name: assets/release/spine_json/burrow_hint.json
+SHA1-Digest: pqm5e+09BdvE629oDCWY+tlzxUc=
+
+Name: assets/release/plist/pvpBattle_stateClean.png
+SHA1-Digest: /ahjNhLgIWltMVxN8/ky9MjPkZc=
+
+Name: assets/release/plist/inbox.plist
+SHA1-Digest: C5E9s0rEpcwHQt5Nze7UrMy3n3M=
+
+Name: assets/release/plist/treant.png
+SHA1-Digest: 1pZhdNl0Z/28rxcDWTE28N40jtc=
+
+Name: assets/release/gear/cloak_103.png
+SHA1-Digest: SCoHsaYOPKzqpMFixGGpY3/e/dM=
+
+Name: assets/release/gear/scout_111.png
+SHA1-Digest: 0U2yYPFetXC1xgwsZKlI9Cq6bHw=
+
+Name: assets/release/gear/helmetplate_106.png
+SHA1-Digest: VmV4mrU24ImJKXxGxzPulkZvvLU=
+
+Name: assets/release/map/scene_9_3.png
+SHA1-Digest: 5AN4hJeJFUlFZJzfIKHTRFoCIM0=
+
+Name: assets/release/spine_json/skyfire.json
+SHA1-Digest: zT7mgpEHzV0SFPbcZx1ydD5DAsk=
+
+Name: assets/release/spine_json/fire_mid.json
+SHA1-Digest: +4mNYOfh/YbynrRoKRnP8UkBLCc=
+
+Name: assets/release/spine_json/UI_map_point_scores.json
+SHA1-Digest: nxUFZLL5Ra1qMHuILV0pzNA7Wmo=
+
+Name: assets/release/spine_json/hunter_weapon_up.json
+SHA1-Digest: EGs6diNBWcMobEw7bo0FbfrU5Ec=
+
+Name: assets/release/gear/shoecloth_101.png
+SHA1-Digest: L2PsH4Pvgtwass782VlwEx/k05M=
+
+Name: assets/release/spell/dragon_breath.png
+SHA1-Digest: Z5f3EpoN9P16dOp9js2kjM9Yn4o=
+
+Name: assets/release/spell/fair_trial.png
+SHA1-Digest: I1KFpcS2boqRgOxcDxNjK76tVRo=
+
+Name: assets/release/gear/priest_100.png
+SHA1-Digest: lRP6rHvYnun4/preBKVrH0Y8LpE=
+
+Name: assets/release/map/scene_7_1.png
+SHA1-Digest: 1VrPbqiHmR5titEjfXqHvX7GeG4=
+
+Name: assets/release/spine_json/merlin.json
+SHA1-Digest: wgHkQuwruKZ3Tg1/V1YUBJVRWpg=
+
+Name: assets/release/gear/mage_117.png
+SHA1-Digest: Jd1nUtgdFgkGoSBtQEPp5u+MmtM=
+
+Name: assets/public/config/levels/mission-2.xml
+SHA1-Digest: L67goOY4fnHNnZjaWweoTR9e/AI=
+
+Name: assets/sound_android/roar.ogg
+SHA1-Digest: 1SYlLkw3mIK9jnr0M7fXL5GunH4=
+
+Name: assets/release/gear/berserker_102.png
+SHA1-Digest: JLnBcNjoXt+xadCcw8AbCr7AMFU=
+
+Name: assets/release/plist/book.plist
+SHA1-Digest: KqZsVVhHWQiMtdfF5gFt9m8bXtA=
+
+Name: assets/release/gear/beltleather_102.png
+SHA1-Digest: eZvbzXDnKwhpIhbPNRhgeQiEPhY=
+
+Name: assets/release/gear/armorcloth_118.png
+SHA1-Digest: RUIBjDnRrkK5zf+39hEei6iOgt8=
+
+Name: assets/release/spine_json/wizard.json
+SHA1-Digest: FfPsCn1lJh/z8YKFvxk0cWdxmRg=
+
+Name: assets/release/spine_json/bomb_hit.json
+SHA1-Digest: Awn4pWkxLCdtshSZmXU29xeBews=
+
+Name: assets/release/spine_json/darknessTransfer.json
+SHA1-Digest: qV/akYkcBZ4uKnY9osu9Y/gl/wY=
+
+Name: assets/release/plist/orc_champion.png
+SHA1-Digest: +wb967QGw58X09ZamXyLVaW88LI=
+
+Name: assets/release/map/homemap_bg_ocean_2.png
+SHA1-Digest: Q26vKyXkiX7uF83e4s/ChezmIHQ=
+
+Name: assets/release/gear/necklace_114.png
+SHA1-Digest: pWQklES+PyjoDI4jzYi4QBtbqq8=
+
+Name: assets/release/plist/cardsgallery.plist
+SHA1-Digest: O0cfil63YKOkWrvjIwC7G5CaI5U=
+
+Name: assets/public/config/levels/6-4.xml
+SHA1-Digest: 4RxiDkeGhoz1l9FzT9Iacaf3+2k=
+
+Name: assets/public/config/story/story8-10End.xml
+SHA1-Digest: LEvxc3Vl1Vfq/Mfl8K3bTL2cpEs=
+
+Name: assets/release/gear/bishop_107.png
+SHA1-Digest: QNiAF6wKmqicN/mr7LmY6XYFJ6I=
+
+Name: assets/release/spell/hunters_mark.png
+SHA1-Digest: hcI28I/6HUiYVIBEdurQ5uyr8Co=
+
+Name: assets/release/plist/auraEffect.plist
+SHA1-Digest: qaMu8YDuzPzedA3MFUi0q168BQQ=
+
+Name: assets/release/spell/spell_upgrade_assassinate.png
+SHA1-Digest: 6+mmgKgyHkdNYJkzKgnw2EIQ8xY=
+
+Name: assets/release/spell/spell_upgrade_ice_blot.png
+SHA1-Digest: munfehFStaRFvPpe3MWYYbn6e1o=
+
+Name: assets/public/config/levels/m75.xml
+SHA1-Digest: hZb8RY/BXLAUWSFhhc0KPnrARTU=
+
+Name: res/drawable-hdpi/featured_frame_bg.png
+SHA1-Digest: t8MeyOA4jQobhXX/uowRv//X2hs=
+
+Name: assets/release/gear/armorleather_111.png
+SHA1-Digest: xwkwz5InscrE8IjaJPW7Owcoh5Y=
+
+Name: assets/release/gear/ring_114.png
+SHA1-Digest: ik83L0KzLVJdRl1Y4GQGrRJDHMI=
+
+Name: assets/release/plist/piranha_effect.png
+SHA1-Digest: USZjzqftXRiUr/PoZcYlwmq668U=
+
+Name: assets/release/gear/beltleather_111.png
+SHA1-Digest: FOakcamI+cnficJzW7sgcukYNa0=
+
+Name: assets/release/spine_json/thunder_start.json
+SHA1-Digest: tTytuhus+ZlRN77fhGR6/6K+q+Y=
+
+Name: assets/release/spine_json/chainAttack_down.json
+SHA1-Digest: o8DgyZP/Y+SedrSwNXN5skYUg7U=
+
+Name: assets/release/spine_json/dakarai.json
+SHA1-Digest: ImMROghO1wFDaSFFdNmZJ62B8sU=
+
+Name: assets/release/spine_json/alchemist_big.json
+SHA1-Digest: vxW8VbmDozraQWmAqdeD21wQj2A=
+
+Name: assets/sound_android/Boss_cage_break.ogg
+SHA1-Digest: UBmQp5Sxy+mShHFYMe8qkcoWMSQ=
+
+Name: assets/release/gear/bishop_113.png
+SHA1-Digest: 3JJSKV5bK+Wu5Q65u8FeE/rVuO8=
+
+Name: assets/release/gear/paladin_108.png
+SHA1-Digest: Sd8GnbOiCAEoOpZYQJh5Ojnwg2c=
+
+Name: res/layout/app_download_notification.xml
+SHA1-Digest: RfrR332cENubrjB3xdfoYM0BIjk=
+
+Name: assets/release/spine_json/casterAttack_hit.json
+SHA1-Digest: uBpcg9CSfpwVJ28JEHh0KnX8NYc=
+
+Name: assets/release/plist/evil_sandworm.png
+SHA1-Digest: MnZ+AeIY9iMj0nb7qkPqn/iowJY=
+
+Name: assets/release/gear/armorcloth_111.png
+SHA1-Digest: nOlh7ckJK0B4cuh1ccZgzY0qu5Q=
+
+Name: assets/release/plist/conquer.plist
+SHA1-Digest: p1LbxFqjbUEyqjTuY6KHOyBVxVM=
+
+Name: com/tapjoy/res/tj_close_button.png
+SHA1-Digest: 3qZ0xOt/QnkWtyfNbV2wyKyE/aw=
+
+Name: assets/release/gear/helmetplate_114.png
+SHA1-Digest: uZKhkRaNonFj1/46uWkGbVhi6pY=
+
+Name: assets/release/plist/conquer.png
+SHA1-Digest: hEUfOyxbLVnXlAcdakgXEjAixiM=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: PASuSYWH5jIh3TBQ0qJrFvpNWC4=
+
+Name: assets/release/spine_json/chatBg.json
+SHA1-Digest: sPW56ZWpufS+AJNKS70dzQLCXek=
+
+Name: assets/release/spell/priecing_shot.png
+SHA1-Digest: 9snf3/DuBmGhp/zaqe9bSd6QjLI=
+
+Name: assets/public/config/levels/9-5.xml
+SHA1-Digest: v367vNrGr4jXrjOoqZtCq2zOyKI=
+
+Name: assets/release/gear/musketeer_112.png
+SHA1-Digest: 2w0Fmv/9lSXrI2qfks/Y0xYANOs=
+
+Name: assets/release/gear/shoeleather_105.png
+SHA1-Digest: 558MvjY36tExsPqquRTLI8mL3uk=
+
+Name: assets/release/spine_json/windwalker_weapon.json
+SHA1-Digest: 7GontIa0L1XsYpsD9L0jH2jX1H8=
+
+Name: assets/release/spine_json/assassin_weapon.json
+SHA1-Digest: +KSQn/fpUNGW1EWsUJmp5WpohII=
+
+Name: assets/sound_android/attackByHammer3.ogg
+SHA1-Digest: L3Qyn/YnCJoxJWmLTXa29QGtv1w=
+
+Name: assets/release/gear/paladin_112.png
+SHA1-Digest: l9L9yKwjaMkU2fYXYYgj1wrkDY4=
+
+Name: assets/release/spine_json/auraOfTenacity_up.json
+SHA1-Digest: go/L5frtZtqEgZ7IyBDz+oDYCzo=
+
+Name: assets/release/spine_json/levelUp.json
+SHA1-Digest: 8W0qDDzJ8TIfIq/OgRKvAti/pLs=
+
+Name: assets/public/config/levels/1-7.xml
+SHA1-Digest: /sxGzr8/SzGjvawKz7klwxBBJmE=
+
+Name: assets/sound_android/succubus_die.ogg
+SHA1-Digest: EIA8JfnC2dPIzSFWm5HOMeqaDBw=
+
+Name: assets/public/config/levels/mk5.xml
+SHA1-Digest: 9xrKuawqHFqoUdgRoayjXTzZEik=
+
+Name: assets/release/spine_json/totem_healing.json
+SHA1-Digest: 0qHTMXL0AVmI9J4kIUAMrCsLk54=
+
+Name: assets/release/gear/shoeplate_106.png
+SHA1-Digest: 9TPvZTa6Kia+RH/f8eZDvcTSNoI=
+
+Name: assets/release/spell/magic_detonate.png
+SHA1-Digest: wYNg10WRGkuvBgrZE/6IfSCLrmk=
+
+Name: assets/public/config/levels/mdt4.xml
+SHA1-Digest: U0tOsafdYeZorf+sSIM/Z0sDPvk=
+
+Name: assets/release/plist/ladderField.plist
+SHA1-Digest: H4U4QV57HBYl/Q0zR3xkGuBlHG0=
+
+Name: assets/release/plist/goblin_fighter.png
+SHA1-Digest: GPFRkZZdVEtIJbKA+LGoPJI0zT4=
+
+Name: assets/public/font/sk_cartoonist_45.png
+SHA1-Digest: I9atpoCC5ujNlB9BTiEfqHfHjsc=
+
+Name: assets/release/spell/atonement.png
+SHA1-Digest: LlfRXn3qHUMr0yS1uBiO5DUSGBU=
+
+Name: assets/release/gear/musketeer_106.png
+SHA1-Digest: Y4Qlf8dgeitRXuC5Lilg0+K1nY8=
+
+Name: assets/release/plist/windwalker.plist
+SHA1-Digest: CrNJOHEWUbiNf0jRcL6S/wZAuvk=
+
+Name: assets/release/spine_json/meteorSting.json
+SHA1-Digest: sjU1cqkytdl09IfdA3/XPsgQPgA=
+
+Name: assets/release/spine_json/goblinHealer_start.json
+SHA1-Digest: KUB5fwSDxLmnifjbctLyix41FsQ=
+
+Name: assets/release/gear/wizard_105.png
+SHA1-Digest: vhOmeyEQP7A6WySZ1TWuAqV1qb8=
+
+Name: assets/release/spell/explosive_shot.png
+SHA1-Digest: 3Vz9e2f4WXjs4kSlgb9+Pg/PnQg=
+
+Name: assets/release/spine_json/UI_worldmap.json
+SHA1-Digest: wEI5eUr0XC87t2IuzGPhsJS+inw=
+
+Name: assets/release/spine_json/bbdust.json
+SHA1-Digest: n22cX2Z5JOMDx/Z3XtL3mGpzF9E=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_focus_light.9.
+ png
+SHA1-Digest: 8VYgfetF38BKlNVOqfw7szs535U=
+
+Name: assets/release/gear/beltcloth_107.png
+SHA1-Digest: t1nn32g4Q+sJwTG0Qvlckgcjgb8=
+
+Name: assets/release/gear/gear_icon_legendary.png
+SHA1-Digest: hjNFfyMa3X00hHvfTajYfqyGCWM=
+
+Name: assets/public/config/levels/ms3.xml
+SHA1-Digest: nojT5QqTCIKFKp1IIqeVnFLDyb4=
+
+Name: assets/release/plist/dog.png
+SHA1-Digest: hmBWm7NWO7xIR+YyrhYNgZMZp5Y=
+
+Name: assets/release/plist/orc_champion.plist
+SHA1-Digest: XvQsH5CiRQKArAs48WTQUDKbZpo=
+
+Name: assets/release/spine_json/pvp_focus_start.json
+SHA1-Digest: aj9y6TOmqa8HZjx6CCzz8MRFjcY=
+
+Name: assets/public/config/levels/mt6.xml
+SHA1-Digest: 0rzHc2kOMOG7yJAh1J0KME5nwBQ=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: eJvnoa0VBs4YqPpcsD6gvjI9g6s=
+
+Name: assets/release/gear/mage_121.png
+SHA1-Digest: UgiFm3RwRTGZmSn7F1ypIY6LRL4=
+
+Name: assets/release/plist/discount.png
+SHA1-Digest: LDk1s4tp3EEPSMMAfRgVwoppJT4=
+
+Name: assets/release/map/scene_7_5.png
+SHA1-Digest: FG+ba9INb2CgqkGjooIC/zmkPrs=
+
+Name: assets/release/spine_json/suicideAttack.json
+SHA1-Digest: /cz1W05VtJgRWETFBfVvefB92eU=
+
+Name: assets/public/font/zh_angrybirds_30_story.fnt
+SHA1-Digest: Mn89LkVnMtxhb9I+o/dhZXhLSX4=
+
+Name: assets/public/config/levels/9-10.xml
+SHA1-Digest: N7CYMU46tmMYiWeXaOXErMArbiY=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: qrv+MxaSHPb1xDX9idK0qyd01Eo=
+
+Name: assets/public/config/story/story1-1.xml
+SHA1-Digest: aJ6L3K0vmaUOLOvZIDTpKAwgmAY=
+
+Name: assets/release/particle/lihua2.plist
+SHA1-Digest: Za8WvQYRYc1mYoW33T/0VN30DnY=
+
+Name: assets/public/config/levels/conquer-6.xml
+SHA1-Digest: 66wxMQvksbLuEP6DfkkHnrRSzBI=
+
+Name: assets/release/spine_json/highpriest_weapon.json
+SHA1-Digest: wMdyh8VqBnjxikizK1jv2rkZr/w=
+
+Name: assets/sound_android/assassinate.ogg
+SHA1-Digest: MNQZEpH5G42zeKHFnIuR2KQ42Uc=
+
+Name: assets/release/gear/helmetleather_111.png
+SHA1-Digest: 6I8cvEmOuqXqMQ8dhOjQvdLgW44=
+
+Name: assets/release/gear/shoeplate_100.png
+SHA1-Digest: T8pGXlrCm1s3/W+s7GQabdcjBB4=
+
+Name: assets/release/gear/armorcloth_117.png
+SHA1-Digest: Wz8lwZsWlqlmmiGpPRdGcV+FUco=
+
+Name: assets/sound_android/alchemistChange2Hammer.ogg
+SHA1-Digest: SoI6qdIQiXzEle/OHo597CtMKrg=
+
+Name: assets/release/gear/helmetleather_106.png
+SHA1-Digest: aUkQhD93pPLCaWdKbIUIxg0u1io=
+
+Name: assets/release/spine_json/UI_font_tap.json
+SHA1-Digest: yRHvupGKcbdV5kajIVspqTrLBZY=
+
+Name: assets/public/config/levels/8-9.xml
+SHA1-Digest: hBdM4VjMC3PyzOI8a/3B3e2mY7E=
+
+Name: assets/release/gear/wizard_111.png
+SHA1-Digest: N0Asc9IwaV28rcuLeoX1MHpITvw=
+
+Name: assets/release/map/scene_1_2.png
+SHA1-Digest: EfkjVQHV5Fu/bun2c9izfpSk6RQ=
+
+Name: assets/release/gear/necklace_113.png
+SHA1-Digest: HcYZIqGtjO3FiHrf1Eg/Wne3eoA=
+
+Name: assets/public/config/levels/m44.xml
+SHA1-Digest: amXq6di14xnewOwZUokTpf9tVEg=
+
+Name: assets/release/gear/assassin_104.png
+SHA1-Digest: /lVzEih0eE/49SYWVnp8qt4rdqE=
+
+Name: assets/public/config/levels/4-2.xml
+SHA1-Digest: RgqDbgtxk5irYYOoPckHbswW/K0=
+
+Name: assets/release/map/scene_4_2.png
+SHA1-Digest: NIKFG1V59ovlZqdydpu6gz/ciVc=
+
+Name: assets/release/spell/face_slap.png
+SHA1-Digest: hMcgMg5KvzMCGPc90ewziDfSHEE=
+
+Name: assets/release/plist/wheel1.plist
+SHA1-Digest: YZyf+TCebdBN+7EyeFJYndKyx6Q=
+
+Name: assets/release/spell/spell_upgrade_garrote.png
+SHA1-Digest: z6viYTFPjNC3KZFNt48w5PJUT5A=
+
+Name: assets/release/gear/scout_102.png
+SHA1-Digest: 9FLi+BpNyt9zJqXM9nmwMQ6RNBk=
+
+Name: assets/public/config/levels/mk7.xml
+SHA1-Digest: ZTWlhxjn27jYB4rv9wLlkfk8W9E=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: sPMr0cplKy8j6fZnAXIt77Ay8T0=
+
+Name: assets/public/config/levels/m62.xml
+SHA1-Digest: NJyWZ+lltitTrJNMASGYqxyQoOk=
+
+Name: assets/release/spine_json/blinkWitch.json
+SHA1-Digest: LNqWNXIdxhqKWgMkX/zubldXrfc=
+
+Name: assets/release/plist/award.plist
+SHA1-Digest: J5+a1+9iw1iOqXysMrB0paGBVyA=
+
+Name: assets/release/plist/evilelf_archer.plist
+SHA1-Digest: kxu9z6kKr4xlA14FIQkeqaiWQls=
+
+Name: assets/release/gear/ranger_118.png
+SHA1-Digest: s46P+k5TJDbLKulI9gD3E/uDVbg=
+
+Name: res/drawable-hdpi/offerwall_download_b.png
+SHA1-Digest: p1Dvb1+F+o7viV5H/ybqc+KF+qY=
+
+Name: assets/public/config/level.xml
+SHA1-Digest: tahxlzhsAAzViIeIVvCk2rZQtGs=
+
+Name: assets/release/plist/succubus_effect.plist
+SHA1-Digest: H1y+JiMQe/X4zgShbmEnsjt3O8Y=
+
+Name: assets/release/spine_json/map_icon_story.json
+SHA1-Digest: 6NpZDQd2bYgDP4vyxi95T0fcK7w=
+
+Name: assets/release/plist/popupLadderRank.plist
+SHA1-Digest: VLupGaBXzUQ8TNH27VdMOTWKqyg=
+
+Name: assets/public/config/levels/8-10.xml
+SHA1-Digest: Fd2yC91wZWsTUYAwcj0z7U6bYhk=
+
+Name: assets/release/gear/windwalker_102.png
+SHA1-Digest: iN83WM+e9IGRONDS6IiGfhJii4c=
+
+Name: assets/public/config/levels/2-8.xml
+SHA1-Digest: 1WsI7icfLJs+VlHVmcyNIFsuD4Q=
+
+Name: assets/public/config/story/story1-10.xml
+SHA1-Digest: DWTQ94KYqMpQcWUxQQFCfBQQU8I=
+
+Name: assets/release/plist/heroStonTerraces.plist
+SHA1-Digest: /Avb3/lBy5Udi2z9oNcV+1S7dys=
+
+Name: assets/release/gear/shoecloth_104.png
+SHA1-Digest: DpjYLgomDALs8iahktXUQECIebE=
+
+Name: assets/sound_android/burrow.ogg
+SHA1-Digest: QXP0VnndNakbTBZeFx+eGRQAjrQ=
+
+Name: assets/release/spell/freeze_shot.png
+SHA1-Digest: GXRTdC/7p2s66VvjiuIs0hGv6xU=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: lmzbJHFli4beOqqXzLQN0roOYmw=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: e0bT0fADnGAf27QoU748ZasUaXs=
+
+Name: assets/release/gear/armorplate_101.png
+SHA1-Digest: vmYyn5OhDRPTV3PlJQtcCR5zCEY=
+
+Name: assets/release/map/story_map_3.png
+SHA1-Digest: Pg7NY2ICUFixsKN4gMoVX73A6EU=
+
+Name: assets/release/plist/worldboss_report.png
+SHA1-Digest: YPTCQK/aiccbHpX19fBLrdh26ro=
+
+Name: assets/public/config/levels/8-4.xml
+SHA1-Digest: N6+2LOtz5v5U/KX8WfWgUkuxS68=
+
+Name: assets/release/spine_json/shield_start.json
+SHA1-Digest: 4rqWYhVTcGbUDlOF9wHL5aCu6Do=
+
+Name: assets/release/spine_json/coneOfCold_start.json
+SHA1-Digest: C1+In87yi8tNrrGv/VPLLDaTo5Q=
+
+Name: res/drawable-xhdpi/ic_plusone_tall_off_client.png
+SHA1-Digest: wDdGrtP4hbug9WTBpZLiwRSklx8=
+
+Name: assets/release/plist/battle0.png
+SHA1-Digest: Kd63JM2GskBHWd+IaMliXreRgCw=
+
+Name: assets/release/spine_json/blood.json
+SHA1-Digest: Yt1kSUz5KWmQEGHZDifemdSLtqg=
+
+Name: assets/release/gear/beltcloth_105.png
+SHA1-Digest: djH8ubHN4Np6mBC+sTUejRwXZrw=
+
+Name: assets/sound_android/enrage.ogg
+SHA1-Digest: 0JmIEKZi6wbXmGZsRplgWgjfr+s=
+
+Name: assets/release/spine_json/darknessThunder.json
+SHA1-Digest: 8RMTeO/56Vor7yIsQhc+tdGlzSk=
+
+Name: assets/public/config/levels/3-5.xml
+SHA1-Digest: iRNypTdUrU+xPrP1OX221c/7v8k=
+
+Name: assets/release/gear/helmetleather_110.png
+SHA1-Digest: YTPm52D5E1Adle7riLmNbfTXos8=
+
+Name: assets/release/plist/weapon_swordShield.png
+SHA1-Digest: niaZ65PIftfyuFX8urDr7xPi1qg=
+
+Name: assets/release/gear/paladin_117.png
+SHA1-Digest: 4nPI+GHmCzvCgoUFpzEswu85xzU=
+
+Name: assets/release/gear/wizard_116.png
+SHA1-Digest: n8iUkot7+BU7qdOfzeIxkNxOHks=
+
+Name: assets/release/spell/spell_upgrade_explosive_shot.png
+SHA1-Digest: JO9wd6CIRdaTuY1698vE5CqAwL4=
+
+Name: assets/release/spell/spell_upgrade_fair_trial.png
+SHA1-Digest: l4MtcLnasYRhxpCaDyaU1LdIRis=
+
+Name: assets/release/spine_json/resurrection_start.json
+SHA1-Digest: 2XzWwCWO71NdP7yZot8hRrRT6qI=
+
+Name: assets/public/config/levels/ms8.xml
+SHA1-Digest: qVNjD+nX23pTXlKrGZlYEzt7lvE=
+
+Name: assets/release/plist/puppy_hydra.png
+SHA1-Digest: g1F7WJJG9fpKc1fzgmqT/HyMhAI=
+
+Name: assets/public/config/price.xml
+SHA1-Digest: vgOhB21O5h06TuUGV0QU2o7YH3I=
+
+Name: assets/release/gear/bishop_109.png
+SHA1-Digest: h7vrB4xQR3J2/LGzkRr+TgbmaXk=
+
+Name: assets/release/gear/berserker_113.png
+SHA1-Digest: +nx/n23C/CGjw+Qu5q/9Sc0Jy2M=
+
+Name: assets/release/plist/ladders.plist
+SHA1-Digest: 6yHFSSjjl05o/U/4lTic1DrLsJg=
+
+Name: assets/sound_android/summon_baby.ogg
+SHA1-Digest: D8JmT7X2SdQMXUpfZ0b4wYy/vU4=
+
+Name: assets/release/spine_json/iceBolt_start.json
+SHA1-Digest: Fvi3yBDqMsiOtoPvxFP9n87tizw=
+
+Name: assets/release/plist/ranger.png
+SHA1-Digest: z32s4HmCkhzrrbTVE9MZWarYp5A=
+
+Name: assets/release/spell/thunder_blast.png
+SHA1-Digest: aEy9qnqvaBN6KoZdpm9O548Qv5E=
+
+Name: assets/release/gear/assassin_100.png
+SHA1-Digest: TKE/ipFEjj7egoiGsC5k14lOs5w=
+
+Name: assets/release/plist/public1.plist
+SHA1-Digest: rC7MBcbHnrNpElugDhHLW+sx1ac=
+
+Name: assets/release/plist/popupAccount.png
+SHA1-Digest: 8pS4ikOa8T4Ea0Q4HmLQxRMWv98=
+
+Name: assets/release/plist/popupPractice.plist
+SHA1-Digest: /Fk5KfzHQsKQm0q0Kqx6xJLnZ1s=
+
+Name: assets/release/spell/soul_gathering.png
+SHA1-Digest: QvLb7Khw2Dw5Zju/1R2H8jCip0g=
+
+Name: assets/release/spine_json/musketeer_weapon.json
+SHA1-Digest: l7hy3ZA9Dr7WFJwnz3N0ADPeuxA=
+
+Name: assets/release/plist/puppy_hydra.plist
+SHA1-Digest: Yi9UJNUaNFEd4eLT2+wvZzTb7hw=
+
+Name: assets/public/config/levels/mt5.xml
+SHA1-Digest: WV+IcsQHUts/oQn5tANQ2abhjn8=
+
+Name: assets/release/plist/archer.plist
+SHA1-Digest: 80z/gBfyMGagNDLAH4Vl7bHPusc=
+
+Name: assets/sound_android/rogueSpell_hit.ogg
+SHA1-Digest: ZbaXeg2QqyBOHCmx/qgIUBAZR5I=
+
+Name: assets/release/spine_json/summon_up.json
+SHA1-Digest: 6sRUsk27OVkIs3WSq0A0z7T9rDQ=
+
+Name: assets/release/gear/musketeer_103.png
+SHA1-Digest: daAv/qArb4x3EC4FBrVTx/WSaIg=
+
+Name: assets/public/config/levels/9-8.xml
+SHA1-Digest: ImXDjkH+x/PMAR1NH4P6orVqYzs=
+
+Name: assets/public/config/story/story3-5.xml
+SHA1-Digest: sHzRiXhUY7r11udMxtPgWPEMOto=
+
+Name: assets/release/plist/intro0.plist
+SHA1-Digest: 7WSSSBnX6XPqO3AGq4uosDVWYj8=
+
+Name: assets/release/spine_json/goblinSummon_up.json
+SHA1-Digest: TnlJ9CJAVSEZwDspu9T6wH3viCs=
+
+Name: assets/release/gear/armorleather_122.png
+SHA1-Digest: rgHKbKT8J3hWyjiVAtkidojEx+Q=
+
+Name: assets/release/gear/armorcloth_105.png
+SHA1-Digest: 0poO9ed7QUhLLX5FdEBJ2064+O8=
+
+Name: assets/release/spell/spell_upgrade_renew.png
+SHA1-Digest: fvAlj8rKcf4uQFHL2/WfPtkP+OY=
+
+Name: assets/release/gear/assassin_118.png
+SHA1-Digest: Sq0VAmuX5I1x1o0eLCOmBrIwpqw=
+
+Name: assets/release/gear/bishop_123.png
+SHA1-Digest: gMvEmNG1Xtk8y3oCXYJr2u2aqh4=
+
+Name: assets/public/config/levels/mission-1.xml
+SHA1-Digest: 1L/zc4E7rCFEV25/9+aYaVuCuqg=
+
+Name: assets/public/config/levels/mdkt5.xml
+SHA1-Digest: 95m2V1Ty42A5IbJN+hig9UmJNI4=
+
+Name: assets/release/spine_json/auraOfWisdom_down.json
+SHA1-Digest: ZQQEqIEWlex4xUmMa9nGc/6zzDs=
+
+Name: assets/release/spine_json/warrior_shield.json
+SHA1-Digest: O/37vHbYuouRNwzLVIiaX9+Biqs=
+
+Name: assets/release/spine_json/heroStonTerraces.json
+SHA1-Digest: rJvMjYzvIPqz1da8o48LUL1LGhs=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_focus_dark.9.
+ png
+SHA1-Digest: lGyXD91+PbQKpTJGdILcy8poxFw=
+
+Name: assets/public/config/levels/mk1.xml
+SHA1-Digest: 1A39GJ0emOs1zLTUiPjAxL1/nkg=
+
+Name: assets/release/spell/plague_spread.png
+SHA1-Digest: hsfwUZpu3YMzxCxAzUTXLdo+Fgc=
+
+Name: assets/release/spine_json/groupHeal_start.json
+SHA1-Digest: rOr1f5PoYikkTAOey93UC7Xra24=
+
+Name: assets/release/gear/musketeer_113.png
+SHA1-Digest: 4SYIQP62a1vtS7zCu9Amexi9xow=
+
+Name: assets/release/gear/musketeer_109.png
+SHA1-Digest: pUn1VU6aIh48RYoGKEQzCYZg7fs=
+
+Name: assets/release/plist/popupBase.png
+SHA1-Digest: sl6o4nwECoZppWupIJ9YbvLSBwI=
+
+Name: assets/release/gear/mage_100.png
+SHA1-Digest: tSxvjyRDXmFFPYy8J21K9GZlwtw=
+
+Name: assets/release/spine_json/sven.json
+SHA1-Digest: yq9oB96XX4gunmUaVtAgEE9rCFA=
+
+Name: assets/sound_android/horn.ogg
+SHA1-Digest: me5qIZoHB6FdGR4F3sOQ320liEI=
+
+Name: assets/sound_android/arrowAttack_fly2.ogg
+SHA1-Digest: 9A3Gk34oIwUvRkNp1nUXAwPk9WU=
+
+Name: assets/release/gear/beltplate_111.png
+SHA1-Digest: r5VRSxqe+eON/UI3Q+eiMYrDrCo=
+
+Name: assets/release/map/story_map_2_2.png
+SHA1-Digest: siij2wa2xWiBsOMOvigZX40KV6c=
+
+Name: assets/public/config/levels/6-3.xml
+SHA1-Digest: r9QnTXMWUwI7ReVCzze+P7hEPO8=
+
+Name: assets/release/spine_json/mage.json
+SHA1-Digest: APd+Gf/YTellL3Vmckkjf0E93B0=
+
+Name: assets/public/config/levels/m23.xml
+SHA1-Digest: 5AaE5S8mAhM4/4NlW/swqaZqTic=
+
+Name: assets/release/spine_json/armorPierce_start.json
+SHA1-Digest: PnR7zL9Vu4nzyeEscfh7TBh8hzQ=
+
+Name: res/drawable-hdpi/ic_plusone_medium_off_client.png
+SHA1-Digest: v5rLo21V7LjUi/+ipDU5fxaD+Y8=
+
+Name: assets/public/config/levels/mdt8.xml
+SHA1-Digest: J1wAk8/CMZpHFCAvK21gxXSJGzQ=
+
+Name: assets/release/spine_json/gearBuffAttack.json
+SHA1-Digest: pDKWssjGePUlT6Rk+cuUP3TH0wg=
+
+Name: assets/release/spine_json/fearless.json
+SHA1-Digest: Ozra3LTH2pCDLb6ASjaozjj9L3I=
+
+Name: assets/release/spine_json/UI_giftButton.json
+SHA1-Digest: MHmMeaT/kvO66cbZPfiKAiKQLhY=
+
+Name: assets/public/config/levels/8-3.xml
+SHA1-Digest: OlJyhY8IAkYRbqsgtS2wLKRYzJ0=
+
+Name: assets/release/plist/sven.png
+SHA1-Digest: gTLnEICvzvCbcj5NT+VTy5r9Ar0=
+
+Name: assets/release/spell/spell_upgrade_whirlwind.png
+SHA1-Digest: Hu/3Wzx/191njfCRxo1TJMhaQ0o=
+
+Name: assets/release/gear/beltplate_114.png
+SHA1-Digest: zS8VPxcuiWo+GMkASpsmlEA+B3Y=
+
+Name: assets/sound_android/number.ogg
+SHA1-Digest: Al/TBXvs2AOdjixTJ5LYW8RCFxc=
+
+Name: assets/release/spell/spell_upgrade_aura_of_allergy.png
+SHA1-Digest: 7T4UZ+fA3cZAmNUJTMDo3p4J8i0=
+
+Name: assets/release/spine_json/bash.json
+SHA1-Digest: cKkkNdO3tLK7pgjGnTrWkEAgbSA=
+
+Name: assets/public/config/levels/m53.xml
+SHA1-Digest: wQGjQMFG+qltiLAX2sSqBrTdEns=
+
+Name: assets/sound_android/attackByStab3.ogg
+SHA1-Digest: dSmbyj8b7UszNGNzYNWD7BiXIew=
+
+Name: assets/release/spine_json/warrior.json
+SHA1-Digest: bsniUXXTjD9KbdMrSk7fzFrw/38=
+
+Name: assets/release/spell/shotgun.png
+SHA1-Digest: QJC9fVFT/0tOJ9soORng3g6v570=
+
+Name: assets/sound_android/sandwormAttack_start.ogg
+SHA1-Digest: PcZ1VHx71xqIrK+F/ztAO+KgZ+Q=
+
+Name: assets/release/gear/wizard_102.png
+SHA1-Digest: 2mRGCO3lJ6vCQ8QVX9HQtbuBWos=
+
+Name: assets/release/spine_json/guard.json
+SHA1-Digest: cRpoxql9nfw8kyjHUl9SP0ghV5s=
+
+Name: assets/release/plist/orc_warrior.plist
+SHA1-Digest: WC86tNYivfeyjoDmcOTDr8p0sBQ=
+
+Name: assets/release/gear/musketeer_117.png
+SHA1-Digest: WET0uzC/ekIFpYBpB2jHUDMP/uI=
+
+Name: assets/release/spine_json/poisonousShot_start.json
+SHA1-Digest: Vjii9meu6+A1bYhNc5TwN0d5x00=
+
+Name: assets/public/config/levels/mdkt8.xml
+SHA1-Digest: w8Td5ck+5A0Zo3Tm52eO9eE475M=
+
+Name: assets/release/gear/ranger_117.png
+SHA1-Digest: 4ouf5wMS5NqWEyJkPZi3fUDJrWs=
+
+Name: assets/release/map/homemap_bg_ocean_1.png
+SHA1-Digest: sPPREVtpi6Eg08TmToJsDlmHIww=
+
+Name: assets/sound_android/shieldStrike.ogg
+SHA1-Digest: ovEbINA0yGp+cK0d6lh+QOcKJ28=
+
+Name: assets/release/plist/home2.plist
+SHA1-Digest: 3XFFakwv67R6B43VHFf2wx71I0s=
+
+Name: assets/release/spell/deep_freeze.png
+SHA1-Digest: +a82SRm7/ThFeJlYJanxPNo/aQo=
+
+Name: assets/sound_android/popup.ogg
+SHA1-Digest: lDCc5CboDlHw4uKCmFC1etibSGo=
+
+Name: assets/release/gear/armorcloth_104.png
+SHA1-Digest: JT++rFemKmQ8hJSPSxDVJz6zpOo=
+
+Name: assets/release/plist/popupLadderReport.png
+SHA1-Digest: UQnq8QqUjIwEcGT3fQX7VcFEfaI=
+
+Name: assets/release/gear/scout_103.png
+SHA1-Digest: BMNiHPXlPAUa8KD+IiWV3nitT7Q=
+
+Name: assets/release/gear/necklace_104.png
+SHA1-Digest: oUk2mzBpgqV8lX9YIdDR7LFJJuI=
+
+Name: assets/release/plist/high_priest.plist
+SHA1-Digest: +1mPdvBMR23w4jYfNtJApjUCIEQ=
+
+Name: assets/release/gear/armorplate_115.png
+SHA1-Digest: tp3QuLdfl2mhw8ntmh+aGBX3v8Q=
+
+Name: assets/release/gear/mage_120.png
+SHA1-Digest: 04NB3ZABlgQEpethUUcnvpr9TXo=
+
+Name: assets/release/plist/popupBase.plist
+SHA1-Digest: nET4QslBYnPcpMVhYJouT0HONV4=
+
+Name: assets/release/spine_json/generateCards.json
+SHA1-Digest: qSJoS37UXFlVKKT9uT0QRGgiwBM=
+
+Name: assets/release/gear/armorplate_118.png
+SHA1-Digest: r6C8wBrnFtIzycelWQVICU13cAI=
+
+Name: assets/release/spine_json/evil_egg.json
+SHA1-Digest: crjl0gNM1C3qqMk1iQLFt2LI1a4=
+
+Name: assets/release/spell/warstomp.png
+SHA1-Digest: qLTEd7WGYmALRiEBJLrOyQlEmjU=
+
+Name: assets/release/gear/armorplate_120.png
+SHA1-Digest: Cbs+PWGGgYfMUNu8CoEsfqMRQ2E=
+
+Name: assets/release/spine_json/centaur.json
+SHA1-Digest: wh3fw4w1VNZlfBkQ+HKvnrJTXOs=
+
+Name: assets/release/map/scene_5_4.png
+SHA1-Digest: n67gxe11t4jkYvhjA0BoyXp56Rk=
+
+Name: assets/sound_android/arcaneIntellect.ogg
+SHA1-Digest: oaoDeI1GQa50QJsLxWxSalmz6uI=
+
+Name: assets/release/plist/cardsgallery.png
+SHA1-Digest: LJhy4DN+LQIY5UWAin2++jMXpVU=
+
+Name: assets/release/spine_json/goblin_fighter.json
+SHA1-Digest: uBz8Oijs+UCUvK+lOaYMyzpeHBM=
+
+Name: assets/release/gear/cloak_104.png
+SHA1-Digest: I/Z1mbHNw7HGhPtoTNEvJ4O0peg=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: Fg40yBi/GQncL03D6nRN4pQwu/M=
+
+Name: assets/release/gear/armorplate_119.png
+SHA1-Digest: clvACUJkKt7/EQhxONuZQx0p6Og=
+
+Name: assets/release/plist/prince.plist
+SHA1-Digest: pJ5bs4r91CQnIBZCWNxAAHPIOCk=
+
+Name: assets/release/gear/shoeleather_108.png
+SHA1-Digest: fL33fCQ3edHc2fGKNogPv2aSOws=
+
+Name: assets/sound_android/bg_mainTitle.ogg
+SHA1-Digest: r3eDuOayq2p4I5OMfkPAHe8RNIw=
+
+Name: assets/release/gear/armorleather_118.png
+SHA1-Digest: tG/lgfT9e/7GV2RfsPF5sGVaEhs=
+
+Name: assets/release/spine_json/elf_warrior.json
+SHA1-Digest: grvSiuPHhGNc53uY53aYvSINaOM=
+
+Name: assets/release/plist/mage.plist
+SHA1-Digest: 70vD5eJkftZ1qOiFCFSx2VQ7/YM=
+
+Name: res/drawable-mdpi/ic_plusone_small_off_client.png
+SHA1-Digest: sCsMl2sWBCzx05IYByyFEybOuUo=
+
+Name: assets/release/gear/beltplate_106.png
+SHA1-Digest: tQny0XYSNJNPc51rYmJhbIrVoT8=
+
+Name: assets/release/plist/ranger.plist
+SHA1-Digest: gevnMsT8qvCHg9DW2xhSKS/D/9E=
+
+Name: assets/release/map/tutorial_info_bg_s_arrow.png
+SHA1-Digest: 5HCas9nQqZ+9oWouS7i4jWIdVsI=
+
+Name: assets/release/gear/bishop_100.png
+SHA1-Digest: ifjKGvPYd1sKHUux+wfyvxAcX78=
+
+Name: assets/sound_android/lightningChain_hit.ogg
+SHA1-Digest: Lti6BmPZVccWXjRhpia21g0k5Do=
+
+Name: assets/sound_android/holyShield_enter.ogg
+SHA1-Digest: Cq4OEsk8+mP32va/ZX+nRbUD/kU=
+
+Name: assets/release/spine_json/map_icon_pvp.json
+SHA1-Digest: vvgvtGi+GD3tdZXV8suSYftmxO8=
+
+Name: assets/release/gear/scout_113.png
+SHA1-Digest: 7JLKj3yiXYccHROqbvwpmwDgATA=
+
+Name: assets/public/config/skills.xml
+SHA1-Digest: f9K0Q2ISKrDgGYaW19JcnhZjY+c=
+
+Name: assets/release/plist/bishop.plist
+SHA1-Digest: JjJ6S/T7weTDv6bjSRomtH/6vJU=
+
+Name: assets/release/gear/shoecloth_107.png
+SHA1-Digest: g7KaMRcMIklUAV4MlInUN4zSoMY=
+
+Name: assets/sound_android/lethal_start.ogg
+SHA1-Digest: 7WsQ7UVpJfnJHOFKc8FrE1+G1RQ=
+
+Name: assets/release/gear/assassin_107.png
+SHA1-Digest: 8RAVCNCLVb1eB1UKbtQoremM5kg=
+
+Name: assets/release/map/scene_3_4.png
+SHA1-Digest: kmP2+L/PEuYamu4UFK3KOQjtCKU=
+
+Name: assets/release/gear/ranger_104.png
+SHA1-Digest: nVCpQpqTBcLwfLmz3FYb5oj35TQ=
+
+Name: assets/release/gear/helmetcloth_114.png
+SHA1-Digest: 7LmPw4okByvX5vBXNmWbFyyX5qI=
+
+Name: assets/release/gear/caster_103.png
+SHA1-Digest: j9Ij8hCy43Bwn05LyNeFcPQQ0Bc=
+
+Name: assets/release/gear/wizard_114.png
+SHA1-Digest: B2EpvSde9vmAdFWm0bHDek4t2PM=
+
+Name: assets/release/spine_json/award.json
+SHA1-Digest: z4fSiQ21MPJECqd44BAMRXGq1pY=
+
+Name: lib/armeabi/libgame.so
+SHA1-Digest: P12GBMFrn74L4wFDUtNyMi+BuqE=
+
+Name: assets/release/plist/conquerBox.plist
+SHA1-Digest: 8Ly34mHKaVVtxpyRbhSYgMyXPgw=
+
+Name: assets/release/spine_json/beholderAttack_hit.json
+SHA1-Digest: cJvLvShPp8vWVYLmIVBp1qyFHtg=
+
+Name: assets/release/spine_json/incendiary.json
+SHA1-Digest: 5ODHf4V2iAcGadUt1jaZHzPHqs4=
+
+Name: assets/release/gear/caster_100.png
+SHA1-Digest: s+kRnKJT155DhVkDpi4dyQe7kI0=
+
+Name: assets/release/gear/helmetleather_112.png
+SHA1-Digest: wY4kMcXg2d5e/4h6qGIoAwB3L5Q=
+
+Name: assets/release/spell/mortification.png
+SHA1-Digest: j4PJExDZYkIhok4XopZ3m0e+SSY=
+
+Name: assets/release/gear/berserker_110.png
+SHA1-Digest: 3v4MdxKIQ3FEIddH3I/qByOCYSY=
+
+Name: assets/release/spine_json/ladderCards.json
+SHA1-Digest: bk36tq1MPo+DBKvawwsQ6cEUM4A=
+
+Name: assets/release/gear/ring_108.png
+SHA1-Digest: bx2lHdRVAVo6T4kpcw1ijECL9kU=
+
+Name: assets/release/spell/death_wish.png
+SHA1-Digest: XjFpCe8xQizCeQzT+pkPhEHBL5w=
+
+Name: assets/release/plist/darkdakarai.plist
+SHA1-Digest: Xhp4shljPu1eNM60sOW74QYgmvk=
+
+Name: assets/sound_android/coin_up.ogg
+SHA1-Digest: d6yIidf3zedUo+D9mKurgrdM4Ac=
+
+Name: assets/release/spine_json/wolf.json
+SHA1-Digest: UuNe6dxJ8ucmCLbLIihiHBlIMD0=
+
+Name: assets/release/spine_json/scarecrow.json
+SHA1-Digest: dA3zc+cGiO1A19YGUFU0+4nXx7M=
+
+Name: assets/release/gear/shoeleather_102.png
+SHA1-Digest: bGzsoixYc0xethH8aAxlHVGPlqM=
+
+Name: assets/public/config/levels/endless-6.xml
+SHA1-Digest: BcWA77NS7xskWHeMO9eRe+ANvnc=
+
+Name: assets/release/gear/beltcloth_110.png
+SHA1-Digest: pTWRp84nhaWefFvaMTStmVtlDBI=
+
+Name: assets/release/map/message_events_ads_1_us.png
+SHA1-Digest: KXI4kAMxSlGpm8K2IVVUimlZHz0=
+
+Name: assets/release/spine_json/deathCoil_start.json
+SHA1-Digest: ugW1XJ0iVeslDZqLBi6wj5v6Iv0=
+
+Name: assets/release/gear/ranger_107.png
+SHA1-Digest: gXFL8hCfQK5tnRCLYPFfSPj2pLc=
+
+Name: assets/release/gear/bishop_104.png
+SHA1-Digest: aHtBI7/HWH0PyrKc4GlnsSj7LFg=
+
+Name: assets/release/spell/vanish.png
+SHA1-Digest: l0FlSJO9tRSZNnuYeeZaRT+W0cI=
+
+Name: assets/release/spine_json/fenrir.json
+SHA1-Digest: V8+6or+0ZKYm36gdQ3cOv5apops=
+
+Name: assets/release/plist/awakening.png
+SHA1-Digest: OtHIFxiYaESCqSSOY/Jn+ecvQkY=
+
+Name: assets/release/spine_json/shotgun_hit.json
+SHA1-Digest: FQW3dY1/eUsi2akm/LRjddkypBE=
+
+Name: assets/release/plist/goblin_thief.plist
+SHA1-Digest: FFIDlXEaQrxW/Vkq1G3ggTsXFqQ=
+
+Name: assets/release/plist/bishop.png
+SHA1-Digest: ecyYo8kxJrtWIPhEyAhbDm662z4=
+
+Name: assets/release/gear/ranger_110.png
+SHA1-Digest: Ccu1z5dWCrXmeaRgKNi/bo4aNTE=
+
+Name: assets/release/gear/helmetcloth_102.png
+SHA1-Digest: VreB0vB4DOd/0pQdvET73GDFL/0=
+
+Name: assets/release/spine_json/elfinHealing.json
+SHA1-Digest: WXSdM8YCrC7nd10BfvI0dszf+PY=
+
+Name: assets/public/font/attack.png
+SHA1-Digest: C8jQShPUFM+aEWVDVlfIcEB2tEI=
+
+Name: assets/release/gear/musketeer_120.png
+SHA1-Digest: AO07BYqLUJM+QvysOz78HOzsZhE=
+
+Name: assets/release/gear/necklace_109.png
+SHA1-Digest: Rkm1Kp4nr/pP4NquD1+qFf18YaM=
+
+Name: assets/release/plist/popupAccount.plist
+SHA1-Digest: 0+yLEPMXXkhUzxOncURhZtHKrtk=
+
+Name: assets/sound_android/attackByBite1.ogg
+SHA1-Digest: 4hrQEJTWIIIk6iu/DaQEtGfatt8=
+
+Name: assets/release/gear/gear_icon_common.png
+SHA1-Digest: Cc5IJNvvYf9YtkwWA/woHnl0WCo=
+
+Name: assets/release/gear/scout_119.png
+SHA1-Digest: ZeUkNH+X5y93MrErAu/B60QLajk=
+
+Name: assets/release/plist/heroShow.png
+SHA1-Digest: 0UQ5v1B8JLyYqzmwGAVEB/9fzag=
+
+Name: assets/sound_android/stolen.ogg
+SHA1-Digest: OquEEvQPFZgf+DqK+cbv6FIlQhU=
+
+Name: res/drawable-hdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: uZUhJWQQ+oWuxh4HW+1oi8ttEsc=
+
+Name: assets/public/config/hero.xml
+SHA1-Digest: cgZW3s0npPDqs5zRMI0robjOd3o=
+
+Name: assets/release/spell/shield.png
+SHA1-Digest: 9Fwen36FApFdhUL/NHON1fdrdwQ=
+
+Name: assets/public/config/levels/conquer-3.xml
+SHA1-Digest: isdZTMm3xiEWaW0J3jP6UbwM2zY=
+
+Name: assets/release/gear/shoeplate_103.png
+SHA1-Digest: r1WdgS4uwWR0CriMyuKnJZtKb6E=
+
+Name: assets/release/plist/weapon_bow.plist
+SHA1-Digest: dN3/vNcWhecfB8O7hbN3FBZvBZA=
+
+Name: assets/public/font/cartoonist_28.png
+SHA1-Digest: A2rcgnbmfg1dMUDQmKJqIgcM/Po=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_light.9.png
+SHA1-Digest: C76Mwxo2BWPcWaN1Moj3gH+Etds=
+
+Name: assets/release/gear/beltcloth_101.png
+SHA1-Digest: m7PjVTqZWER0t43YjdWRWmMuFK4=
+
+Name: assets/release/spine_json/piranhaKingAttack_start.json
+SHA1-Digest: AMEfZrQZw4m7c2YHDtIa8kAdLm4=
+
+Name: assets/release/spell/insight.png
+SHA1-Digest: y0aWieUhhwTLlLXB1jWBxkVWiZ4=
+
+Name: assets/release/gear/ranger_115.png
+SHA1-Digest: LcT6mHQBuBOPDJ5FX1JnJKNG2es=
+
+Name: assets/release/gear/musketeer_115.png
+SHA1-Digest: eikc0In30CE9CJqR5GMyEkzmKiU=
+
+Name: assets/release/spine_json/scout_weapon.json
+SHA1-Digest: RHlWQH0zjBUh2JBRbj8trEKO8ys=
+
+Name: assets/release/gear/armorplate_111.png
+SHA1-Digest: CxJCUjnRkRJn/grQJih2n9mlJ6A=
+
+Name: assets/public/config/levels/worldBoss-beholder.xml
+SHA1-Digest: CrXT5w6WR7a8vATRegwimfErJIY=
+
+Name: assets/release/spine_json/dust.json
+SHA1-Digest: vuFrFb5Tn2m1dmoNJ74sLbP5hSs=
+
+Name: assets/release/plist/treant.plist
+SHA1-Digest: DIbuAXh1dHzNrrKT3jUf7z6VB4A=
+
+Name: assets/sound_android/shield.ogg
+SHA1-Digest: vOXzkGdiPgwh6+8FrVTLABcH03A=
+
+Name: assets/release/spine_json/plague_hit.json
+SHA1-Digest: BPeShK+zUUbBU6Sg/2R0W+Uyu50=
+
+Name: assets/release/spine_json/rhinoceros.json
+SHA1-Digest: hQXyHUJ6B/Fx3LA7a01MwxPoT4Q=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: r6bLnQaCF+JDCSyb8cNXQ5ouI40=
+
+Name: assets/sound_android/fire.ogg
+SHA1-Digest: CBmCxemtDd+9uL1zdOOX9u/e9X4=
+
+Name: assets/release/plist/pvpBattle_sealing.plist
+SHA1-Digest: /beSiooRaQ9RbkI9yQ/Ee7RIKPo=
+
+Name: assets/sound_android/trick.ogg
+SHA1-Digest: vt+TagtP/JulwSR0hJTYKbkU4EI=
+
+Name: assets/sound_android/voice_13Hunter.ogg
+SHA1-Digest: klcgmhwf+LFUYP/ez6mz6eU2wCM=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.
+ png
+SHA1-Digest: Zx6jm4ROQWVElxzrjSPtg4U387A=
+
+Name: assets/public/config/levels/rookieGuide-2.xml
+SHA1-Digest: WGpPkaJCaA96E3YcIKUaBzoOdHc=
+
+Name: assets/release/spine_json/pvp_icicle_up.json
+SHA1-Digest: 7ibwi8pyJx09SY6hxD+jKWmVvPY=
+
+Name: assets/public/config/story/story2-1.xml
+SHA1-Digest: tWFnRkUOIWZSPWU2yMLKmxW4ITo=
+
+Name: assets/release/gear/berserker_123.png
+SHA1-Digest: 32NgDRtUKNqOmRFn+lVUw3Lfu4A=
+
+Name: assets/release/spine_json/piranhaKingAttack_fly.json
+SHA1-Digest: g+i05WgfTQ7jt5PZ1xmS+QeVq10=
+
+Name: assets/release/gear/armorcloth_112.png
+SHA1-Digest: 1kTz5WBo+I8Jgy3CY2CjyEclTAI=
+
+Name: assets/release/gear/ranger_121.png
+SHA1-Digest: MS0EdkcyZpPGkKTIT7yN4H3JhoA=
+
+Name: res/drawable-mdpi/common_signin_btn_icon_pressed_dark.9.png
+SHA1-Digest: NvcUhe0KQo4GD0+eVgFd+fFAQAs=
+
+Name: assets/release/spine_json/archer.json
+SHA1-Digest: sCgoSL7KkcqGxhOg92kxOu8puQg=
+
+Name: assets/release/plist/weapon_swordShield.plist
+SHA1-Digest: g/wrUosH+qoMsxAlN9YnrvwNWx0=
+
+Name: assets/public/font/cartoonist_45.fnt
+SHA1-Digest: Kq4ia46YF418wsG27HVbqN4k/nY=
+
+Name: assets/release/plist/nation.plist
+SHA1-Digest: itLYM6JahfFRqGMw/g635byJt3w=
+
+Name: assets/public/font/ru_cartoonist_28.png
+SHA1-Digest: KligZjt8x1nzf+8UsNiJoMG0dNY=
+
+Name: assets/release/gear/ranger_100.png
+SHA1-Digest: Xfu8K9fVsXJtoxhEEZzGKC7HBPI=
+
+Name: assets/release/plist/totem_rock.plist
+SHA1-Digest: ms8tRhP6img7P5cTdor3UMFW5UI=
+
+Name: assets/public/config/levels/mt3.xml
+SHA1-Digest: So5jW36H7AzE1vEdxU2y89BqKik=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: ndqXNpDkzBf7ZV8l3+SrQBLONCw=
+
+Name: assets/release/gear/armorplate_105.png
+SHA1-Digest: ZpMscw7CONp/Hvcm8ErHaqgobR0=
+
+Name: assets/sound_android/casterAttack_start.ogg
+SHA1-Digest: hNRdnz3IvofCzaAqEcp0Iaa6ujM=
+
+Name: assets/release/spine_json/dragonLoading.json
+SHA1-Digest: 3PgLO3PgFM91NL3NJy+fQgT4pJI=
+
+Name: assets/release/map/story_map_8.png
+SHA1-Digest: aSJxDZBrG1sKZlGGUXuEWjtZEVk=
+
+Name: assets/public/config/levels/1-3.xml
+SHA1-Digest: jpoK3v5ac/YhXq3PojAqAIk4O+g=
+
+Name: assets/public/config/story/story1-0.xml
+SHA1-Digest: AOIYz/n4JqGDEIgbgM7ZB/VYqxc=
+
+Name: assets/release/spine_json/cirrus_down.json
+SHA1-Digest: K+Z/vgPdq3XchmbV800ukoUXUPk=
+
+Name: assets/release/spell/holy_shield.png
+SHA1-Digest: TjaeSxX9efDQN9OkpKcQqJdIEio=
+
+Name: assets/release/spell/aura_of_allergy.png
+SHA1-Digest: mCumpPGFecQPOSenyQonLM5jWQ0=
+
+Name: assets/release/plist/succubus_effect.png
+SHA1-Digest: rCIyRmhl+I3VNfr3kwTwSdTPvRM=
+
+Name: assets/release/plist/scout.plist
+SHA1-Digest: cx+F2QubJnIkRS06SGzlwIGXpAM=
+
+Name: assets/release/gear/armorcloth_108.png
+SHA1-Digest: OdWSs0e0j86CzH5BWUmxJbN0IPw=
+
+Name: assets/release/plist/alchemist.png
+SHA1-Digest: snhQQRUhhLFPleVzLhqLwUV6Y2g=
+
+Name: assets/release/spine_json/UI_egg.json
+SHA1-Digest: iXElu7HXEtfqcOhQ6E4hz40WAGI=
+
+Name: assets/release/spine_json/demonRevive_blueDown.json
+SHA1-Digest: RzUPfFOKywcxaGsaSbn/oJa7w8E=
+
+Name: assets/release/gear/helmetleather_104.png
+SHA1-Digest: uqEQV19p1TSmdMTIE7IblWfOu1g=
+
+Name: assets/release/plist/totem_storm.plist
+SHA1-Digest: un5K418K33YLtrfxeVV/b+0/hig=
+
+Name: assets/release/gear/bishop_110.png
+SHA1-Digest: tAjHYe+M1cEt3sMjYAzNL5wlrzM=
+
+Name: assets/release/spell/spell_upgrade_life_drain.png
+SHA1-Digest: J5tlx/XPsW0YLjBEHMcExoWXbRs=
+
+Name: assets/release/map/scene_1_6.png
+SHA1-Digest: m/MbSVso6HeyFHFHLMem1+MLD4I=
+
+Name: assets/release/spine_json/twine_up.json
+SHA1-Digest: Hp6+9q1guCX4NvftUEZF1jxeDVw=
+
+Name: assets/public/config/levels/mdt7.xml
+SHA1-Digest: enubYunCzgv8FifMq7wiTO54WX8=
+
+Name: assets/release/gear/beltcloth_114.png
+SHA1-Digest: jGi1mBN3Cc7fmtx98xfngkEh3uo=
+
+Name: assets/public/config/levels/9-7.xml
+SHA1-Digest: xAmjX6GFiQmTjotIpPdhVDjSuGQ=
+
+Name: assets/release/spine_json/UI_pause.json
+SHA1-Digest: paxId/QGkUvIPPaY1dWCXGnjitg=
+
+Name: assets/release/spine_json/witchAttack_fly.json
+SHA1-Digest: vY7gdk2kghmqP8L9OMdFUkx9fqc=
+
+Name: assets/release/spine_json/spellIcon.json
+SHA1-Digest: lmW9RQgL1J60k+bW1dAyw63L0Xo=
+
+Name: assets/release/spine_json/alchemist.json
+SHA1-Digest: fIgrxxZNbwIgQXOXOfmccBAVCow=
+
+Name: assets/public/config/levels/1-10.xml
+SHA1-Digest: vAZK6xiOqNLeqwqpnJ35425hcbw=
+
+Name: assets/release/spine_json/priest_weapon.json
+SHA1-Digest: uZs9R3ve3r1uruZCA6T7/7CcVIE=
+
+Name: assets/sound_android/voice_04_Priestess.ogg
+SHA1-Digest: gF0fg3FuH+7k8eDX5m5GFYb8bLo=
+
+Name: assets/release/plist/pvpBattle.png
+SHA1-Digest: ZxoQ89DHiEx/DLuBmQSm5hoWbl0=
+
+Name: assets/release/spine_json/UI_achievement_pop.json
+SHA1-Digest: p5gUZz8gkYeoKlPgl7qItaJkZYs=
+
+Name: assets/public/font/cartoonist_45.png
+SHA1-Digest: KTaWV2tp1SOLww4ZYGy/xwGieQg=
+
+Name: assets/public/config/levels/4-7.xml
+SHA1-Digest: NjuRZfQDnZcHJiBUcE0ToVf/GVE=
+
+Name: assets/release/spine_json/sunderArmor.json
+SHA1-Digest: /qIxnntYcSuUuuFzoQZrmhR0I3k=
+
+Name: assets/public/config/story/story2-3.xml
+SHA1-Digest: JwfTqBR4o3Q82K8palyyBFm7i7s=
+
+Name: assets/release/spine_json/shake.json
+SHA1-Digest: I2o71LuqKd9Gi2613YaVZTYfGHY=
+
+Name: assets/release/gear/beltplate_100.png
+SHA1-Digest: /9T7+Pt8Jt0H9qolEZs3Y9t9Ci4=
+
+Name: assets/release/spell/aura_of_courage.png
+SHA1-Digest: c/pRq4YuUEqmQ515+jx/Qtz/+UU=
+
+Name: assets/release/gear/armorplate_106.png
+SHA1-Digest: 0+0ANJHI5mAeNc2lVGzo5+Hcjn4=
+
+Name: assets/release/spine_json/auraOfCourage_up.json
+SHA1-Digest: j2ZaWFbMP84jsj9Ud1DUSi9Z+7M=
+
+Name: assets/release/gear/highpriest_106.png
+SHA1-Digest: BEpssoeJfIrZr+QJLGvb2QBCe+Y=
+
+Name: assets/release/gear/necklace_112.png
+SHA1-Digest: XSXkJbfYD3Fykdjej2NWESQjTy0=
+
+Name: assets/sound_android/leverage.ogg
+SHA1-Digest: gu6s1/Yx09A4W67cKLMu3NyEJfk=
+
+Name: assets/public/config/levels/5-5.xml
+SHA1-Digest: UIV2zuPicQ54tuA+Hj84CE/qjd4=
+
+Name: assets/release/spine_json/awakenHeroEffect.json
+SHA1-Digest: qts034Ph4drM2Aes66hYW6829DQ=
+
+Name: assets/release/spine_json/assassinate.json
+SHA1-Digest: z1CNBcHqm0eF/p9vcXe9FS/OrQQ=
+
+Name: assets/release/spine_json/witchAttack_start.json
+SHA1-Digest: a7pCWa0+1xugvyE6+p98YQwpZl8=
+
+Name: assets/release/spine_json/UI_dialogBox.json
+SHA1-Digest: uH+T3hjurprgCIyvVz6LHgdVfrQ=
+
+Name: assets/release/spine_json/hunter_weapon_mid.json
+SHA1-Digest: TP+MBMooUhlGK5wM7TqEe0FVl28=
+
+Name: assets/release/spine_json/auraOfMystery_up.json
+SHA1-Digest: JXFXXhATQ3WcqGEVAOvWH8/EY98=
+
+Name: assets/sound_android/alchemistGrow.ogg
+SHA1-Digest: gPE7kk+ABjzEdKVrAbDS23GiZ/k=
+
+Name: assets/release/plist/dakarai.png
+SHA1-Digest: I1ci8rsmqz0oFsyJkgTd+7lgLL4=
+
+Name: assets/release/map/homemap_bg_cloud_2.png
+SHA1-Digest: 7YJ1vF/Ktp13MBTbm2YcWw3aQ3g=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: MM6hMhZkPaGxCxheG/Up6ogBO9I=
+
+Name: assets/public/config/levels/5-9.xml
+SHA1-Digest: pi5jTMpTfRCkdUUKCEwRfd+SthY=
+
+Name: assets/release/gear/assassin_111.png
+SHA1-Digest: DT75TSHbMhzO/6H319to523r4wk=
+
+Name: res/drawable-xhdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: YjePEusTruMQqGykyZC3YadgHXU=
+
+Name: assets/release/map/homemap_ladders_bg.png
+SHA1-Digest: mOi+SoC84Bv2icuqdqxrJ75J9aM=
+
+Name: res/drawable-mdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: w9nM5ZQOG8kwXgH6dAeb9/Cb8M8=
+
+Name: assets/sound_android/totem_birth.ogg
+SHA1-Digest: Bl9EnpfrFKo1CuDK1wxqxbSk92E=
+
+Name: assets/release/gear/necklace_105.png
+SHA1-Digest: 4uThAjAZJLsoHMw/LkTLcdFNF9w=
+
+Name: assets/release/plist/sirbedivere.png
+SHA1-Digest: MGl122Zgm18eoWSYuRuUxanq65A=
+
+Name: assets/release/plist/angel.plist
+SHA1-Digest: BCygTqkFkNUkW/s2QDWtrKoYEeo=
+
+Name: assets/release/gear/berserker_114.png
+SHA1-Digest: HlbJJYKnYmt0fdMpsfJSuIE6c3w=
+
+Name: assets/release/spine_json/fanOfKnives.json
+SHA1-Digest: HpyQE5CuZuoh8g7/MMBmVd9nXQM=
+
+Name: assets/public/config/story/story4-10End.xml
+SHA1-Digest: xm6LDoW3TyQRrSUXZCsvvC0XqCs=
+
+Name: assets/release/spine_json/alchemistHugeFist_up.json
+SHA1-Digest: VhAPn+IzYRaUvH+RUYYpWXosy98=
+
+Name: assets/release/gear/shoeplate_107.png
+SHA1-Digest: Ab2tQq8pKf6xy1ZCyr23E4IzZwI=
+
+Name: assets/release/gear/beltcloth_109.png
+SHA1-Digest: E6h+em++n0uWXcv0BYSvE9XvDFw=
+
+Name: assets/release/spine_json/regent.json
+SHA1-Digest: k0PHKSM5UalUr+3ntaQm2mQu2bg=
+
+Name: assets/release/spine_json/sand_worm.json
+SHA1-Digest: 3df236HKg31cbI4zi+ybpk+BEDA=
+
+Name: assets/release/map/message_events_ads_halloween_2.png
+SHA1-Digest: Fnl4ohJCMFUoHflIHKnhOJcgp6s=
+
+Name: assets/release/plist/fenrir.plist
+SHA1-Digest: MjogouLXrbOIQfJRCRqROBGJvGk=
+
+Name: assets/release/gear/helmetcloth_101.png
+SHA1-Digest: ym6lgOHcjALap1i9oxSh4cfZ1QY=
+
+Name: assets/release/gear/ring_103.png
+SHA1-Digest: YMsKzSr/BXvWAvllXzGaP0zGGh4=
+
+Name: assets/sound_android/pinranha_king_die.ogg
+SHA1-Digest: olIlEdHlCamc+xnSOFAgJhix62E=
+
+Name: assets/release/plist/border.png
+SHA1-Digest: n0GO9IiwZgNTh0FKZZxiH72lpeQ=
+
+Name: assets/release/map/message_events_ads_2_us.png
+SHA1-Digest: zUwe7I8Wqt5Y6sQU2ZtJeIKQLt4=
+
+Name: assets/sound_android/gem_up.ogg
+SHA1-Digest: oTlFtyZgiQS4NdyTTQ3kNe0LAqw=
+
+Name: assets/release/spell/plague.png
+SHA1-Digest: 8PsAZsQzBMw2UwvvSBJOMFxjlvo=
+
+Name: assets/release/spine_json/dragonBreath_up.json
+SHA1-Digest: xMvnct2qjFqziG6FV6UsWgVdemY=
+
+Name: assets/public/config/levels/1-6.xml
+SHA1-Digest: AMwqDsaTLEmWyY14EcYUtae6PxM=
+
+Name: assets/sound_android/fenrirBallExplode.ogg
+SHA1-Digest: Wui/NxV0aKRWvQeuOLZejx3nJ2Q=
+
+Name: res/drawable/button_close.xml
+SHA1-Digest: mOQWM9IENvpyCSZtNnFoSnbdHIo=
+
+Name: assets/release/plist/popupHint.plist
+SHA1-Digest: r4z0RTaLKVbV8yry0AB3X30mFSM=
+
+Name: assets/release/plist/hellfire.png
+SHA1-Digest: nwGZSUXH4rvDgNZB+zHYpWyPYok=
+
+Name: assets/release/gear/armorcloth_114.png
+SHA1-Digest: UCPlAQ3TFSD+DsIz+D+/mldVlWA=
+
+Name: assets/release/spine_json/fenrirAttack_start.json
+SHA1-Digest: GcfE5bVXVB4wyindxlUZO5Rs5aY=
+
+Name: res/drawable-xhdpi/ic_plusone_small_off_client.png
+SHA1-Digest: 2HLt+gKVr7onG6kGTzG+1iIFXJ8=
+
+Name: assets/release/spine_json/ranger_weapon_up.json
+SHA1-Digest: v8gBhf+ONj1sdXahy2RWLH+tUKg=
+
+Name: assets/release/spell/blessing.png
+SHA1-Digest: zkTbZKjBNCPy6sOGV0Z92REv4C4=
+
+Name: assets/release/spine_json/evilelf_warrior.json
+SHA1-Digest: BgDMjq+08xgK458eAcEjJiPNrws=
+
+Name: assets/release/spine_json/jeti.json
+SHA1-Digest: hKpvkfCAnpOZApIbJTlxwZEl9R0=
+
+Name: assets/public/config/levels/rookieGuide-1.xml
+SHA1-Digest: d/0pCipbUIVLvdKP3WSQPcRz79w=
+
+Name: assets/sound_android/voice_10_Rogue.ogg
+SHA1-Digest: Y0NmRegANAqRNymN0qDZT7aariA=
+
+Name: assets/release/map/scene_6_5.png
+SHA1-Digest: a0fXDco2FGwNlybL2VaHgIFsQRY=
+
+Name: assets/public/config/levels/worldBoss-alchemist.xml
+SHA1-Digest: E49p3JTl/aCIE99SO6CP5OLiNA0=
+
+Name: assets/release/plist/stone_guard.png
+SHA1-Digest: 2pKYb96VMVhkWe9rdP+EjXZvK5Y=
+
+Name: assets/public/config/levels/3-8.xml
+SHA1-Digest: ux59bpwmJPxgX0LqCqbu9OCVF+8=
+
+Name: assets/release/spine_json/casterAttack_fly.json
+SHA1-Digest: HWA8654odK4oQSC5TNeMSD3jgWs=
+
+Name: res/drawable-hdpi/featured_frame_close_a.png
+SHA1-Digest: YqyOrTY7S92xSLQDh8PSyIltpdU=
+
+Name: assets/release/spell/spell_upgrade_aura_of_tenacity.png
+SHA1-Digest: 1XBBkehdfy7Boz4spDE24vkUI9c=
+
+Name: assets/sound_android/bg_gameover.ogg
+SHA1-Digest: OYlXj13kj1b6wkZT3HoZ8MGj9t0=
+
+Name: assets/release/spine_json/pvp_luck.json
+SHA1-Digest: d+h5Imen83kNB8XeK/rI6iU5U1A=
+
+Name: assets/release/plist/rogue.png
+SHA1-Digest: PQ6eHMgJJunI6L8kdq+6c5ed4eQ=
+
+Name: assets/release/gear/armorleather_119.png
+SHA1-Digest: pzSe9hldREm/qodqgtyM/I5Clbs=
+
+Name: assets/release/gear/caster_101.png
+SHA1-Digest: Dg/i/FmEUPrfrXDC+BfRp2m8CHs=
+
+Name: assets/release/gear/shoeplate_105.png
+SHA1-Digest: 7TBE/KhEdD64qzToQTmbcuv2uWw=
+
+Name: assets/release/plist/beholder.plist
+SHA1-Digest: g5vz8vJZVPKGkzqKMGfUME1rAdE=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_normal_light.9.png
+SHA1-Digest: aMqeXcINaPWGiLT1fr3VYPwzcc4=
+
+Name: assets/release/gear/caster_122.png
+SHA1-Digest: xSFMCt17U79FfWUPOuLEhpJD4t8=
+
+Name: assets/release/gear/assassin_102.png
+SHA1-Digest: HS1ahPe1HEgm1GLeC6GF7hJySMc=
+
+Name: assets/release/spine_json/elfCasterAttack_fly.json
+SHA1-Digest: sk1YS/ej6CzguIDM4c+9RPb9aLg=
+
+Name: assets/release/spine_json/freezeShot.json
+SHA1-Digest: BBFGy2nGQaJOcaWHZZ0MyL6nJE0=
+
+Name: assets/sound_android/senility.ogg
+SHA1-Digest: AHnmL+d6DAG76H407iO5+5wPRr0=
+
+Name: assets/public/config/levels/3-4.xml
+SHA1-Digest: SbwzJUxkzH11c9c1eNEcZJTLDCo=
+
+Name: assets/release/plist/orc_commander.plist
+SHA1-Digest: vBUsULtxY9Q0zpaQBDfUB8Fj7+Q=
+
+Name: assets/release/plist/musketeer.png
+SHA1-Digest: YFFsuR8PdeeqPT59vFs7y0pvH88=
+
+Name: res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png
+SHA1-Digest: bTGqnHmpHbNQX33NbQgj3q2rA3w=
+
+Name: assets/release/gear/helmetplate_109.png
+SHA1-Digest: zfB3PxQuYGOJU0UWtj+RIEWkT7M=
+
+Name: assets/release/spell/spell_upgrade_ice_nova.png
+SHA1-Digest: 1k+JKVosAnffBjLjp/YOLGXUR5U=
+
+Name: assets/sound_android/hydra_die.ogg
+SHA1-Digest: CGFEwVVwFeimTbzMxkoIpJK4fFM=
+
+Name: assets/sound_android/thump.ogg
+SHA1-Digest: CxdY0Ab4gSpWKujDTzkdg4Hoc2o=
+
+Name: assets/sound_android/iceNova.ogg
+SHA1-Digest: JBerf8ljTGoN1Cvj6Ek3oyFbNt4=
+
+Name: assets/release/plist/high_priest.png
+SHA1-Digest: HuhWtKRx5Gb/f6PGpPgGaIcFqdI=
+
+Name: assets/public/config/levels/m33.xml
+SHA1-Digest: ROJK8wLHaDuOUICQyhZVf7hrxNM=
+
+Name: assets/release/gear/wizard_108.png
+SHA1-Digest: ruI7TQB7g2aAXp6/pvXUhgR347U=
+
+Name: assets/release/plist/musketeer.plist
+SHA1-Digest: n3KQDXqj+phqurZai0/Qq7uJNgM=
+
+Name: assets/release/spine_json/twine_down.json
+SHA1-Digest: r/iTvbLDbqmn5LtT9gDmQyzX0yU=
+
+Name: assets/release/spine_json/soulGathering_line.json
+SHA1-Digest: bQdKFlR416ISuHiuuOWOOFdT+kA=
+
+Name: assets/release/plist/popupRookie.plist
+SHA1-Digest: Ck1gPKHp4UFotSm9yeCiixfAz5I=
+
+Name: assets/public/config/levels/m13.xml
+SHA1-Digest: V60XBBhH5v36BSVGyhqsEIGjoXo=
+
+Name: assets/release/spine_json/piranhaAttack_start.json
+SHA1-Digest: hCZ72Enln7po9yNZwN7cK50r8U0=
+
+Name: assets/public/config/story/story3-1End.xml
+SHA1-Digest: zPlSf5XerC9nF7CWgWWdtRwmHsE=
+
+Name: assets/public/font/angrybirds_30.fnt
+SHA1-Digest: 6yRAKK1B9XnwmimadluEEe8TLj8=
+
+Name: assets/release/gear/paladin_107.png
+SHA1-Digest: DvQVJLIg6XCbqFu3+40WgXwi+7Q=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_dark.9.png
+SHA1-Digest: 8rjioa2teLNkgsqcruiSTymhkuo=
+
+Name: assets/release/plist/popupLuckGiftBase.plist
+SHA1-Digest: Hl8k9ZWu6YGo8WueMCe9k1z/QxY=
+
+Name: assets/public/config/levels/4-1.xml
+SHA1-Digest: Im27Wih27I18rw/aD1yoKGaBqaI=
+
+Name: assets/release/spine_json/UI_fog.json
+SHA1-Digest: 4pNKOZTZKAmBfW1NR9YMO+T6mbI=
+
+Name: assets/public/font/angrybirds_26.png
+SHA1-Digest: 0JH/ZdkbKzlJdKx/x4D3LuQsVlY=
+
+Name: assets/public/config/levels/6-1.xml
+SHA1-Digest: LBvdBZIxkMSI1vDQb71bvDx9dZg=
+
+Name: assets/release/gear/berserker_103.png
+SHA1-Digest: 6jYTSbiVXZSbDN11GUxYMwogTxs=
+
+Name: assets/public/config/levels/ms7.xml
+SHA1-Digest: mKZv/zg2mhV0hnwFhviXIVB1A8s=
+
+Name: res/drawable/button_rate.xml
+SHA1-Digest: m9ofJffbQzl4KLTiChmt85a593E=
+
+Name: assets/release/plist/elfin.png
+SHA1-Digest: dZtHD3pYcB6csnz5PHB8zQjC1E0=
+
+Name: assets/release/plist/giftBase.plist
+SHA1-Digest: 7Z5qrVzzM9ZPYQvzjrjyvfPuGQs=
+
+Name: assets/sound_android/alchemistSkillReady.ogg
+SHA1-Digest: 7vicqDVL1kVrIY/GA4Wp7MAPLOc=
+
+Name: assets/release/plist/beholder_small.png
+SHA1-Digest: CorBMFTg/8ZQ6srDvdco0cMsm0Q=
+
+Name: assets/release/map/scene_7_4.png
+SHA1-Digest: /W/LosDp+abD0O8UonUpgFjAiV4=
+
+Name: assets/release/gear/assassin_109.png
+SHA1-Digest: OEZ7BwM0veOdvg8tglvsBQe07+0=
+
+Name: assets/sound_android/musketeerAttack_start2.ogg
+SHA1-Digest: 5CRcaDe+cq7BsM7Dst5muDXLXSk=
+
+Name: assets/release/spine_json/treant.json
+SHA1-Digest: Bsd/DSldXYvdgFUamYfv68br5nU=
+
+Name: assets/release/plist/evil_egg.png
+SHA1-Digest: TCQYUwtI8JzTe8xCRTpoRiaB1ao=
+
+Name: assets/public/config/levels/mf1.xml
+SHA1-Digest: 7i9Io4IEUsW8zphCzXWYfVqpYgI=
+
+Name: assets/release/gear/helmetleather_114.png
+SHA1-Digest: d4yaFWuU41smeTWQbXtoYiV44iU=
+
+Name: assets/release/plist/bear.plist
+SHA1-Digest: T5O9EKJSaKjbmJU79gCt+QFEiuM=
+
+Name: assets/release/gear/paladin_115.png
+SHA1-Digest: uDsGcTr3YYgguyhl8FNCDeb+wW0=
+
+Name: assets/release/map/transfer_board.png
+SHA1-Digest: nas2c705PrYpnRK6A+gf7/1PDWQ=
+
+Name: assets/release/spine_json/chapterEffect_1.json
+SHA1-Digest: x9o35/hDVCUGc21SOCco1Jl1/qM=
+
+Name: assets/release/spine_json/assassin.json
+SHA1-Digest: ePy8z7LQaIEggIekW2njgLyBlpc=
+
+Name: assets/release/spine_json/orc_warlock.json
+SHA1-Digest: t7OhWFf5r8mD2guWSNPlUvS5M0E=
+
+Name: assets/release/map/dhlogo.png
+SHA1-Digest: mcRC2PU4+tjw4mvOOWRY/7y6jdg=
+
+Name: assets/public/font/ru_angrybirds_26.fnt
+SHA1-Digest: 2VE+vpWMZTgV4bZlcAh6keHbL8g=
+
+Name: assets/public/config/levels/4-3.xml
+SHA1-Digest: h+gQ3NUZGc+yCqn0s/qaSF55tzk=
+
+Name: assets/release/spine_json/furyStrike_2.json
+SHA1-Digest: qyTgxJPMeQ3c4e05SVjECwcBqEI=
+
+Name: assets/release/spell/binding_heal.png
+SHA1-Digest: 27od4r4bB5mvwGOtSIfzu8mmTt4=
+
+Name: assets/public/config/levels/3-1.xml
+SHA1-Digest: 3Iehk7f2BrG3Y1kNnuWYR+oIvIw=
+
+Name: assets/release/spell/magic_shield.png
+SHA1-Digest: w5QXPlzb9zCm2z2ANjGqS1EYLyM=
+
+Name: assets/public/font/de_cartoonist_45.fnt
+SHA1-Digest: o5BNAlpsWHKp4ZO1iyTFEpoXt0A=
+
+Name: assets/public/config/levels/mk8.xml
+SHA1-Digest: z6NjBHAiMTNJcVogsbbppRbChj8=
+
+Name: assets/sound_android/fairTrial3.ogg
+SHA1-Digest: ICig4qbyTLYTD27wX4GBpo4P8DE=
+
+Name: assets/public/config/story/story1-3.xml
+SHA1-Digest: Zc2ouwOCDkIdhi3tQkzrqOaQriw=
+
+Name: assets/public/config/levels/endless-4.xml
+SHA1-Digest: SWU3RPw0CnvLjUHpXYZTdRYQc00=
+
+Name: assets/release/spine_json/piranha.json
+SHA1-Digest: PZlAwlzGNMXA3QwfJl+z37il6lY=
+
+Name: assets/public/config/levels/6-8.xml
+SHA1-Digest: ojqQpWc+s+Yrsa6vQRoDg556AYw=
+
+Name: assets/public/config/levels/2-9.xml
+SHA1-Digest: yQhw015v8e6v6qTPGUrhiOEPaqc=
+
+Name: assets/release/gear/highpriest_117.png
+SHA1-Digest: 2W9zC7bfhY6kWzJLdmRMpZpFtYU=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png
+SHA1-Digest: 3gRQfCfX008WteD22t55Bt5k5qw=
+
+Name: assets/release/gear/wizard_121.png
+SHA1-Digest: JwzEyzGmxcbJY+NuF7ULyUn8PFA=
+
+Name: assets/sound_android/furyStrike_2.ogg
+SHA1-Digest: lmcjPcvSyHl+RUpVJjuVC2vO9vo=
+
+Name: assets/release/gear/beltcloth_102.png
+SHA1-Digest: i3TR58lLZtGu6qHKtLPpu73SIKM=
+
+Name: assets/release/gear/ring_112.png
+SHA1-Digest: wA15pvkWR6sJiT/+aAoVr8chyUc=
+
+Name: assets/sound_android/voice_11_Assassin.ogg
+SHA1-Digest: A521qLJr8CUesGtJf5hx+OxJjts=
+
+Name: assets/release/plist/promotingHint.png
+SHA1-Digest: HryJbk0exEAvvTp92fexaHyBaQw=
+
+Name: assets/release/gear/mage_115.png
+SHA1-Digest: 4q224ACTdk7xIDqpuAI1cJArtR8=
+
+Name: assets/release/gear/caster_102.png
+SHA1-Digest: 9Fsty/Bz7g4IVmK/KGNW/BNMPsg=
+
+Name: assets/release/spine_json/perillousStrike.json
+SHA1-Digest: EYIhAmL6PEzxtDMTSVES3eEOmMg=
+
+Name: assets/release/spell/scope.png
+SHA1-Digest: RxOwFNXF3s3h7JW8U0Sj/xIu9Z0=
+
+Name: assets/release/gear/beltleather_106.png
+SHA1-Digest: bXb5yFQc+pSx3Ci+ohmHxR//8jU=
+
+Name: assets/release/gear/armorleather_106.png
+SHA1-Digest: B3Qg9Qt0/gCuosE1AcaIHmzz11U=
+
+Name: assets/release/map/scene_5_1.png
+SHA1-Digest: 0XSFGDNcjBUl5CtnqKpOB1IvYYU=
+
+Name: assets/release/spine_json/arrowAttack_fly.json
+SHA1-Digest: aRGmMdgp5tCPFXgbwDtbxZ3TktI=
+
+Name: assets/release/gear/necklace_102.png
+SHA1-Digest: uXMbLEkRojB2CGm2hEUFuO2WacI=
+
+Name: assets/release/spine_json/attackByStab.json
+SHA1-Digest: bU0k6CRINEOM63//J68w9xhoyLA=
+
+Name: res/color/common_signin_btn_text_light.xml
+SHA1-Digest: yHb0QI9edBvJIdmvK8UOeTzIKYo=
+
+Name: assets/public/config/levels/5-2.xml
+SHA1-Digest: Bc/5UMbniOux9CBlI6I+Ekt9G3M=
+
+Name: assets/release/gear/berserker_108.png
+SHA1-Digest: xtWeb6CL3erS9WLoTFXTiTXxTjg=
+
+Name: assets/release/spell/spell_upgrade_thump.png
+SHA1-Digest: 3K6N967siPb0oRF1D0d5FA96d/8=
+
+Name: assets/release/plist/pvpBattle_trick.plist
+SHA1-Digest: d89BqkgVCVv3+hNeO0emEOROFE4=
+
+Name: assets/release/plist/crow.plist
+SHA1-Digest: de8KhGx0WXFleNDCohv76jZtVa4=
+
+Name: assets/release/plist/caster.png
+SHA1-Digest: 98fqj3xa8yx3RNsdBwIDPD2aw6k=
+
+Name: assets/release/plist/wheel1.png
+SHA1-Digest: b9Esu9fcMlptfoCiZKDd1+6GECo=
+
+Name: classes.dex
+SHA1-Digest: lWQnXeTGLuOICKeZMtP60CSLrWc=
+
+Name: assets/release/gear/helmetplate_115.png
+SHA1-Digest: pFsJJflM8BdKTjIqLfXEU26f75U=
+
+Name: assets/release/plist/chapterEffect.plist
+SHA1-Digest: qU2HoDBUzM0MM5PiQUhWRHueNE8=
+
+Name: assets/release/plist/elf_warrior.png
+SHA1-Digest: OiiZE4u3tR8M2pBxW75g3FgmDQs=
+
+Name: assets/public/config/levels/7-9.xml
+SHA1-Digest: rVoRePSvm2sghjv1ug0F6HIxXEY=
+
+Name: assets/sound_android/soulGathering_rise.ogg
+SHA1-Digest: ibJV6Lc5fXs+gYsVAacnnYgMoW0=
+
+Name: assets/release/plist/mysticstore.png
+SHA1-Digest: pneFty/va66AgpWnJXvqwpk3LyE=
+
+Name: assets/release/spine_json/pvp_trick_hit.json
+SHA1-Digest: vyiHFkfGtbxo6utMNB3S0EGclvY=
+
+Name: assets/release/spine_json/elf_ranger.json
+SHA1-Digest: RD8MskRH7kJo1p/jXurMjZstx/M=
+
+Name: assets/public/config/levels/7-6.xml
+SHA1-Digest: Ihx9bTF3EH9JACcz7AbUXIUsmDk=
+
+Name: assets/release/gear/hunter_101.png
+SHA1-Digest: DdWaXioBgRVHC3nXZYDc22vqkkc=
+
+Name: assets/release/gear/beltleather_101.png
+SHA1-Digest: JdcDrbNZz7zRLKwxeUdkN1hEaaw=
+
+Name: assets/public/font/zh_angrybirds_30.fnt
+SHA1-Digest: O+Qsat0fRRacG8RT1TzZeVQTlg8=
+
+Name: assets/public/config/levels/2-1.xml
+SHA1-Digest: knZx6lU8hMWeTiL073YZ9O9p1BI=
+
+Name: assets/release/plist/pvpBattle_luck.plist
+SHA1-Digest: MsZsvNwb1yM5lG7Vva+fVJbvawE=
+
+Name: assets/release/gear/helmetleather_113.png
+SHA1-Digest: Kp3PPCwewbI93cKpOA+tDIkMJ70=
+
+Name: assets/public/font/health.fnt
+SHA1-Digest: zoiB8DZOOwk06pG/7DRQTTV5gyc=
+
+Name: assets/public/config/levels/m51.xml
+SHA1-Digest: O+As7okBJ8c0cU14DEGULVYVbY8=
+
+Name: assets/release/spell/renew.png
+SHA1-Digest: XY6HyY2perfOnTSwdadJH0lVJTE=
+
+Name: assets/public/font/ru_cartoonist_45.fnt
+SHA1-Digest: 05oaEIAG5Cs4hoNCQwzBXR6whlA=
+
+Name: assets/sound_android/voice_06_Bishop.ogg
+SHA1-Digest: 4qcgqyLoquuMKvtlKcQiV8q4su0=
+
+Name: assets/release/gear/highpriest_113.png
+SHA1-Digest: pAeXw+jFV1LjiMMrE9jn9mRcrdU=
+
+Name: assets/release/gear/ring_109.png
+SHA1-Digest: vSFCAZ+xwetsx2twZNKABaBu4tE=
+
+Name: assets/release/gear/bishop_118.png
+SHA1-Digest: mDpqoGT7ZJ/I2OMuxx8t58tHaM0=
+
+Name: assets/release/spine_json/darknessUnit.json
+SHA1-Digest: +P4rw84FaRuSme7axlo6WjhQi/s=
+
+Name: assets/release/plist/heroStonTerraces.png
+SHA1-Digest: hkCaS9owgWWDb2BEjJUus3joOo0=
+
+Name: assets/public/config/story/story9-4.xml
+SHA1-Digest: QVKS61WfMZnstMytZn9ifum+4cg=
+
+Name: assets/release/spine_json/arcaneIntellectStart_down.json
+SHA1-Digest: EabserOaZwKXTKi1TKXLYhxysyo=
+
+Name: assets/sound_android/fire_convert.ogg
+SHA1-Digest: +TwAWv64r1Wn/w71jyQhavyRb5Y=
+
+Name: assets/release/spine_json/darkMirror_sky.json
+SHA1-Digest: 9pSoSW/361Ow6TR+oLXNIqPkHUU=
+
+Name: assets/release/spine_json/piranhaAttack_hit.json
+SHA1-Digest: KPtA0CIPYVcNBZ46y/0cN7m61Js=
+
+Name: assets/release/spine_json/witchAttack_hit.json
+SHA1-Digest: FN6A2HOfWeqaXfYGnRNAq9mGkoQ=
+
+Name: assets/release/gear/assassin_119.png
+SHA1-Digest: T4tip8/9m4e+L2hxOlHFvXjNWmU=
+
+Name: assets/release/gear/mage_107.png
+SHA1-Digest: rjgJElvfFzzKWTh6X4euXu/Kg3U=
+
+Name: assets/public/config/levels/m54.xml
+SHA1-Digest: vbZwt4a1uJKPpVXKOLCU5slExXo=
+
+Name: assets/release/gear/helmetleather_101.png
+SHA1-Digest: TFUw7NjUNLkeomSieY6h4wvPYHQ=
+
+Name: assets/release/plist/champion.png
+SHA1-Digest: Q+cKtwoFCCUmwgG8ic45ZJAKCyM=
+
+Name: assets/release/spine_json/pvp_windShield_up.json
+SHA1-Digest: jiI1WkwVk2R5PG5v4ZH6p1lvqas=
+
+Name: lib/armeabi/libNativeCrash.so
+SHA1-Digest: f3my+CoWRkTVHsySeUw54cW3cIw=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: 6A4FzX4yLNrUC550sx8KBd/4oK0=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_focus_light.9
+ .png
+SHA1-Digest: cGmUWqXB0JZAf6Sf+TVPkBkXD/s=
+
+Name: assets/sound_android/tear.ogg
+SHA1-Digest: dHFbJVqR+P3RUfbSGFHVzJAca3E=
+
+Name: assets/release/gear/berserker_117.png
+SHA1-Digest: hMtEeezbK6dQ8LGpxs3DD2W/OcA=
+
+Name: assets/release/spine_json/UI_map_point.json
+SHA1-Digest: qd/ex9CiU4WwByBaRaHWsXF+O48=
+
+Name: assets/sound_android/startBattle.ogg
+SHA1-Digest: jgvyjqcXaG/C1rSaXQLlwb5Jy4Y=
+
+Name: res/drawable/button_download.xml
+SHA1-Digest: A+q4d2kDwlYDJT50nm+2Lb712Qs=
+
+Name: assets/release/spine_json/angelForm_down.json
+SHA1-Digest: jRv0szqCIU7toqxI/H5QkzmAm1k=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_pressed_light.9.png
+SHA1-Digest: 2FyDcBF+AimgU1vBr5HYBzBaNAs=
+
+Name: assets/release/gear/warrior_104.png
+SHA1-Digest: LHtqpNUjH9RKgwQ88Y/70t8bl+E=
+
+Name: assets/release/gear/shoecloth_106.png
+SHA1-Digest: 4ND8292mP4zR6D+Tkc/S6VQmA0w=
+
+Name: assets/release/spine_json/arcaneIntellect.json
+SHA1-Digest: 5KCm1RxNXvfXjZ+i2j0/ZLyKlPw=
+
+Name: assets/public/config/levels/3-6.xml
+SHA1-Digest: OhDxWJt16r3r/O/oYQn6NoBbXzc=
+
+Name: assets/public/config/levels/1-4.xml
+SHA1-Digest: 1w97KaJD6AZr5g6fGaToChKb1g4=
+
+Name: assets/release/spine_json/gearRange_down.json
+SHA1-Digest: wJuODwFS5yYTUXap+QqQwlYk4RI=
+
+Name: assets/release/spine_json/musketeerAttack_start.json
+SHA1-Digest: pHEhGLT5zu1I2H7cUQi/tDqvvQs=
+
+Name: assets/release/gear/armorplate_104.png
+SHA1-Digest: OIuVL6BRjqJ2KPumNTrKHQGqwuU=
+
+Name: assets/release/spine_json/renew.json
+SHA1-Digest: mPsOVcDR1WHFTYywE8im3JQg5Es=
+
+Name: assets/release/plist/popupBuffSlot.plist
+SHA1-Digest: iuWnl+wOkhLY0QWg3TIKnYXRnwY=
+
+Name: assets/release/plist/heroForSell.plist
+SHA1-Digest: cNU5NaHAuLrcSlYI6kBTaOClSV8=
+
+Name: assets/release/gear/bishop_120.png
+SHA1-Digest: nkLh9Z/FupYlvmzgmmoz6pcJF30=
+
+Name: assets/release/spine_json/hunter_weapon_down.json
+SHA1-Digest: CgGU5s1sY7uOLXLmggsVJKLTf/4=
+
+Name: assets/release/plist/pvpBattle.plist
+SHA1-Digest: iWcs1BCQ0tvxTf6WV2LnKafTEMA=
+
+Name: assets/release/spine_json/UI_epicGear.json
+SHA1-Digest: dTpMnk59fADz0mIVx3kkV0qWDoM=
+
+Name: assets/public/config/levels/m83.xml
+SHA1-Digest: QWIF3RkHY4uVsdlp96/muETOnas=
+
+Name: assets/release/spell/passion.png
+SHA1-Digest: 7/UuvBWu0bO5QJXNdFA60RHX6q0=
+
+Name: assets/release/gear/musketeer_102.png
+SHA1-Digest: /KkGkeknzWaFKYYDfR+caRgQtls=
+
+Name: assets/release/spine_json/prince.json
+SHA1-Digest: zN+J1VkU+A+LYNr47Q+RTC04pQ0=
+
+Name: assets/public/config/story/story7-1.xml
+SHA1-Digest: o+WwoGQu4QjLdhOBtM9KtvO/Ksw=
+
+Name: assets/public/config/levels/9-6.xml
+SHA1-Digest: afOB22xF7pXGw5C6PnFBxpKlbWY=
+
+Name: assets/public/config/levels/8-7.xml
+SHA1-Digest: uknHQBlgjTNe1jSh/vxkCul3NCM=
+
+Name: assets/release/spine_json/pvp_arcaneExplosion.json
+SHA1-Digest: NG1ZUHbHqby1rZq0OPI06zgBMAw=
+
+Name: assets/public/config/levels/mdt1.xml
+SHA1-Digest: uUvbBCy8ZwqueIpRcQMMTeLn+P8=
+
+Name: assets/release/gear/beltcloth_111.png
+SHA1-Digest: EZ9Q5MphlHOMJuuBghBH0LICDkU=
+
+Name: assets/release/gear/ring_101.png
+SHA1-Digest: e+eI0a2KD9oSxbF5/U0llOFuyas=
+
+Name: assets/release/plist/centaur.plist
+SHA1-Digest: x01dOyVbBcEP+Rmp410CZ/LJ4ak=
+
+Name: assets/public/config/story/story7-10End.xml
+SHA1-Digest: k0NhzWR4FGMuZsjBpVrS6yqwuTg=
+
+Name: assets/release/map/story_map_0.png
+SHA1-Digest: HedyANjryeibmcEKjyGlMCh5TtY=
+
+Name: assets/release/gear/shoeleather_107.png
+SHA1-Digest: 680Q3dpJkIujtYbl8SZOw1UuQTc=
+
+Name: assets/release/spine_json/quicksand.json
+SHA1-Digest: uDM3J4yaF33D04Gvnq2DMhpJPFY=
+
+Name: assets/release/gear/cloak_102.png
+SHA1-Digest: TgmkGPfhCgytAZjLmMMYk00yWR8=
+
+Name: assets/release/spine_json/venom.json
+SHA1-Digest: 7xYIorgW37TsHSzFWRW8/Z542h0=
+
+Name: assets/release/plist/popupLadderRank.png
+SHA1-Digest: gw8d4oif/Ef+BNdB9a7wf1mbXMk=
+
+Name: assets/release/map/scene_2_5.png
+SHA1-Digest: /b0F64Gux/cJRC/Qlg0P8eNMQR0=
+
+Name: assets/release/plist/cards.plist
+SHA1-Digest: qRZu71TpFiyhLZZ/ueVTPDD2ioM=
+
+Name: assets/release/spine_json/cirrus_up.json
+SHA1-Digest: yIFsA0vq3BopZC5/LWBdVYE1jYY=
+
+Name: assets/release/spell/aura_of_blessing.png
+SHA1-Digest: 5iPK2RZdFE2DOBOzHuSAwagW/Ys=
+
+Name: assets/public/config/story/story8-2End.xml
+SHA1-Digest: WakaNU764fBw20DR/60lL/7T65c=
+
+Name: assets/release/spine_json/orc_commander.json
+SHA1-Digest: Dxqv7VpwfBsUTSzdHQjrTGINylA=
+
+Name: assets/release/map/scene_9_4.png
+SHA1-Digest: 2xY6tm6ZAXjDLmg5y08m/c44P4A=
+
+Name: assets/public/config/story/rookieGuide-2.xml
+SHA1-Digest: 9wsPb63u5/8BY5XhdgucHE0fFC4=
+
+Name: assets/public/config/levels/m52.xml
+SHA1-Digest: cgVIxGLj8F6hYtz2t/nJ8HAgs3Y=
+
+Name: assets/release/spine_json/darkdakarai.json
+SHA1-Digest: LZb+9IJ0VdiryAQdRoztthx+bD0=
+
+Name: assets/release/plist/demon_guard.plist
+SHA1-Digest: 7DYZAjxnKWE8Pga3rv4IUjM9oSo=
+
+Name: assets/release/map/scene_8_4.png
+SHA1-Digest: KljWk5kjBsPk0w1srWJsw87ufhM=
+
+Name: assets/release/gear/paladin_111.png
+SHA1-Digest: vM9mNShfw0fhcTLfW6lcCFcPcbM=
+
+Name: assets/release/gear/priest_101.png
+SHA1-Digest: +F6JDsbDQlGa/WLbu/rcZbCI7Kw=
+
+Name: assets/release/plist/demon_guard.png
+SHA1-Digest: /FmsHcSy4FsTGSUlK60Cn2KgVGY=
+
+Name: assets/release/spine_json/thiefAward_box.json
+SHA1-Digest: E//Tz3ZGxkdkzpIjgBwS8+utUII=
+
+Name: assets/release/spell/spell_upgrade_magic_detonate.png
+SHA1-Digest: sksNXsFTmIG+jt0YWNF9bB1bU7A=
+
+Name: assets/sound_android/attackByStaff2.ogg
+SHA1-Digest: im8t0qxxox6WVrdZgwkVSnirug0=
+
+Name: assets/release/plist/weapon_dagger.png
+SHA1-Digest: VmKXyMwVN09BrBFUoZooln+WfII=
+
+Name: assets/sound_android/holyBlot.ogg
+SHA1-Digest: Q/P13MYd/Jke51ZAKKVjIHnU2QI=
+
+Name: assets/release/gear/armorcloth_109.png
+SHA1-Digest: xduN3rUhhUka8EzR6NpdFoVNW+w=
+
+Name: assets/release/spell/spell_upgrade_soul_gathering.png
+SHA1-Digest: YtjvpFLhML6SHlH9yK7CNQm5lGA=
+
+Name: assets/release/spine_json/UI_transferShine.json
+SHA1-Digest: UW1MFxb9hJehJron1C4eahcLx4A=
+
+Name: assets/release/gear/ranger_103.png
+SHA1-Digest: oHAmo2SpBKH5gVcHHEfj5v5234U=
+
+Name: assets/release/gear/helmetcloth_113.png
+SHA1-Digest: sm5f1DNbY39z50u8SxtGihA6rRE=
+
+Name: assets/release/plist/weapon_gun.png
+SHA1-Digest: Vij8TFWEj7d6WjfLbpvaN9bwZeQ=
+
+Name: assets/release/spine_json/UI_upgrade.json
+SHA1-Digest: rsbZlc6fhSTWLOU7t0uDdhtjI1Y=
+
+Name: assets/release/plist/merlin.plist
+SHA1-Digest: 5Z2zc7v1uKlKrfvf6tW1RwtFhSI=
+
+Name: assets/public/config/string/ru.xml
+SHA1-Digest: +BxJS0I67G92nPqq60oBMp6veZ8=
+
+Name: assets/release/spine_json/lifeDrain_hit.json
+SHA1-Digest: BQy0KY/koytjsySGrDhJY9nPZzE=
+
+Name: assets/release/gear/helmetplate_108.png
+SHA1-Digest: iptOV/u8HaCGpNQJb+WiPGloW0M=
+
+Name: assets/release/plist/twine.plist
+SHA1-Digest: l/czElVcv9+ScdqXLSGxwbOeOzM=
+
+Name: assets/release/gear/hunter_102.png
+SHA1-Digest: OLJnuIdX7+ixagl0FsBi1WpZafg=
+
+Name: assets/release/spine_json/totem_start_up.json
+SHA1-Digest: eor4E8VEkn828Sb+7UbGgU5lmjU=
+
+Name: assets/release/plist/promotingHint.plist
+SHA1-Digest: Nc0zgjS3763Abr5s8QYjPl0JNC0=
+
+Name: assets/release/plist/pvpBattle_stateClean.plist
+SHA1-Digest: 5PE1knh1mw9rFCHTf4gpy9qqdCw=
+
+Name: assets/release/plist/worldboss.plist
+SHA1-Digest: 3Sq85mLgI3CDKY1MY97Htk000mo=
+
+Name: assets/release/gear/bishop_119.png
+SHA1-Digest: 8GMpZ6PyajcJ4SlA4P8JQeFEW5M=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png
+SHA1-Digest: wghq+1n+225g42NomeJBVq1asbA=
+
+Name: assets/release/gear/wizard_101.png
+SHA1-Digest: VaJdAJ13y+Hy51IBbq0jWZc2S10=
+
+Name: assets/release/gear/berserker_104.png
+SHA1-Digest: 6N1CyEMgCUYYkpK1jrwlVk6/JiY=
+
+Name: assets/release/gear/armorcloth_101.png
+SHA1-Digest: SK5RP9st9F585fz7f8/Io8wip0k=
+
+Name: assets/release/gear/paladin_109.png
+SHA1-Digest: ZlOFfJrHn14G1UGquIocSh/CNH4=
+
+Name: res/drawable-hdpi/ic_plusone_standard_off_client.png
+SHA1-Digest: NhC9xcXAAQrg4plGFPNJyT9d0Wk=
+
+Name: assets/release/plist/bear.png
+SHA1-Digest: X4Xk9UaK479S8lq6sf2GcatYRHU=
+
+Name: assets/release/gear/paladin_102.png
+SHA1-Digest: AAC5heQUpKo6Kac2FJg+KxfoZJg=
+
+Name: assets/release/gear/shoeleather_103.png
+SHA1-Digest: Xoo79BchQ8ItkeTR60pm4M6fMOo=
+
+Name: assets/release/gear/wizard_117.png
+SHA1-Digest: 0auaVVZ9+AAC2uGD60XObjo2rkg=
+
+Name: assets/release/gear/armorcloth_122.png
+SHA1-Digest: fbkrmo8dDltG4IKV8sDU+TP3lJU=
+
+Name: assets/release/gear/beltleather_108.png
+SHA1-Digest: RYVyBf+WC1vWjREAqP4kNnSuoNA=
+
+Name: assets/release/gear/mage_109.png
+SHA1-Digest: oz5Mk/S2ty8kK8NpJ311ocv75Og=
+
+Name: assets/release/spell/medic_master.png
+SHA1-Digest: TJky/bNCITMlR/yK5V453+YKnqk=
+
+Name: assets/release/spine_json/priest.json
+SHA1-Digest: UQl+2nzIPr/SeJj7zzZlR6tXcnA=
+
+Name: assets/release/plist/orc_commander.png
+SHA1-Digest: Ci/D4v1TY5C0jfJJybWN7uJdrCw=
+
+Name: assets/release/plist/cards.png
+SHA1-Digest: sNairD3/lFT/AHC4rpXtLiqvRQw=
+
+Name: assets/sound_android/drag.ogg
+SHA1-Digest: OIkqnSFaYKjF+5313CERxU/uIh4=
+
+Name: assets/release/gear/mage_102.png
+SHA1-Digest: h1whXSW7LAJZArmgvye9uYKBQQs=
+
+Name: assets/release/gear/helmetplate_111.png
+SHA1-Digest: C1RYEeuTXXr087Om/ZVI9WJixWM=
+
+Name: assets/release/spell/focus.png
+SHA1-Digest: CZ/8LcUPeu8Hj5+dmbE49jlf8eY=
+
+Name: assets/release/gear/helmetleather_103.png
+SHA1-Digest: 2VUX8T4SimhTw224sk77KCuNBnI=
+
+Name: assets/release/spine_json/orc_rider.json
+SHA1-Digest: rjVeqTvRyEylRW+P+dNWFcNIvxw=
+
+Name: assets/release/spine_json/UI_home.json
+SHA1-Digest: 5AFpIju+BpBFgtlPtss2b/bgHv0=
+
+Name: assets/release/map/story_map_2_0.png
+SHA1-Digest: mBpCVHZkvC00UNxk3W9h//avDDI=
+
+Name: res/drawable-mdpi/powered_by_google_light.png
+SHA1-Digest: Yx79BQZj1icsvT6W7gST5XweJGU=
+
+Name: assets/release/plist/public0.png
+SHA1-Digest: i1+O/Mxo/DAAK95VOWnBxT/CjUE=
+
+Name: assets/public/config/levels/6-5.xml
+SHA1-Digest: yPZf21pCSXeGez/fky+sQmh1aos=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_normal_dark.9.png
+SHA1-Digest: fo9mhTTON+2P+pn3WbyuJPIt3aM=
+
+Name: assets/release/spine_json/bearAttack.json
+SHA1-Digest: WsZdcZtj16hB1+OiUk+jl2BXiRM=
+
+Name: assets/release/plist/sylvagaunt.plist
+SHA1-Digest: U6NkHx+EqN5qIa4/WYz49QcZLIg=
+
+Name: assets/public/font/rank.png
+SHA1-Digest: ltn1l4aRB1W0C6xVYSS6SdQRU6g=
+
+Name: assets/release/spine_json/bloodFever.json
+SHA1-Digest: zuVACLBnNqshcOxAzdMESjq/ZZk=
+
+Name: assets/release/spell/spell_upgrade_lions_roar.png
+SHA1-Digest: LZj95M9Dv1bklCBeOUOnEFWKbhY=
+
+Name: res/drawable-xhdpi/common_signin_btn_text_disabled_dark.9.png
+SHA1-Digest: +AzbOMCoOhPc1BU3P9f5v5SGwpk=
+
+Name: assets/release/spine_json/blinkElfin.json
+SHA1-Digest: bRUEqZoE91aUOBIRHuXKa3LCrCA=
+
+Name: assets/release/gear/armorplate_113.png
+SHA1-Digest: Ke8Bt7s4qJdbQdgRnDW611DW9mg=
+
+Name: assets/release/plist/wood.plist
+SHA1-Digest: wGlkK+qG8aeexDKihLtFRwMAx/I=
+
+Name: assets/release/gear/shoeleather_101.png
+SHA1-Digest: tZEhZEFDyJ3TVTM8hiMx2z3G9io=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: nSdZgNpsGPqgTqzljIKY11fxzd0=
+
+Name: assets/public/config/achievement.xml
+SHA1-Digest: rmQ/u58IXGeqOvl5StoQTicx1o4=
+
+Name: assets/release/plist/ladderField.png
+SHA1-Digest: xOHvgPXWQAAYLDJJeE5t2FfaXmw=
+
+Name: assets/release/gear/berserker_120.png
+SHA1-Digest: SdxvF4xRGb5z18s3Ys+d0MPOubY=
+
+Name: assets/release/plist/sand_worm.png
+SHA1-Digest: 2cPd6gKMxR36thgn1Zw1nVq+h/w=
+
+Name: assets/sound_android/auraOfMystery.ogg
+SHA1-Digest: 0/vSLFNZI9pChQxBtW0pwt6MIug=
+
+Name: assets/release/spine_json/UI_energy.json
+SHA1-Digest: yDbKD+UzNgLjs6wXrhoNWaLaTJI=
+
+Name: assets/release/plist/home0.png
+SHA1-Digest: QDckiF6xuVs/XXODZ3IS6Lh7unA=
+
+Name: assets/release/gear/ranger_109.png
+SHA1-Digest: nimuCXyBar4oyXN9AWKRrhK99Tk=
+
+Name: assets/release/spine_json/angel.json
+SHA1-Digest: J7cai8/L65OZpMmsBgzG4Lc+1rQ=
+
+Name: assets/public/config/story/story5-3.xml
+SHA1-Digest: mgVf/zZmMKrpXQ/MT+ezfK6r2kE=
+
+Name: assets/release/spine_json/UI_score_point.json
+SHA1-Digest: uuCTiP4shV2gn9gjax12tgD7BiI=
+
+Name: assets/release/spine_json/alchemistBomb_hit_up.json
+SHA1-Digest: lkfN4W/d8OaA5NvW5ilCz7I0/eU=
+
+Name: assets/release/spell/spell_upgrade_sunder_armor.png
+SHA1-Digest: aF3rXO26/C7iUbfBl4zkJcKyAQk=
+
+Name: assets/release/spine_json/angelSummoning.json
+SHA1-Digest: GlOxUBBM4wcNyY2pP4qtWrA+5Go=
+
+Name: assets/release/plist/piranha_king.png
+SHA1-Digest: wlonawxilUqSBKkD+vspGo+6xU0=
+
+Name: assets/release/spell/incendiary.png
+SHA1-Digest: nqHx+xct4qVzSXv2Cpti0+P61e4=
+
+Name: res/drawable-hdpi/featured_frame_close_b.png
+SHA1-Digest: 47ZMVHC+dumPT+X2dIpJGW/G780=
+
+Name: assets/public/config/levels/7-3.xml
+SHA1-Digest: ojLep054QL2ydpTj1ULCAO1UiZ8=
+
+Name: assets/public/font/sk_angrybirds_26.png
+SHA1-Digest: q/PG9GYRT3JZGLNVUdGkj3Qx7RM=
+
+Name: assets/release/plist/prince.png
+SHA1-Digest: Q1Xtj4jciXMgLy2cfhCN7vKUNu4=
+
+Name: assets/release/spine_json/holyBlot.json
+SHA1-Digest: 2gNosndCh8xIiOSjjMITBYmyWUc=
+
+Name: assets/release/spell/spell_upgrade_kill_shot.png
+SHA1-Digest: TId8pGYydDXDM1EVbxOWloiXNw8=
+
+Name: assets/public/font/sk_cartoonist_28.fnt
+SHA1-Digest: n5bEnSyCcb5shdwS9VD2np9sTtI=
+
+Name: assets/release/spine_json/gulp_down.json
+SHA1-Digest: dDlKU0g0ooRvNXil5d5R7xyvyQ8=
+
+Name: assets/sound_android/death_coil.ogg
+SHA1-Digest: WUpyAmTKIxcNd4c/M3FMgoveIIM=
+
+Name: lib/armeabi/libgetuiext.so
+SHA1-Digest: wS1nxYxacVTf7FEGon5fiGyPauQ=
+
+Name: assets/release/plist/dakarai.plist
+SHA1-Digest: MaaFwzDL/mhq/UPcSRobIwPtRnk=
+
+Name: assets/release/spell/thunder.png
+SHA1-Digest: FQpOJ10dZbtzsSkGNePNQyBuobo=
+
+Name: assets/public/config/story/story6-10Begin.xml
+SHA1-Digest: qQ9YZNxfzLnWlMxBgbnhbazxu/8=
+
+Name: assets/public/config/levels/4-8.xml
+SHA1-Digest: /lVeNmSONrgERA9Qf+jl1J9lnrs=
+
+Name: assets/release/plist/rankInfoBg.plist
+SHA1-Digest: uEayxbLqvg2xncDZBpZuH8IanbA=
+
+Name: assets/public/config/levels/9-2.xml
+SHA1-Digest: 8cYa8EpU5OJGAY4foqXQTdksUkc=
+
+Name: assets/release/gear/beltplate_105.png
+SHA1-Digest: peS8PL1uYHIiAqdRV7PkuvJqvbM=
+
+Name: assets/release/spine_json/beholder.json
+SHA1-Digest: MB3isGdLohukMGFoEQAR6U2tw3U=
+
+Name: assets/release/spell/taunt.png
+SHA1-Digest: guBB/th7o70idaQ2CvDipISthdE=
+
+Name: assets/sound_android/attackByStab2.ogg
+SHA1-Digest: krnSvRedWQjaVvyLELdg9oHC93M=
+
+Name: res/drawable-mdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: Ny6NCouMD/K+C9NEl7O5JbfBYGU=
+
+Name: assets/release/spell/fighting_wish.png
+SHA1-Digest: ZhPpy2++DuxhzIkVeUm74aqUIgg=
+
+Name: assets/release/gear/ranger_116.png
+SHA1-Digest: sqp7MIpvifikIoNdOqrpPvZg4TY=
+
+Name: assets/release/plist/weapon_wand.plist
+SHA1-Digest: f4o8Sd0v40IA6Zm9ChNN300m7XI=
+
+Name: assets/release/plist/merlin.png
+SHA1-Digest: l/a+rfMHkApVonM1UknSbdwGal4=
+
+Name: assets/public/config/levels/m35.xml
+SHA1-Digest: m4y+Ap8LMwPC5NSuzoviZCjjCIY=
+
+Name: assets/release/plist/pvpBattle_arcaneExplosion.png
+SHA1-Digest: 5jTALoWtdts/7TEx8PFIuJHcYWk=
+
+Name: assets/release/plist/chapterEffect.png
+SHA1-Digest: 03IG7mpVSdgFuyUCYMzxBKxtXRM=
+
+Name: assets/public/config/story/story5-6.xml
+SHA1-Digest: TE4ACutomQIcuZiAcQwJh2qhzds=
+
+Name: assets/release/gear/shoecloth_100.png
+SHA1-Digest: /mPP11DlKW2h/mkJSQHg05X3nDo=
+
+Name: assets/release/gear/bishop_105.png
+SHA1-Digest: LUi0sG9rnFELUefIK6JKyYCZovQ=
+
+Name: assets/public/config/levels/mf7.xml
+SHA1-Digest: kEJn8FTOryAi7P0FUZeDyxsSwfI=
+
+Name: assets/release/spine_json/sandpile.json
+SHA1-Digest: pcf6ZyJrVUqn7YoFQbswMtJ2eDk=
+
+Name: assets/release/gear/beltcloth_108.png
+SHA1-Digest: dW0qKxkdqVTt/Sw7C9ssiTRjM6k=
+
+Name: assets/release/gear/ranger_119.png
+SHA1-Digest: 67XiwtUQxY0sBX5k/QBQQyY//jo=
+
+Name: assets/release/gear/armorleather_113.png
+SHA1-Digest: NLIckF5aqjE3Ugz3+TQBK50bhGk=
+
+Name: assets/public/config/story/story7-5.xml
+SHA1-Digest: 73cOxNIv4y61ewQsGU34nz1IeeQ=
+
+Name: assets/release/gear/windwalker_103.png
+SHA1-Digest: p6iE915qUQw0uXLst5DAD9GOXZs=
+
+Name: assets/release/spine_json/map_icon_rotate.json
+SHA1-Digest: SHiTTG5sHo6ibm8MZIWc/GsHf14=
+
+Name: assets/release/spine_json/dragon.json
+SHA1-Digest: d7gvSTIu41zjgi2ttlJRUd5xmyo=
+
+Name: assets/release/plist/succubus.png
+SHA1-Digest: UGfrQWpy9NqiTriGHHNzkHDCCgU=
+
+Name: assets/release/gear/ranger_113.png
+SHA1-Digest: SiFDZ5A5s6ZEtYhE8htHrA0VHFg=
+
+Name: assets/public/font/health.png
+SHA1-Digest: 1CzJrc2tiZ6xU68745cowsI3vV0=
+
+Name: assets/release/gear/helmetplate_105.png
+SHA1-Digest: Hjha4sqOeu2IWMVyK+yi02dHxJI=
+
+Name: assets/release/spine_json/sandwormAttack_hit.json
+SHA1-Digest: 6z6kPRhol6P/YqmiTE8MpQh1/ag=
+
+Name: assets/sound_android/attackByStaff3.ogg
+SHA1-Digest: tu4rCyLFcUxJsXbWMmy+gxgPVxA=
+
+Name: assets/release/spell/throwing_daggers.png
+SHA1-Digest: BzsaICrAumYhDpdYwGGl2Z/9Uas=
+
+Name: assets/release/gear/scout_107.png
+SHA1-Digest: SGGqd6WxRfUIaS2feo95/K9B1UA=
+
+Name: assets/release/spine_json/sandwormAttack_fly.json
+SHA1-Digest: UfDrdynrCJJI7TE03IsPi6SKxDI=
+
+Name: assets/sound_android/kurbash.ogg
+SHA1-Digest: 0nYhxHugjGT54nmmYyBgdX+X+FI=
+
+Name: assets/release/gear/armorleather_117.png
+SHA1-Digest: DiIrytNn3t7IL9IKS0tPw11Havk=
+
+Name: js/closebutton.html
+SHA1-Digest: t5nJ6zvHmW2dBHvQlxpMC3f+cPQ=
+
+Name: assets/release/spine_json/pvp_stateClean_hit.json
+SHA1-Digest: iKPTc3+75XJMrK3EscwhcW7RcmE=
+
+Name: assets/sound_android/fenrirBlink.ogg
+SHA1-Digest: vCxz6dMDtaMglgrnmTupnHifm7k=
+
+Name: assets/public/config/levels/mk2.xml
+SHA1-Digest: 0By6Yx4l/szFaOtrUtTEKFubgS0=
+
+Name: assets/release/map/team_roster_bg.png
+SHA1-Digest: i5UBLmcWtN/EEhXOIFQ7eHQJCrA=
+
+Name: assets/public/config/levels/2-10.xml
+SHA1-Digest: 5nZlgNdImMUA5YUuziPXStpK+SY=
+
+Name: assets/public/config/levels/4-10.xml
+SHA1-Digest: QdxU2KpBgquZ9/BmyRw+ORXz+i8=
+
+Name: assets/release/spine_json/worldbossInfoBg.json
+SHA1-Digest: 4+MZzW1nzrQp2a/+DGGBoqiegQE=
+
+Name: assets/public/config/levels/2-7.xml
+SHA1-Digest: qz0EKzb3KigCtaclR2xDNQWyFWo=
+
+Name: assets/public/config/story/story3-10Begin.xml
+SHA1-Digest: gDSAuw6hxaBPZZWopSJ/KfThUBk=
+
+Name: assets/release/spine_json/bloodlust_hit.json
+SHA1-Digest: M9I0pGWhqoPzozgsQFQA43IHYxM=
+
+Name: assets/public/config/levels/1-2.xml
+SHA1-Digest: 2kt21JYJpHdDJbcWalFmKUQN674=
+
+Name: assets/public/config/levels/3-7.xml
+SHA1-Digest: XxAX0TvMYPrYR/yBOhuWKLrlfmE=
+
+Name: assets/release/map/homemap_bg_top_2.png
+SHA1-Digest: d7Yw12FNyHpBI8AAuudw46nhOC8=
+
+Name: assets/release/gear/berserker_118.png
+SHA1-Digest: SYFNDxE/02YCyCE6H+teXO3uCN4=
+
+Name: assets/release/plist/usPublic.png
+SHA1-Digest: 457SRvW6eYHPEpF3rLCzd4hIzHY=
+
+Name: assets/sound_android/thunder_hit2.ogg
+SHA1-Digest: NSmlXXWYobFZ4zY8TXmorrhjN60=
+
+Name: assets/release/spine_json/powerfulShot_start.json
+SHA1-Digest: 35VwgkxiT1IHFvq2T8PkLyC+mAQ=
+
+Name: assets/release/spine_json/pvp_silence_start.json
+SHA1-Digest: SvKjqCR74cQiu6GTis+WvY/AspE=
+
+Name: assets/release/gear/shoeplate_101.png
+SHA1-Digest: KqsMniD1V8hBDxb11AvCu4WGTSc=
+
+Name: assets/release/spine_json/map_icon_conquer.json
+SHA1-Digest: 6K+7fGhyQfMO1ZW7ardKr5E9yok=
+
+Name: assets/release/gear/helmetplate_100.png
+SHA1-Digest: YD/1XgRzP6OQb++VoqFQ8aj8NOY=
+
+Name: assets/release/gear/shoecloth_105.png
+SHA1-Digest: fHsLgNYFeAQROTAfxvEwnHfNmBw=
+
+Name: assets/release/spine_json/mightySwing.json
+SHA1-Digest: 40XIUK1wnFLVlkJB6333o+yMyE4=
+
+Name: res/drawable-hdpi/powered_by_google_dark.png
+SHA1-Digest: bUnEnOCASp1xefj7ITOXi8iwFJ4=
+
+Name: assets/release/spine_json/cousin.json
+SHA1-Digest: UA6KgfgGnattWf8QVIQuuN1rElU=
+
+Name: assets/public/config/levels/mf4.xml
+SHA1-Digest: 7Fdp+5lN0+m/6/3RboShp1URqWo=
+
+Name: res/drawable-hdpi/common_signin_btn_text_disabled_focus_dark.9.p
+ ng
+SHA1-Digest: M8/oLYLgw6eflPAc78JOedtY7nw=
+
+Name: assets/sound_android/angelForm.ogg
+SHA1-Digest: MyzuKJhppl3SDS54IJQryz2ZqQE=
+
+Name: assets/release/gear/beltplate_110.png
+SHA1-Digest: g/QvrfVWTFOZJCm9yGwOdkjVNZ4=
+
+Name: assets/release/spine_json/casterAttack_start.json
+SHA1-Digest: NGM+a5efSJVH+YHbYADJYbrqAls=
+
+Name: assets/release/gear/armorplate_116.png
+SHA1-Digest: shrKCvGDTFHYL+VnWwDpvOdXXxQ=
+
+Name: assets/release/plist/achievement.plist
+SHA1-Digest: axwfwltPR+YPXyvTzoQlJGRl5MI=
+
+Name: assets/release/plist/home1.plist
+SHA1-Digest: YyZAF27KSgZp1hF+L0B0CpcNJo0=
+
+Name: assets/release/gear/assassin_112.png
+SHA1-Digest: w2Mj16p0jz4a7Q0sepFBnwCQSAk=
+
+Name: assets/release/plist/popupRookie.png
+SHA1-Digest: uk4jo8fAlQyMq5ZSP5msWj2gel8=
+
+Name: res/drawable-hdpi/common_signin_btn_text_normal_light.9.png
+SHA1-Digest: 3deWsrqD8SKtrToeWRXE3onNeYY=
+
+Name: assets/release/spell/spell_upgrade_holy_blot.png
+SHA1-Digest: 3wqrd/Sq4Rka7ooLvN1TaZJJMSw=
+
+Name: resources.arsc
+SHA1-Digest: dUxz5VtQsU9Z0+/TmdckyMzi4UQ=
+
+Name: assets/release/spine_json/arcaneIntellectStart_up.json
+SHA1-Digest: hvm0XbaqEQp3yiLDClIrZAtaQxM=
+
+Name: assets/release/gear/assassin_103.png
+SHA1-Digest: zFhYQHXL+y842/OB3eae4dPYFl8=
+
+Name: assets/release/spell/ice_nova.png
+SHA1-Digest: dWqH7AD8EMxBJTfBNhfrQSQsyyU=
+
+Name: assets/release/plist/popupEvents.png
+SHA1-Digest: m1miXCUpSd3qQB4s+xWNAPn9cTo=
+
+Name: res/drawable-hdpi/common_signin_btn_text_pressed_light.9.png
+SHA1-Digest: kB3RXWlJiEo+Ef9dgTuowQDkDgM=
+
+Name: assets/release/spine_json/attackByChampion.json
+SHA1-Digest: kLyz8qV2vg/OE3BxYzjuDY8tsuo=
+
+Name: assets/release/spell/gold_digger.png
+SHA1-Digest: SHE3U38pXef4f4Xqh1xw/Hmqrxo=
+
+Name: assets/release/plist/chat.png
+SHA1-Digest: YJN8wojHu2fTCsUWtoANPz0H79g=
+
+Name: res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: hvij9qGmWAPCJqFVptwVTuyRWoI=
+
+Name: res/drawable-xxhdpi/icon.png
+SHA1-Digest: KMHD98sn2M09Y9mUUm9ET0wZjwk=
+
+Name: assets/release/spine_json/battleText.json
+SHA1-Digest: I5RI9NIuUDv+t3mi+4kxPVkT9Yc=
+
+Name: assets/release/plist/pvpBattle_steal.png
+SHA1-Digest: iD2c3wUE+xoB0ZktZJI+8qWaGTs=
+
+Name: assets/sound_android/magnetic.ogg
+SHA1-Digest: viuMq8obnkwVrAlfLG8EfX+mJvk=
+
+Name: assets/release/plist/totem_lightening.png
+SHA1-Digest: tRSJzjGuqoLBpxnz53fIujvWd/E=
+
+Name: assets/vg_mute_off.png
+SHA1-Digest: u+yTA/0R1LKZ5nN3PwSjhPJWgXM=
+
+Name: assets/release/plist/revive.png
+SHA1-Digest: LPNE4MsB7Le/Lt2yyZ2VtfwG3wQ=
+
+Name: assets/release/map/scene_3_2.png
+SHA1-Digest: uSe1b8aT04mM+/G/haUy3pscSsc=
+
+Name: assets/public/config/levels/9-9.xml
+SHA1-Digest: RCbpIUNq3rZ0anp111yhzJl6hFM=
+
+Name: res/drawable-hdpi/common_signin_btn_icon_disabled_light.9.png
+SHA1-Digest: hDGrMjFV+Q1QPeW6kJWzL1HmWL4=
+
+Name: assets/release/spine_json/holyImpulse_hit.json
+SHA1-Digest: ONyHBS+oPLu16xAIu/13441dDCQ=
+
+Name: assets/sound_android/seal_end.ogg
+SHA1-Digest: Iy1Y8YG9LTqms+k+XGy0vBZ+3tc=
+
+Name: assets/release/spell/spell_upgrade_shotgun.png
+SHA1-Digest: 9IzW/tZFV84e8/V5cgLmPoR3NmI=
+
+Name: assets/release/gear/helmetplate_112.png
+SHA1-Digest: SRyj59uGgrseHCJzbiVJBr0D2u0=
+
+Name: res/drawable/common_signin_btn_text_dark.xml
+SHA1-Digest: 4r8elVTKBNpb0dSQhM3aT9VaI9s=
+
+Name: assets/release/gear/scout_105.png
+SHA1-Digest: NpV/LVTHiUgC1P/XhCVUKJG7tW4=
+
+Name: res/drawable/icon.png
+SHA1-Digest: abEiTu93hDmK5eo0L+X5pzFACbE=
+
+Name: assets/release/spine_json/witch.json
+SHA1-Digest: Jpz/tSRxoZQtj9xUB+YLRDKfG9U=
+
+Name: assets/release/plist/dog.plist
+SHA1-Digest: AyiyXdBI4ly6U50qezqdiy7mCbg=
+
+Name: assets/sound_android/attackByHammer2.ogg
+SHA1-Digest: sVouUkQXkmwobpsUQWCbqz3FwFs=
+
+Name: assets/release/plist/ui1.png
+SHA1-Digest: mwlgC3jHzyaBZnKHFyJ2KdJGMHw=
+
+Name: assets/release/plist/battle2.png
+SHA1-Digest: PYMyH4/CrjvYiOuC6N6weviFDVU=
+
+Name: assets/release/spine_json/ranger_weapon_down.json
+SHA1-Digest: FiTSd+sI4AG+eBZvqs7U7ObxOzQ=
+
+Name: assets/public/font/angrybirds_26.fnt
+SHA1-Digest: 2zKsMHI5yMrLBgVmcAsSY21vqmU=
+
+Name: assets/release/plist/hireHero.plist
+SHA1-Digest: j/o+Be2LlAPycJMFNi5OUgfX0Q0=
+
+Name: assets/public/config/levels/m11.xml
+SHA1-Digest: 7vCH8V9+jnruac9qDUgURtaKT28=
+
+Name: assets/public/config/levels/mdkt3.xml
+SHA1-Digest: E8oG8LXHKKR7LA87aHQnO12yBnw=
+
+Name: assets/release/gear/armorcloth_115.png
+SHA1-Digest: U33oDWZh6xVsrVhhcBjavEwpnSk=
+
+Name: assets/public/config/levels/8-5.xml
+SHA1-Digest: bNwGzcAm2PSiOapGBDleY7fj5H0=
+
+Name: assets/public/config/levels/3-10.xml
+SHA1-Digest: YdPfhvHF38gEvHB8Nf49jt09cGQ=
+
+Name: assets/release/gear/paladin_110.png
+SHA1-Digest: lqQvoAuNbbBJiU+I7yP8wI769y4=
+
+Name: assets/release/spell/spell_upgrade_grenade.png
+SHA1-Digest: 1lp45X8rQyD35mZO9fXjsg9ao5M=
+
+Name: assets/release/gear/mage_110.png
+SHA1-Digest: mZwxuteCVWKIFcRpD0GAo0gQgSo=
+
+Name: assets/sound_android/Boss1_drop_chain_loop.ogg
+SHA1-Digest: ElkVs1d+KUuGR4end2Nid5RWxyI=
+
+Name: assets/public/config/string/us.xml
+SHA1-Digest: vUM9u2rVWGya4gHM5usWy4ajzuA=
+
+Name: assets/release/gear/paladin_121.png
+SHA1-Digest: ca2Lf1kpRmfynyrYTYTVW1/JLSo=
+
+Name: assets/release/gear/armorleather_107.png
+SHA1-Digest: tHG+8w/+RCKngC3ZapKDboDOS3E=
+
+Name: res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png
+SHA1-Digest: e+Yu+mXRMQJmDaK6PjiOP5g6JTg=
+
+Name: assets/release/gear/warrior_101.png
+SHA1-Digest: 1zNf9DJuPhl0lcsWIvd3uEIk3Gw=
+
+Name: assets/release/spine_json/priestHeal_hit.json
+SHA1-Digest: oHeOLiouJrD8n9VajYQBKV/PMT8=
+
+Name: assets/public/config/levels/8-2.xml
+SHA1-Digest: ePJVxtuevOVVWXN9O7v0blohkIo=
+
+Name: assets/release/spine_json/UI_fastBattleLevelUp.json
+SHA1-Digest: 4IltVLxgNXiw43V5EFXTEUKhmUY=
+
+Name: assets/public/config/levels/endless-7.xml
+SHA1-Digest: TBDEGOxbf4LWEU9L2cfD6jXqhPI=
+
+Name: assets/release/plist/alchemist.plist
+SHA1-Digest: 1s12dkkvYdqg+7wTil1SbezwJo4=
+
+Name: assets/public/config/story/story1-6.xml
+SHA1-Digest: T4keuguvnJuqCmF9tq4DQPA3ogg=
+
+Name: assets/release/spine_json/mysticstore_bunny.json
+SHA1-Digest: yvPP5g8zyW6bA6C7CcsJWGM07ME=
+
+Name: assets/release/plist/goblin_fighter.plist
+SHA1-Digest: nQea6E41wTtBltpgk20r/SXAgHM=
+
+Name: assets/release/gear/musketeer_108.png
+SHA1-Digest: SQu3s4Lmx9xDLx1r8XcaTyHil0g=
+
+Name: assets/sound_android/taunt.ogg
+SHA1-Digest: ehyGIcPpF3/Dc9bv2jNPUnCFHjU=
+
+Name: assets/release/gear/highpriest_107.png
+SHA1-Digest: YikSkMdmLS/PugKCTBOBGh9u8xo=
+
+Name: assets/release/gear/highpriest_112.png
+SHA1-Digest: Z9U51fclcNEJfTZCCJnJWYrlMs0=
+
+Name: assets/release/spell/god_of_war.png
+SHA1-Digest: oAzCkBk4qhrlPsgS+rCVM7Z2bUI=
+
+Name: assets/public/config/story/story4-4.xml
+SHA1-Digest: vpcdu/WM0tU2SeMmyBZezelYRlY=
+
+Name: assets/release/spine_json/polymorph.json
+SHA1-Digest: mE4gHS+pRwQEuZxr7ZesggzZm/c=
+
+Name: assets/release/spine_json/orc_bloodlust.json
+SHA1-Digest: IjG5sid8mqIrnMAVLKqDOzNbkJA=
+
+Name: assets/release/spine_json/arrowAttack_hit.json
+SHA1-Digest: x/zw1s8pnY0tju2up5EIwhebto8=
+
+Name: assets/release/plist/crow.png
+SHA1-Digest: MRapi2xmkOU9gW2SgsfCLC2EYGI=
+
+Name: assets/release/spine_json/charm_start.json
+SHA1-Digest: 3G/sTcCyGtKbX+JsWEJ5YaBcwnk=
+
+Name: assets/release/spine_json/champion.json
+SHA1-Digest: IrxfDQYOpn3oCcWbpqrmRk3DUPo=
+
+Name: assets/public/config/levels/mk6.xml
+SHA1-Digest: 41ldNBa7+2rzzoafKuGF2ET+rMM=
+
+Name: assets/release/plist/popupVideo.png
+SHA1-Digest: mhRTzF8tKk87bBEtbbUMzvpDfTA=
+
+Name: assets/release/map/scene_1_3.png
+SHA1-Digest: HfIvywkk/kPiFEJpTLW2n0lwJ2w=
+
+Name: assets/release/gear/wizard_104.png
+SHA1-Digest: J4wyL3Z7sGz11/ePRPmnnPhRmqg=
+
+Name: assets/release/gear/armorplate_114.png
+SHA1-Digest: OLF50Qzv9uuwczysyUZ3ZWCDbDw=
+
+Name: assets/public/config/levels/m61.xml
+SHA1-Digest: l7sQVtDDIf7iq5FyhmWFMPgFBXY=
+
+Name: assets/release/spine_json/armorPierce_up.json
+SHA1-Digest: MoGQh9qBdNPLQPQWsvMd3N2Z6P8=
+
+Name: assets/sound_android/angelSummoning.ogg
+SHA1-Digest: P5XGcwy+oiT4FFcxH2RM9cbJApY=
+
+Name: assets/release/plist/wizard.plist
+SHA1-Digest: ec6zY7GuW4CYTZSbP3UJnoM8oTY=
+
+Name: assets/release/spine_json/superiorSkillEffect.json
+SHA1-Digest: IT6ZAQdcLFImvRMYnbDzjHgam0s=
+
+Name: assets/sound_android/upgrade.ogg
+SHA1-Digest: Gcy9tXZfyFEgA5/8nGcGdgpfTGU=
+
+Name: assets/release/spell/group_heal.png
+SHA1-Digest: bpSByuGQ85G5ALVVcdOiQ5vh3fo=
+
+Name: assets/release/spell/spell_upgrade_shield_strike.png
+SHA1-Digest: Qnz0tcqi0onl59MNaj2dloYr7ME=
+
+Name: assets/release/spine_json/windwalker.json
+SHA1-Digest: HTS4XL6RtyDziwsHSPF0+cUZhNQ=
+
+Name: assets/release/map/story_map_1.png
+SHA1-Digest: aToDDwmBy/9t9hrBKIwnwIanPWk=
+
+Name: assets/release/spine_json/orc_healing.json
+SHA1-Digest: 4jm5lWpCa8ZaI9/6/lKJDNLNk+I=
+
+Name: res/drawable-xhdpi/powered_by_google_light.png
+SHA1-Digest: ifuYsSUtKEE3fE8arqsrUhUnR6o=
+
+Name: assets/release/gear/windwalker_100.png
+SHA1-Digest: eP/cJX1+ayC5OUJIQE47mmBcv8M=
+
+Name: assets/release/gear/bishop_116.png
+SHA1-Digest: yvdwenba7E65j6LBO9vo/jVEDx8=
+
+Name: assets/release/spine_json/chargeAttack.json
+SHA1-Digest: mvLPM4giyjHhQY4BpaYANkOw/rA=
+
+Name: assets/release/spine_json/auraOfTenacity_down.json
+SHA1-Digest: +j8c4r4RMlPS7C2jLEE4A4WN5Co=
+
+Name: assets/release/gear/beltplate_101.png
+SHA1-Digest: KvjZYwvy9TwqEYSg9ZhTUDPtXW0=
+
+Name: assets/release/gear/paladin_106.png
+SHA1-Digest: Lhwhg2raZtp+AhIEe66ePoGwHxg=
+
+Name: assets/release/plist/rogue.plist
+SHA1-Digest: 3qvbqi4wfLiVxzpq2+vKLh3lcQE=
+
+Name: res/drawable-hdpi/featured_frame_rate.png
+SHA1-Digest: NmMqgsgnNaYeGx2m95YAkWayPVs=
+
+Name: assets/release/spell/spell_upgrade_leverage.png
+SHA1-Digest: A+jhdRu6Kl0WtHOK8KMIgW0FVtE=
+
+Name: assets/release/plist/evil_sandworm.plist
+SHA1-Digest: zNkjqN0/mfYpjZw5UovTB6xQoPI=
+
+Name: assets/release/spell/spell_upgrade_senility.png
+SHA1-Digest: kilpzML4CKe35cgzJon08csoNTk=
+
+Name: assets/sound_android/attackByPunch1.ogg
+SHA1-Digest: 90wYVcjkN+ibZAHRwk4ffVF2sus=
+
+Name: assets/public/config/levels/5-10.xml
+SHA1-Digest: MM/4tTmpQYKpuXb1cWCDSjuLVTo=
+
+Name: assets/release/spine_json/hellfire_down.json
+SHA1-Digest: +c+AnSER+j9FNzsCUYe4D1hUi58=
+
+Name: res/layout/notification.xml
+SHA1-Digest: 3Vb7Z2leD8UKzHIaGKX5+8bjp9M=
+
+Name: res/drawable-hdpi/common_signin_btn_text_focus_dark.9.png
+SHA1-Digest: kFWepqZHCMDIpmtVPB+qS99Nb9U=
+
+Name: assets/release/spine_json/taunt.json
+SHA1-Digest: Z/tKb9TBhouUYNpCBiIygS7TSdY=
+
+Name: assets/release/gear/armorcloth_102.png
+SHA1-Digest: /6UXQanDDErbpn//roQ3vYy4ze4=
+
+Name: assets/release/spine_json/incendiary_continuous.json
+SHA1-Digest: EIT609xYBbU3pBXQOxfnWAiF1iY=
+
+Name: assets/public/config/levels/m24.xml
+SHA1-Digest: CCQdzlgh9ViIF4Mxo5OqkZ2R40Q=
+
+Name: res/color/wallet_primary_text_holo_light.xml
+SHA1-Digest: nQUHpS94uGJyvYUj+YbjfvRoWuM=
+
+Name: assets/release/spell/spell_upgrade_meteor_sting.png
+SHA1-Digest: inYUDLQKtY2psWiKM74sCf8aMms=
+
+Name: assets/release/plist/yangtuo.png
+SHA1-Digest: q7yRbEU1getndOBUDFHye/EI4ws=
+
+Name: assets/public/config/levels/endless-3.xml
+SHA1-Digest: Ti1c5t5N/Ot2UQKY6sbjZMqCSVo=
+
+Name: assets/release/map/story_map_2_3.png
+SHA1-Digest: ouqxeq4WkrwoAE5Z3EIx9dhA4Rw=
+
+Name: assets/release/plist/wolf.png
+SHA1-Digest: FCMWly4td/rilkjf1zOsiD7Lmy0=
+

@@ -1,0 +1,10 @@
+# Build & Tooling artifacts
+tools/
+kingdom-in-chaos-decompiled/build/
+kingdom-in-chaos-decompiled/dist/
+*.idsig
+*.keystore
+kingdom-in-chaos-*-fixed.apk
+kingdom-in-chaos-*-r*.apk
+__pycache__/
+.pytest_cache/
