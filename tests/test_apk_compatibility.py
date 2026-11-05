@@ -7,7 +7,7 @@ import zipfile
 REPO_ROOT = r"C:\Koding\rea\kingdom"
 DECOMPILED_DIR = os.path.join(REPO_ROOT, "kingdom-in-chaos-decompiled")
 TOOLS_DIR = os.path.join(REPO_ROOT, "tools")
-OUTPUT_APK = os.path.join(REPO_ROOT, "kingdom-in-chaos-1-0-5-r3.apk")
+OUTPUT_APK = os.path.join(REPO_ROOT, "kingdom-in-chaos-1-0-5-r4.apk")
 SDK_BUILD_TOOLS = r"C:\Users\Colorful\AppData\Local\Android\Sdk\build-tools\36.1.0"
 AAPT2_EXE = os.path.join(SDK_BUILD_TOOLS, "aapt2.exe")
 APKSIGNER_BAT = os.path.join(SDK_BUILD_TOOLS, "apksigner.bat")
@@ -361,6 +361,31 @@ class TestKingdomInChaosAndroid13Port(unittest.TestCase):
                     actual,
                     expected,
                     f"Texture/DHEncrypt patch mismatch at 0x{off:08X} in {abi}/libgame.so",
+                )
+
+    def test_fix16_unlimited_crystal_999999(self):
+        expected_patches = {
+            0x002DFA94: bytes.fromhex("25f08ebc"),
+            0x003053B2: bytes.fromhex("c046"),
+            0x003053B4: bytes.fromhex(
+                "142904d1"
+                "44f23f20"
+                "c0f20f00"
+                "7047"
+                "30b585b0"
+                "daf767bb"
+            ),
+        }
+        for abi in ["armeabi", "armeabi-v7a"]:
+            so_path = os.path.join(DECOMPILED_DIR, "lib", abi, "libgame.so")
+            with open(so_path, "rb") as f:
+                data = f.read()
+            for off, expected in expected_patches.items():
+                actual = data[off : off + len(expected)]
+                self.assertEqual(
+                    actual,
+                    expected,
+                    f"Crystal 999999 patch mismatch at 0x{off:08X} in {abi}/libgame.so",
                 )
 
 
