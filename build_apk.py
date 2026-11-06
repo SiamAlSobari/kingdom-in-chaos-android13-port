@@ -19,7 +19,7 @@ APKSIGNER_BAT = os.path.join(SDK_BUILD_TOOLS, "apksigner.bat")
 UNSIGNED_APK = os.path.join(TOOLS_DIR, "unsigned.apk")
 ALIGNED_APK = os.path.join(TOOLS_DIR, "aligned.apk")
 KEYSTORE_PATH = os.path.join(TOOLS_DIR, "release.keystore")
-OUTPUT_APK = os.path.join(REPO_ROOT, "kingdom-in-chaos-1-0-5-r4.apk")
+OUTPUT_APK = os.path.join(REPO_ROOT, "kingdom-in-chaos-1-0-5-r5.apk")
 
 
 def ensure_keystore():
@@ -191,16 +191,19 @@ def patch_native_libraries():
         # 8. CCTexture2D::hasPremultipliedAlpha null guard trampoline (Thumb)
         0x00484472: bytes.fromhex("5df6b5b900bf"),  # b.w #0x2e17e0; nop (trampoline branch)
         0x002E17E0: bytes.fromhex("002801d0383000787047"),  # cmp r0, #0; beq 0x2e17e8; adds r0, #0x38; ldrb r0, [r0]; bx lr
-        # 9. Unlimited crystal injection (999,999 crystals) via getGlobalInfo trampoline
+        # 9. Unlimited currency injection (999,999 Gold, Crystals, and Goblin Coins) via getGlobalInfo trampoline
         0x002DFA94: bytes.fromhex("25f08ebc"),  # b.w #0x3053b4 (trampoline branch)
         0x003053B2: bytes.fromhex("c046"),  # nop (halfword alignment)
         0x003053B4: bytes.fromhex(
-            "142904d1"  # cmp r1, #0x14; bne.n #0x3053c2
+            "0a1c"  # adds r2, r1, #0
+            "133a"  # subs r2, #0x13
+            "022a"  # cmp r2, #2 (matches 0x13=Gold, 0x14=Crystal, 0x15=Goblin Coin)
+            "04d8"  # bhi.n #0x3053c6
             "44f23f20"  # movw r0, #0x423f
             "c0f20f00"  # movt r0, #0xf (r0 = 999999)
             "7047"  # bx lr
             "30b585b0"  # push {r4, r5, lr}; sub sp, #0x14
-            "daf767bb"  # b.w #0x2dfa98
+            "daf765bb"  # b.w #0x2dfa98
         ),
     }
 

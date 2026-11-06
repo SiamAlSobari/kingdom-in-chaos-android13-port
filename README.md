@@ -6,7 +6,7 @@ The game originally crashes immediately on Android 6.0 and newer versions due to
 
 ---
 
-## Summary of Applied Fixes (r4 Release)
+## Summary of Applied Fixes (r5 Release)
 
 The patches below resolve crash causes, obsolete APIs, and offline gameplay issues:
 
@@ -27,7 +27,7 @@ The patches below resolve crash causes, obsolete APIs, and offline gameplay issu
 | **Fix 13** | Device Identifier Stubs | Stubbed `AndroidUtil.getWIFI`, `getIMEI`, and `getIMSI` to return dummy values, preventing `NullPointerException` and Android 10+ `SecurityException` crashes. |
 | **Fix 14** | Preload Layer and Helper Initialization | Moved `Cocos2dxHelper.init` before GLSurfaceView initialization in `Cocos2dxActivity.smali` so APK asset paths configure before rendering starts. Guarded `PreloadLayer::init` (`0x00271546` and `0x0027173E`) against null sprite pointers. |
 | **Fix 15** | Asset Decryption and Texture Guard | Initialized `DHEncrypt::_key` with the 32-character XXTEA key (`e3642530816912682978ad8c491ccbe7`) at startup (`0x0047B4FC`), bypassed broken dynamic key generation in `AndroidUtil::init` (`0x003D8F66`), and routed `CCTexture2D::hasPremultipliedAlpha` (`0x00484472` -> `0x002E17E0`) through a null guard to prevent crashes when loading decrypted textures. |
-| **Fix 16** | Unlimited Crystal Injection | Routed `UserDataManager::getGlobalInfo` at `0x002DFA94` through a trampoline at `0x003053B4` to set crystals to 999,999 on load, UI update, and purchase checks while preserving standard global info logic for all other data types. |
+| **Fix 16** | Unlimited Currencies Injection | Routed `UserDataManager::getGlobalInfo` at `0x002DFA94` through a trampoline at `0x003053B4` to set Gold (`0x13`), Crystals (`0x14`), and Goblin Coins (`0x15`) to 999,999 on load, UI update, and purchase checks while preserving standard global info logic for all other data types. |
 
 ---
 
@@ -36,7 +36,7 @@ The patches below resolve crash causes, obsolete APIs, and offline gameplay issu
 ```
 ├── build_apk.py                     # Build, patch, align, and signing script
 ├── kingdom-in-chaos-1-0-5.apk       # Original APK baseline
-├── kingdom-in-chaos-1-0-5-r4.apk    # Built and signed modern compatible APK (r4 release)
+├── kingdom-in-chaos-1-0-5-r5.apk    # Built and signed modern compatible APK (r5 release)
 ├── kingdom-in-chaos-decompiled/     # Decompiled Smali, assets, native libs, AndroidManifest.xml
 │   ├── lib/
 │   │   ├── armeabi/                 # Patched native libraries (libgame.so)
@@ -67,4 +67,4 @@ Rebuild, align, and sign the APK from source:
 python build_apk.py
 ```
 
-Output: `kingdom-in-chaos-1-0-5-r4.apk` (aligned and signed with v1, v2, and v3 schemes).
+Output: `kingdom-in-chaos-1-0-5-r5.apk` (aligned and signed with v1, v2, and v3 schemes).
